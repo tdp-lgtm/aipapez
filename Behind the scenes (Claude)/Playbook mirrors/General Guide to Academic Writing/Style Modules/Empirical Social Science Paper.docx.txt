@@ -1,0 +1,27 @@
+ Empirical Social Science Paper — Style Module
+ Quantitative or mixed-methods empirical article (economics, psychology, political science, sociology, management, …). v1.0 — Shareable Edition. STARTER MODULE — empirical venues vary widely; confirm every default against the target venue at setup.
+ This is the PER-TYPE layer. The root 'Writing Guide — House Style' is the shared core and applies IN FULL to every type (strong direct arguments; no editorializing; no verbal disputes; one move per sentence; cut filler; each argument in exactly one place). This module only adds what is specific to this paper type: length, citation/footnote practice, structure, and register. Defaults below are starting points — confirm them against the author's real venues at setup.
+[Heading 1] How the Pipeline adapts for empirical work
+[List Bullet] The results are the paper's spine. Stage 3's layered outline is organized around the ANALYSES: which tables and figures will exist, what each shows, and what claim each supports — one outline bullet per planned result, with its (verify) tag. The 'arguments' of the argumentative default become the paper's claims-from-evidence.
+[List Bullet] The agent drafts around the author's results; it never invents them. Numbers, tables, and figures come from the author's analysis outputs, loaded like Background Readings. Every number in the prose carries a (verify) tag until checked against the source output.
+[List Bullet] The Literature Map doubles as the positioning for the contribution statement: what is known, what this design adds, which prior estimates this one speaks to.
+[Heading 1] Target length
+[List Bullet] Default ~8,000–12,000 words plus tables/figures and appendices — but venue norms differ by an order of magnitude across fields (an economics job-market paper is not a psychology brief report). Set the target from the venue at Intake.
+[Heading 1] Citations & footnotes
+[List Bullet] Per the venue: author-date (APA/Chicago-style) in most social sciences; numbered in some. Footnotes sparse; methods details go to the appendix or supplement, not to footnotes.
+[Heading 1] Structure conventions
+[List Bullet] The standard arc: Introduction (motivation, question, preview of findings and contribution) → Literature/Background → Data & Methods → Results → Discussion (interpretation, limitations, implications) → Conclusion. Field variants exist (economics folds literature into the intro; psychology may run multiple studies each with methods/results) — follow the venue's exemplars.
+[List Bullet] The introduction states the finding, not just the question — the reader should know the headline result and the contribution by the end of page one.
+[List Bullet] Methods written for reproducibility: design, sample, measures, estimation strategy, pre-registration status, data availability — at the venue's customary depth.
+[List Bullet] Results follow the analysis plan; every claim in the text matches its table or figure exactly. Limitations stated plainly in the Discussion, where they arise — not as apology.
+[Heading 1] Register & voice (on top of the Writing Guide)
+[List Bullet] Precise and unadorned; no drama adjectives around effect sizes; hedges are statistical, not rhetorical (confidence and uncertainty stated once, in the accepted vocabulary).
+[List Bullet] Tense conventions per field (commonly: past tense for what was done and found; present for what the results show/mean). Confirm against the venue's exemplars and the author's own papers.
+[Heading 1] Model prose
+[List Bullet] The author's own empirical papers (chosen at setup); supplement with 1–2 well-regarded recent articles in the target venue as structure models.
+[Heading 1] Referee lenses (Stage 8 — spawned BLIND)
+[List Bullet] The fixed trio: one METHODS/STATISTICS reader (design validity, estimation, inference, robustness), one SUBSTANTIVE-FIELD expert (does this speak to the literature; are the mechanisms plausible), one venue GENERALIST (contribution and clarity).
+[Heading 1] Special passes / notes
+[List Bullet] Numbers-consistency pass (Stage 10, before the citation audit): every statistic in the text, abstract, and tables agrees; N's add up; percentages match counts; the abstract's numbers appear in the body. This is the empirical sibling of the cross-reference check.
+[List Bullet] Verify the required statements exist per venue: data availability, pre-registration, ethics/IRB, conflicts, funding.
+[List Bullet] The citation-auditor also checks that empirical claims about PRIOR work state the right direction and magnitude — misquoted effect sizes are this genre's fabricated pinpoint.

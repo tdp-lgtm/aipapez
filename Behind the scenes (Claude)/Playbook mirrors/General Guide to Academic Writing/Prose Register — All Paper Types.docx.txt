@@ -1,0 +1,54 @@
+ Prose Register — All Paper Types
+ The register layer for EVERY paper the agent drafts, whatever the field. v1.0 — Shareable Edition. Distilled from a heavily-commented author correction round on the original agent's first trial paper (38 register comments on one gate), then confirmed general across types.
+[Heading 1] Where this sits, and when to read it
+ The root 'Writing Guide — House Style' is house law (argument discipline, no editorializing, no verbal disputes, sentence hygiene). This guide adds the register layer beneath it: how sentences and paragraphs should sound, whatever the paper type. The paper type's Style Module then adds its own conventions on top, and the Voice Profile calibrates everything to THIS author. Read this guide before drafting Stage-4 prose and again before any register pass. Two tests govern every sentence:
+[List Bullet] Would the author write this sentence? Calibrate on the model-prose paper chosen at Setup and on the Voice Profile. Read the model paper for sentence shapes before drafting — never for content.
+[List Bullet] Does the reader already have everything needed to parse it? If a term, case, device, or allusion appears before it has been introduced, the sentence is broken no matter how good it is.
+[Heading 1] 1. The target register
+ The default target — confirmed by working authors across fields — is simple, clear, even boring academic prose: invisible prose, where the reader notices the argument and never the writing.
+[List Bullet] Plain declarative sentences. One point per sentence. Short sentences dominate; a longer one is fine when its spine stays simple.
+[List Bullet] The whole transition kit: 'First / Second / Third', 'But', 'So', 'Yet', 'Now', 'Consider', 'Take X first', 'Why? Because…', and an occasional question as a pivot. Nothing fancier.
+[List Bullet] Plain verbs of assertion: says, holds, argues, requires, forbids, implies, shows. If a verb is doing style work ('the theory goes quiet'), replace it.
+[List Bullet] No rhetorical fragments. No drama adjectives ('extraordinary', 'striking', 'remarkable') — authors strike them on sight.
+[List Bullet] If a sentence would sound clever read aloud, flatten it. Wit lives in the examples, never in the diction.
+[Heading 1] 2. Explain before use
+ The single largest source of author register comments on real runs ('premature — you haven't explained what X is'; an allusion 'is not contributing').
+[List Bullet] Nothing appears in an argument before the reader has it: no term, formal device, named case, doctrine, or literature allusion is used first and explained later.
+[List Bullet] Assume a smart reader with zero background in any imported apparatus — game theory in a philosophy paper, economics in a law review, doctrine in a policy piece, statistics beyond the venue's norm in an empirical paper. Define it from scratch, in the body, in a sentence or two.
+[List Bullet] An allusion the reader may not share is either developed properly or cut. There is no middle setting where a knowing reference does the work.
+[List Bullet] Machinery is introduced at the point of use, not previewed. Roadmaps name what each section shows, not the tools it will use.
+[Heading 1] 3. No metaphors doing argument work
+ A metaphor may restate a point the prose has already made plainly; it may never carry the point. The test: delete the metaphor. If the argument loses a step, that step was never argued — write it as a mechanism, in plain words, and only then decide whether any image is still worth having (it usually is not).
+[Heading 1] 4. Referents and coinages
+[List Bullet] Repeat the plain noun. 'The proportionality condition' is 'the proportionality condition' every time — never 'the test', 'this instrument', 'that machinery'. Elegant variation makes the reader re-derive reference.
+[List Bullet] Coin a term only when it is defined at first use, reused throughout, and load-bearing. A label that the next sentence does not cash out, or that the paper never leans on again, becomes a plain description.
+[List Bullet] One name per thing, one thing per name, for the whole paper.
+[Heading 1] 5. Structure: roadmaps and limits
+[List Bullet] Roadmap: one plain sentence per section. No tool preview, no promises of significance.
+[List Bullet] No up-front limits paragraph. Concessions and scope restrictions appear where they arise, stated once, without apology.
+[Heading 1] 6. The body and the notes
+ The body carries only what the argument needs. Demote to the paper's aside apparatus (footnotes, endnotes, or parentheticals — the type's Style Module governs the vehicle): terminology and priority credits, technical refinements the argument survives without, secondary qualifications. And if a precision does no work even there — an exact fraction nobody uses — cut it entirely.
+[Heading 1] 7. Quoting the opposition
+[List Bullet] State the views you target in their authors' own words, with pinpoints — short verbatim quotes where the target is stated, so the disagreement is on the surface, not asserted.
+[List Bullet] Quotes are for opponents and evidence; paraphrase is for your own moves.
+[List Bullet] Every quote comes from the sources on disk, verified at write time — never from memory (house law; the citation-auditor checks).
+[Heading 1] 8. Concrete before abstract
+ Open the paper with a real case told plainly — dates, places, named people, real numbers — before any theory appears. Prefer the same order inside sections: example, then machinery.
+[Heading 1] Before and after — real edits from a trial run
+ All pairs are verbatim from a rejected Draft v1.0 and the approved Draft v1.2 of the original agent's first trial paper (a philosophy paper). Every pair illustrates a general rule.
+
+--- TABLE 1 (6 rows x 3 cols) ---
+Draft v1.0 (rejected at the author gate) | Draft v1.2 (approved register) | The rule
+'Honesty about what the tournaments do not show.' | 'The tournament results have limits, and I want to state them plainly.' | No rhetorical fragments. Announce a turn in a full plain sentence.
+'The unsophisticated reciprocator's response runs through the past, and the past cannot be jammed.' | 'The unsophisticated reciprocator acts on the fact of the provocation, and the aggressor cannot change that fact.' | No metaphors doing argument work. Delete the image; say the mechanism.
+'…under the orthodox tests, the switch that turns the victim's response on and off sits in the aggressor's hands, because the aggressor controls the signals the forecast runs on; under the reciprocity norm, the switch sits in the provocation itself, and nothing the aggressor says can reach it.' | 'Under the standard theory, A's own signals turn B's response off. Under the reciprocity norm, nothing A says can do that.' | Two short plain sentences beat one clever one. Unpack compressed contrasts.
+'The distinction sounds small. The next three cases show that it is the whole game — and they share a shape worth naming in advance.' | 'The difference looks small. It is not, because it determines who controls the defender's response. … Three cases develop this difference.' | No drama ('the whole game'), no forecasting flourishes. Say why it matters, then move.
+'In Axelrod's two computer tournaments, game theorists submitted strategies for the iterated prisoner's dilemma and the strategies played round-robin.' | 'The prisoner's dilemma is the standard model of a situation in which each party does better by defecting whatever the other does, yet both do worse under mutual defection than under mutual cooperation. In the iterated version, the same two parties play repeatedly…' | Explain before use. Imported formalism is defined from zero, in the body, before it appears in an argument.
+--- end table ---
+
+[Heading 1] Document appearance (author-facing paper drafts)
+ Default appearance for paper drafts the author reads (confirm or adjust at setup; the Context doc records deviations): Arial, black text ONLY — no accent colors, which read as an AI tell — no horizontal rules under headings, no page header, page numbers in the footer, REAL Word footnotes (not inline boxes), an abstract under the title once one exists, and no build/version log inside the document (provenance lives in the Change Log). Build with gen_paper_docx.py (agent Build scripts), which implements all of this including a proper footnotes part; author-facing WORKING docs (checklists, logs, memos) may keep the gen_docx house style.
+[Heading 1] Running a register pass
+ When a draft needs the register applied (or a gate returns prose comments): first re-read the model-prose paper for voice; then go paragraph by paragraph and sentence by sentence, asking of each sentence the two tests at the top of this guide; apply the author's comments verbatim where given, and apply the same corrections proactively to sections the author has not read — so the author never has to make the same comment twice. A good register pass usually shortens the flashy sentences and lengthens the technical ones — cleverness compresses, explanation expands.
+ Quick checklist before returning a draft: no sentence the reader lacks the pieces to parse; no metaphor carrying an argument; no fragment, no drama adjective, no elegant variation; roadmap one sentence per section; limits where they arise; asides demoted; opposition quoted verbatim; concrete before abstract; and the whole thing sounds like the model-prose paper, not like an essay that wants to be admired. Then check the paper type's Style Module for its own register additions.
+[List Bullet] Dash discipline (default). Chained dashes are a leading AI tell, and several working authors ban prose dashes outright. The shipped default: in the Style & Voice stage, remove dash-chains and dash asides that don't earn their place — use a colon, a comma, parentheses, or a new sentence instead. (Hyphenated compound words and page-range hyphens are not dashes and stay.) Record THIS author's dash policy in the Voice Profile at setup and follow it.

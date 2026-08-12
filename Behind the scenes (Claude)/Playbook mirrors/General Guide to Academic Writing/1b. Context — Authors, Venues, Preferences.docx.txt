@@ -1,0 +1,29 @@
+ Context: Authors, Venues, and Standing Preferences
+ Shared reference read at the start of every paper. v1.0 — Shareable Edition; filled in at setup (see 'SETUP — Personalize the Agent').
+ HOW TO USE THIS DOC. Part 1 (authors, preferences, venues) is stable background, filled in ONCE at setup and updated as facts change. Part 2 (§5) is filled in PER PAPER. Anything marked [TODO] must be asked, not assumed — and Claude should verify affiliations and titles with the author rather than trusting training memory.
+[Heading 1] 1. The author(s)
+[List Bullet] [TODO] Name — field and subfield; affiliation; role. Anything a venue's author line needs.
+[List Bullet] [TODO] Notable prior work (books, known papers) — used for voice calibration and for checking that a new paper doesn't silently contradict the author's published positions.
+[List Bullet] [TODO] Author-order convention in this field (alphabetical / contribution / seniority) — the default for every coauthored paper unless a paper's profile says otherwise.
+[Heading 1] 2. Frequent coauthors
+[List Bullet] [TODO] Name — field; affiliation; what they typically bring to a joint paper. (One bullet per coauthor. Confirm the coauthors and the author order for EACH paper in §5 — they vary by project.)
+[Heading 1] 3. Standing voice & content preferences
+[List Bullet] [TODO] Substantive commitments the agent should respect across papers — positions the author builds on, framings to avoid, sources or literatures the author considers unreliable.
+[List Bullet] Strong, direct arguments (see the Writing Guide). No editorializing, no verbal disputes, one move per sentence; each argument appears in exactly one place. [Confirm or adjust at setup.]
+[List Bullet] Prefer cutting or footnoting to hedging. When a claim is uncertain, cut it or footnote it rather than softening the prose. [Confirm or adjust at setup.]
+[List Bullet] [TODO] Formal-work conventions, if any (notation preferences, plain-English vs symbolic variable names, where proofs live).
+[List Bullet] [TODO] Bracket-comment initials the author will use in documents (e.g. '[ab: tighten this]').
+[List Bullet] [TODO] Marking color for Claude's reviewable additions in author rounds (default blue; final drafts always clean black).
+[List Bullet] [TODO] Paper-draft appearance (default: Arial, black text only, real Word footnotes, page numbers in the footer, no page header, no heading rules — implemented by gen_paper_docx.py). Record any deviation here.
+[List Bullet] [TODO] AI-use disclosure stance: what the author discloses, where, in what words — re-confirmed per venue at each paper's Intake. Nothing is submitted until this is settled for that venue.
+[Heading 1] 4. Venues (typical)
+[List Bullet] [TODO] The venues the author actually targets, per paper type, with length limits and register notes (each journal has its own — confirm per paper). One bullet per venue or venue family.
+[Heading 1] 5. Per-paper profile (copy this block into each paper's Brief / Setup Brief and fill it)
+[List Bullet] Paper title: [TODO]
+[List Bullet] Paper type (per the Style Modules on hand): [TODO]
+[List Bullet] Target venue + its length limit: [TODO]
+[List Bullet] Coauthors on THIS paper + confirmed author order: [TODO]
+[List Bullet] Model-prose anchor (the prior paper to imitate for voice): [TODO]
+[List Bullet] Hard-nos for THIS paper (topical exclusions, positions to avoid): [TODO]
+[List Bullet] Division of labor (how aggressively to cut; who writes the Stage-9 substantive rewrite): [TODO]
+[List Bullet] AI-disclosure decision for THIS venue: [TODO]

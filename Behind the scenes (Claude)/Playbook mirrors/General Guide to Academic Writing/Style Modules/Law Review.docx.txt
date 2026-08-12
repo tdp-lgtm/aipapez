@@ -1,0 +1,26 @@
+ Law Review — Style Module
+ Student-edited law-review article. v1.0 — Shareable Edition.
+ This is the PER-TYPE layer. The root 'Writing Guide — House Style' is the shared core and applies IN FULL to every type (strong direct arguments; no editorializing; no verbal disputes; one move per sentence; cut filler; each argument in exactly one place). This module only adds what is specific to this paper type: length, citation/footnote practice, structure, and register. Defaults below are starting points — confirm them against the author's real venues at setup.
+[Heading 1] Target length
+[List Bullet] Default ~25,000 words INCLUDING footnotes (full articles often run 25,000–35,000; the footnotes are a large fraction of the total). Confirm the target review's preferred length in the Setup Contract.
+[List Bullet] A practical band from real runs: ~20,000 words including footnotes is the SUBMISSION FLOOR for top general law reviews; ~23,000–25,000 is the OPTIMUM. Drafting targets aim inside the band, not at the floor.
+[List Bullet] Length is real here, but it still follows from the argument and the apparatus — build the fat outline and let the footnotes carry weight; do not pad the body.
+[Heading 1] Citations & footnotes
+[List Bullet] Bluebook footnotes — the defining feature. Nearly every sentence/proposition carries a footnote; string citations with signals (see, see also, cf., but see); short forms (id., supra, infra); pincites throughout.
+[List Bullet] Substantive footnotes are common and can be long (qualifications, counterarguments, parallel authority).
+[List Bullet] Draft with placeholder cites and (verify) tags; a heavy end-stage footnote-build pass (Stage 10) turns placeholders into full Bluebook footnotes. No in-text author-date.
+[List Bullet] The first footnote conventionally carries the author line/acknowledgments; the thesis is often previewed there too.
+[Heading 1] Structure conventions
+[List Bullet] Introduction that does heavy lifting: states the problem, the contribution/novelty, and an explicit ROADMAP of the Parts.
+[List Bullet] Roman-numeral Parts (I, II, III …), sections (A, B, C), subsections (1, 2, 3), sub-subsections (a, b, c). Typically a descriptive Part (the problem / the doctrine) before the normative Part (the proposal).
+[List Bullet] Conclusion. Named-argument labels reused across intro, Part headings, and conclusion.
+[Heading 1] Register & voice (on top of the Writing Guide)
+[List Bullet] Law-review register: exposition-heavy and heavily sign-posted; authority-driven (the footnotes carry the proof); accessible to a generalist legal reader; the contribution stated explicitly.
+[List Bullet] The Writing Guide still governs the prose — direct arguments, no editorializing — but expect more scaffolding and roadmapping than a philosophy paper.
+[Heading 1] Model prose
+[List Bullet] A prior law-review article by the author (or, if none exists, a well-placed recent article in the target review, marked as a register model). Put it in Model Prose/ and read for structure (Parts, roadmap, footnote density) and voice.
+[Heading 1] Referee lenses (Stage 8 — spawned BLIND)
+[List Bullet] The fixed trio: one DOCTRINAL reader, one THEORY/NORMATIVE reader, one PRACTICAL/INSTITUTIONAL reader. Student-edited selection also rewards a crisp novelty claim — the case-for-acceptance reader doubles as the articles-editor check.
+[Heading 1] Special passes / notes
+[List Bullet] The footnote-build pass is the biggest type-specific effort — budget for it; the citation-auditor verifies pincites against real sources.
+[List Bullet] Student-edited: claims of novelty and a crisp contribution statement matter; the referee panel should include a doctrinal reader.

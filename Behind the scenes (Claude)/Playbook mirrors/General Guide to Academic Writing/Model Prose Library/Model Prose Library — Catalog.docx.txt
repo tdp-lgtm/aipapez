@@ -1,0 +1,18 @@
+ Model Prose Library — Catalog
+ Full-text examples of the AUTHOR's own prose, for Claude to match in voice, density, and structure. TEMPLATE — populated at setup (see 'SETUP — Personalize the Agent', Step 3).
+ STATUS: EMPTY — no examples yet. Claude: populate this library at setup before drafting any paper. This catalog is the index; the PDFs (and extracted-text .txt files) beside it are the prose. Read the actual example(s) closest to the paper's type and target venue IN FULL before Stage-4 drafting — they set the register far better than any rule.
+[Heading 1] How to populate (and grow) the library
+[List Bullet] At setup: 3–6 of the author's best or most representative papers, ideally spanning the types they write. Published versions preferred. For each: the PDF, a ' — extracted text.txt' extraction beside it, and a catalog row below.
+[List Bullet] The row's load-bearing column is WHAT TO IMITATE — named precisely (the argument shape, the way formalism is introduced, the objection-handling, the opening move), never just 'good prose'. Write it after actually analyzing the paper (setup Step 4).
+[List Bullet] Growing collection: add every new example the author likes — including, over time, papers the agent helped write once the author judges them representative. Keep coverage by type in the closing paragraph current.
+[List Bullet] Early-career authors with few papers: use what exists, and add 1–2 admired papers by OTHERS in the field as register models — mark them clearly as register models (structure, conventions), with the author's own prose remaining the voice authority.
+[List Bullet] The per-paper Model Prose/ folder still holds the single closest anchor for each paper; this shared library is the cross-paper collection referenced from CLAUDE.md and each Style Module.
+[Heading 1] Catalog
+
+--- TABLE 1 (3 rows x 3 cols) ---
+Example (file in this folder) | Type · length · venue | What to imitate in it
+[TODO — e.g. Author — 'Title' ('file.pdf')] | [TODO — e.g. journal article; ~8,000 words; Venue] | [TODO — the precise things this paper exemplifies: its opening move, its argument-naming, how it introduces machinery, its objection handling…]
+[TODO] | [TODO] | [TODO]
+--- end table ---
+
+ Coverage by type: [TODO — one line mapping each paper type the author writes to its closest example, so the Stage-0 'model-prose anchor' question has a default answer.]

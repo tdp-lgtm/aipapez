@@ -1,0 +1,25 @@
+ Cambridge Element — Style Module
+ Short monograph (Cambridge Elements series or similar) or book chapter. v1.0 — Shareable Edition.
+ This is the PER-TYPE layer. The root 'Writing Guide — House Style' is the shared core and applies IN FULL to every type (strong direct arguments; no editorializing; no verbal disputes; one move per sentence; cut filler; each argument in exactly one place). This module only adds what is specific to this paper type: length, citation/footnote practice, structure, and register. Defaults below are starting points — confirm them against the author's real venues at setup.
+[Heading 1] Target length
+[List Bullet] Default ~30,000 words (Elements run ~20,000–35,000). Set the exact target in the Setup Contract; the press gives a word ceiling per series — treat it as a hard cap.
+[List Bullet] It is a short MONOGRAPH — longer and more self-contained than a journal article, shorter than a book. Budget several substantive sections plus a real introduction and conclusion.
+[Heading 1] Citations & footnotes
+[List Bullet] Author-date in-text ('Smith 2024', 'Smith 2024, 145') with a reference list at the end.
+[List Bullet] Footnotes are substantive, used moderately — genuine asides, qualifications, and pointers — not a citation apparatus (citations go in-text).
+[List Bullet] Drafting placeholders '(Author Year)' resolve in the Stage-10 citation audit against the real sources.
+[Heading 1] Structure conventions
+[List Bullet] A motivating Introduction that frames the whole topic for an interested but non-specialist reader, states the thesis up front, and roadmaps the sections.
+[List Bullet] Several substantive sections/chapters, each opening with its numbered arguments listed at the top (e.g., 'three economic arguments'); each argument then develops in its own subsection with a clean topic sentence, sustained development, and concrete examples.
+[List Bullet] Numbered sub-arguments within subsections; named-argument labels reused across the whole Element.
+[List Bullet] A forward-looking Conclusion (not a recap). Optional brief 'state of the field' early, since readers may be newcomers to the topic.
+[Heading 1] Register & voice (on top of the Writing Guide)
+[List Bullet] Monograph register: accessible and pedagogically clear; define terms; assume an interested reader, not a sub-field specialist. Still fully argument-driven — the Writing Guide's directness applies.
+[List Bullet] Broader framing than a single journal article: the Element makes a sustained case across chapters, so motivate the topic and connect the chapters, without re-arguing a point made elsewhere (cross-reference instead).
+[List Bullet] Short emphatic sentences mixed with longer accumulating ones; specific figures, named actors, dated events embedded inline.
+[Heading 1] Model prose
+[List Bullet] The author's own long-form work where it exists (chosen at setup); otherwise an admired Element in the target series, read for STYLE and chapter architecture, not content.
+[Heading 1] Referee lenses (Stage 8 — spawned BLIND)
+[List Bullet] Elements are peer-reviewed — the trio should include a generalist in the series' field, a sub-field specialist, and one adjacent-field reader for the chapters that import machinery.
+[Heading 1] Special passes / notes
+[List Bullet] Chapters can stand somewhat alone; ensure the named-argument labels and cross-references are consistent across the whole work in the Stage-10 integration pass.

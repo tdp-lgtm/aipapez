@@ -1,0 +1,18 @@
+ [New paper type] — Style Module
+ Copy this file, rename it to the type, and fill every section. v1.0 — Shareable Edition.
+ This is the PER-TYPE layer. The root 'Writing Guide — House Style' is the shared core and applies IN FULL to every type (strong direct arguments; no editorializing; no verbal disputes; one move per sentence; cut filler; each argument in exactly one place). This module only adds what is specific to this paper type: length, citation/footnote practice, structure, and register. Defaults below are starting points — confirm them against the author's real venues at setup.
+ After writing the module: (1) add the type to TYPE_PRESETS in new_paper.py (default length + one-line posture) so the scaffolder recognizes it; (2) if the field has distinctive register conventions beyond mechanics, write a field-register companion too (see 'Analytic Philosophy Prose — Style Guide' for the shape) and name it from this module. Examples already built: Philosophy Paper, Law Review, Cambridge Element, Empirical Social Science Paper.
+[Heading 1] Target length
+[List Bullet] [Default word count + range; where the venue sets a hard cap; abstract length.]
+[Heading 1] Citations & footnotes
+[List Bullet] [In-text author-date vs footnotes vs numbered? Reference list? Footnote role — substantive vs citation apparatus? How placeholders resolve.]
+[Heading 1] Structure conventions
+[List Bullet] [Section numbering scheme; intro/roadmap expectations; objection or limitations placement; standard parts; what is the paper's spine.]
+[Heading 1] Register & voice (on top of the Writing Guide)
+[List Bullet] [What this type adds to the shared house style — formality, scaffolding, audience assumptions, tense/person conventions.]
+[Heading 1] Model prose
+[List Bullet] [The author's prior paper(s) to imitate for voice — put the chosen one in the paper's Model Prose/ folder; name the Library's closest example.]
+[Heading 1] Referee lenses (Stage 8 — spawned BLIND)
+[List Bullet] [The fixed trio of reading lenses for this type — e.g. one hostile specialist, one venue generalist, one methods/foundations reader.]
+[Heading 1] Special passes / notes
+[List Bullet] [Any type-specific pass — e.g., a heavy apparatus build, a numbers-consistency check, a build-format step.]

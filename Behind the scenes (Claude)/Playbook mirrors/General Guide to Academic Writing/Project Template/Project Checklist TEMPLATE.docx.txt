@@ -1,0 +1,72 @@
+ [Paper Title] — Project Checklist (TEMPLATE)
+ Accountability record per the Pipeline — Deep Drafter
+ Paper type: philosophy  •  default length ~8,000 words  •  Author-date in-text + reference list; footnotes sparingly; 5-7 numbered sections; argument-directive journal register.
+ Created FIRST, at project setup, and worked top-to-bottom. The mechanisms that keep this honest: (1) An INDEPENDENT AUDITOR gates the RESERVED stages — the early stages, the first full draft, every author round, and the Final check. Its SOLE job is to verify — against the actual files, not the drafting agent's claims — that the work a row claims as done was genuinely done; it keeps the other agents from recording steps as done without doing them. It does NOT judge quality. You may NOT advance past a reserved gate until the auditor returns APPROVE; paste its verdict in the gate row. On the agent's own incremental revisions (quality passes; Style & Voice rounds) a deterministic SELF-CHECK on the Change Log — isolation diff + verify scripts — stands in for it. (2) Quality is enforced by SEPARATE specialist agents — the multi-persona REFEREE panel (simulated peer review; consensus of >=2 referees implemented, iterate to a fixed point), the CITATION-AUDITOR (no fabricated citations; every pinpoint verified against the real source), and the COPY-CRITIC (mistakes, consistency, anti-LLM tics). (3) NEVER pre-fill the checklist. A row stays blank until its step is genuinely done; then its Evidence cell is written FROM the finished artifact (a version+section, a named artifact, a measured count, a quoted line) — never an adjective, never restating the step, never ahead of the work. (4) The OUTLINE is layered and gated (3A Skeleton -> 3B Argument -> 3C Paragraph 'fat outline'); the paragraph outline is the DRAFTING CONTRACT — no prose until it is signed off. Build a FAT outline (~30-40% of final length) so structure is settled before prose, where it costs ~10x more to change. (5) DRAFTING is mechanical (bullets->paragraphs, no quality work) THEN separate quality passes that improve in BOTH directions — remove what is bad, add what is good (explanation, examples, new arguments, surfaced in the changelog); length is an outcome, never a per-pass constraint. Argument quality comes first; the target length is one LIGHT pass near the end. (6) The AUTHOR's edits set DIRECTION — later versions may improve author-touched text further, but may NEVER revert, in substance or wording, to a formulation the author overruled; surface improvements to author-touched text in the changelog; diff before saving; a returned '- author edits' file is intentional. Lens keys — A=Argument, E=Engagement(literature), S=Style(Writing Guide), I=Integrity(citations/cross-refs/claims-match-body). Human sign-offs: the Argument Sketch at Setup, then Plan [GATE 1], Paragraph Outline [GATE 2], and the author's read of the VOICED draft [GATE 3] — after the Quality and Style & Voice passes; the author never reads unvoiced prose — plus the author-owned Finish gate; all unless the author says 'run straight through'. Outcome vocabulary: Done | No-change (checked) | Deferred (why+owner) | APPROVE / REVISE (auditor gates) | SIGN-OFF / CHANGES-REQUESTED (human gates) | —.
+
+--- TABLE 1 (64 rows x 3 cols) ---
+Step / review lens | Outcome | Evidence / auditor verdict (from the finished artifact; NEVER pre-filled)
+Setup — standard project folder structure created |  | 
+Setup — Project Checklist created FIRST; project driven from it |  | 
+Setup — running Progress Log started |  | 
+Setup — Setup Contract captured (paper TYPE; target venue; target length; division of labor — how aggressively to cut, who does the substantive rewrite; the model-prose anchor) |  | 
+Setup — read the core Writing Guide + the paper-type Style Module + the Context doc |  | 
+Setup — author's 1-page project description loaded to Brief/ (thesis; central arguments; target journal; word budget; 3-5 key sources) |  | 
+Setup — Background Readings (real PDFs of the core interlocutors) loaded & converted; Model Prose loaded |  | 
+AUDITOR GATE — Setup (auditor confirms setup genuinely complete before Lit Review) |  | 
+1. Lit Review — literature actively searched out (WebSearch/scholarly): a relevance-ranked reading list of the key books & papers built; the most relevant read; inaccessible sources flagged for the author to supply (never fabricated or silently skipped) |  | 
+1. Lit Review — every Background Reading read; per-source notes produced |  | 
+1. Lit Review — authors' OWN prior work checked for positions that conflict with this paper's thesis |  | 
+1. Lit Review — Literature Map produced (the critical/constructive landscape; who holds which live position; the OPEN NICHE this paper fills; interlocutors to engage; candidate referees) |  | 
+1. Lit Review — lenses E/I applied (each: a logged change OR checked-no-change) |  | 
+AUDITOR GATE — Lit Review |  | 
+2. Plan — thesis in its sharpest form; the analytic MOVE that makes it work spelled out; why this is the sharpest line, not just a line |  | 
+2. Plan — section-by-section structure with word budgets (scaled to target length); dialectical structure decided (objections interleaved vs dedicated section vs both); named-argument vocabulary; planned formal apparatus |  | 
+2. Plan — lenses A/E/S/I applied (each logged) |  | 
+AUDITOR GATE — Plan |  | 
+HUMAN SIGN-OFF — Plan [GATE 1] (author confirms thesis/angle/structure before any outline detail; skipped on 'run straight through') |  | 
+3A. Skeleton outline — top-level parts/chapters, what each covers, in order |  | 
+3A — lenses A/E applied (each logged) |  | 
+AUDITOR GATE — 3A Skeleton |  | 
+3B. Argument outline — premise-by-premise; 3-5 sub-arguments per subsection; intended example/evidence per bullet; objections placed; sources attached; cross-refs flagged |  | 
+3B — lenses A/E/S/I applied (each logged) |  | 
+AUDITOR GATE — 3B Argument outline |  | 
+3C. Paragraph outline (the FAT outline / drafting contract) v0.1 — one bullet per planned paragraph (~30-40% of final length); (verify) tags on empirical claims; named-argument labels; stable section numbers |  | 
+3C v0.2 — round 1 (completeness/rigor): every central argument + major objection mapped to specific bullets; Argument & Objection Coverage Map built; gaps closed |  | 
+AUDITOR GATE — 3C round 1 (auditor confirms a GENUINE coverage expansion vs v0.1; every argument & objection mapped) |  | 
+3C v0.3 — round 2 (literature engagement): every key interlocutor from the Lit Map engaged as bullets; positioning vs the niche solid; authors'-prior-work conflicts handled |  | 
+AUDITOR GATE — 3C round 2 (auditor confirms a GENUINE engagement expansion vs v0.2) |  | 
+3C — lenses A/E/S/I applied; outline is dense enough to draft from (FAT, not padded) |  | 
+3C — outline iteration with the author: bracketed [initials: ...] comments applied VERBATIM; iterate to convergence (comments getting shorter/more local) |  | 
+3C — REFEREE REVIEW MEMO on the paragraph outline (ranked vulnerabilities; missing-objection hunt; factual landmines; weakest lines) — referee proposes, author disposes; accepted items folded in |  | 
+AUDITOR GATE — 3C FINAL (auditor confirms outline complete, coverage mapped, dense; the referee memo was produced and its accepted dispositions applied) |  | 
+HUMAN SIGN-OFF — Paragraph Outline = the DRAFTING CONTRACT [GATE 2] ('hold drafting until sign-off'; skipped on 'run straight through') |  | 
+4. Draft v1.0 — every outline bullet converted to its paragraph in ONE full-density pass, written to the Part word budgets so the draft lands at target length (not outline length); structure preserved exactly; citations as placeholders; NO quality work in this pass |  | 
+4. Draft v1.0 — lens I (every bullet covered; nothing skipped; cross-refs noted) |  | 
+AUDITOR GATE — Draft v1.0 (auditor confirms full bullet-to-paragraph coverage; no section skipped) |  | 
+5. Quality passes (2-3) against the Writing Guide — cut editorializing; remove what is bad and ADD what is good (explanation, examples, new arguments — surfaced in the changelog); break cross-paragraph repetition; check dialectical balance; resolve cross-refs; terminology consistency. Length may move either way, but never grows through editorializing, repetition, or decoration. Each pass = a new version; stop when changes are minor |  | 
+5. Quality — lenses A/E/S/I applied (each logged) |  | 
+SELF-CHECK — Quality (deterministic: broad diff across the whole draft; every change removes bad or adds good; changelog line per version) |  | 
+6. Style & Voice pass — ROUNDS until converged (two minimum): each round = FRESH read of the author's example papers first, then EVERY sentence and EVERY paragraph walked ('would this author write this sentence?' / 'is this how their paragraphs move?'), replacing whatever reads as AI-written or off-voice; per-paragraph pass ledger (PASS/TOUCHED/FIXED) kept so coverage is checkable; no-regression sweep vs the author's overruled set every round |  | 
+SELF-CHECK — Style & Voice (builder diff matches the ledger's touched rows one-for-one; a final round finds only minor touches — convergence, never a fixed count) |  | 
+HUMAN SIGN-OFF — the voiced draft [GATE 3] (author reads the quality-passed, style-and-voice-passed draft: voice, framing, substance — the author never reads unvoiced prose) |  | 
+7. Author round applied — extract-first protocol (pristine-base isolation); every instruction applied or dispositioned; Change Log; verify_author_round run; substantial new prose from the author's edits gets a voice walk before the next stage |  | 
+AUDITOR GATE — Author round (MANDATORY: Change Log matches the actual diff; every author edit present or superseded-with-trace; no overruled formulation resurrected) |  | 
+8. Referee panel round 1 — 3 personas (lenses matched to the paper's mix + the venue's tradition) each file a severity-ranked report; consensus (flagged by >=2) implemented in one pass; single-referee concerns held in reserve |  | 
+AUDITOR GATE — Referee round 1 (auditor confirms 3 real reports exist AND the consensus fixes were actually applied) |  | 
+8. Referee panel round 2 — FRESH personas read the revised paper clean; implement new consensus; run round 3 only if substantially new items (4+ rounds => rethink the thesis, flag to author). Stop at the fixed point (only polish items remain) |  | 
+AUDITOR GATE — Referee (fixed point reached; all rounds' reports & applied fixes are real) |  | 
+9. Author substantive rewrite (author-led) — intro/thesis/load-bearing parts. The author's edits set each section's DIRECTION: improve further if you can, but never revert to a formulation the author overruled (check the Change Logs) |  | 
+9. Targeted change requests applied VERBATIM; Change Log produced (section / before / after / why); diffed against the prior version to confirm NO prior author edits were reverted |  | 
+AUDITOR GATE — Author changes (post-referee rewrite round) (auditor confirms the Change Log matches the actual diff AND prior author edits are preserved) |  | 
+10. Integration pass — full front-to-back read: stale cross-refs, notation/terminology drift, dangling references to cut sections, prose polish |  | 
+10. Abstract written LAST (2-3 candidates -> critique -> synthesis); matches the paper's ACTUAL framing |  | 
+10. Anti-LLM prose pass — copy-critic flags AI tics (hedging-redundancy, three-part lists, adverbial throat-clearing, metaphor-chaining, paragraph-restating summaries); revised |  | 
+10. Citation audit — citation-auditor verifies author/year/title and EVERY page pinpoint against the real source (WebSearch where needed); NO fabricated citations. (>=1 audit before referees; 1 before submission) |  | 
+10. Citation apparatus built to TYPE (Bluebook footnotes for law review; author-date + reference list for philosophy/Element); placeholders resolved |  | 
+10. Length pass (LIGHT, here only) — scope up a thin paper / trim a bloated one toward the target; argument quality already settled |  | 
+10. Pre-send critic pass — copy-critic must-fix vs can-wait checklist; author approves the must-fix list; fixes applied |  | 
+AUDITOR GATE — Final (auditor confirms every finishing step is genuinely done and the package is complete) + 'knowing when to stop' checklist met |  | 
+11. (Optional) Revise & Resubmit — journal referee reports reproduced verbatim; Response-to-Referees letter (responses in blue inline); MODULAR changes (small new subsections/paragraphs, not big restructures); referee-suggested cites WebSearch-verified; example letter used to calibrate |  | 
+12. Retrospective written — what worked, what slowed us down, recurring auditor REVISE reasons, and concrete suggested changes to the playbook docs and the agents |  | 
+--- end table ---
+

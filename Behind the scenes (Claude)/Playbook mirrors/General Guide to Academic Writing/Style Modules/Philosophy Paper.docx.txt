@@ -1,0 +1,27 @@
+ Philosophy Paper — Style Module
+ Journal article in philosophy. v1.0 — Shareable Edition.
+ This is the PER-TYPE layer. The root 'Writing Guide — House Style' is the shared core and applies IN FULL to every type (strong direct arguments; no editorializing; no verbal disputes; one move per sentence; cut filler; each argument in exactly one place). This module only adds what is specific to this paper type: length, citation/footnote practice, structure, and register. Defaults below are starting points — confirm them against the author's real venues at setup.
+[Heading 1] Register — read the companion guide (REQUIRED)
+ For sentence- and paragraph-level register, this module is paired with 'Analytic Philosophy Prose — Style Guide' (same folder) — the field-register companion (displays; premise-form central argument; named-vignette cases). Read it before drafting Stage-4 prose and again before any register pass, after the general 'Prose Register — All Paper Types'.
+[Heading 1] Target length
+ Default ~7,000–8,000 words (some journals allow ~10–12k; confirm the target journal's limit in the Setup Contract). Abstract ~150–250 words.
+ Tight. Compress aggressively; nail one thing and generalize rather than surveying every variant. Demote secondary material to footnotes rather than padding the body.
+[Heading 1] Citations & footnotes
+ Author-date in-text ('Smith 2024', 'Smith 2024, 12') with a reference list at the end.
+ Footnotes sparingly — only for genuinely substantive asides (a qualification, a secondary objection, a pointer), NOT as the main citation vehicle. If a point matters, put it in the main text; if it doesn't, cut it or footnote it (prefer footnoting to hedging).
+ Strip jargon, even from footnotes; plain English over heavy formalism. Push any heavy formal apparatus to an appendix and keep the main text readable.
+[Heading 1] Structure conventions
+ 5–7 numbered sections (1, 2, 3 …) plus an optional appendix. Front-loaded thesis (abstract + first ¶ of the intro + first ¶ of the body).
+ Displays: named principles, the paper's own view (stated in full), named cases (as self-contained vignettes), and the central argument in premise form are all set as indented bold-label displays — the ('display', 'Label.', 'text') block in gen_docx / gen_paper_docx. Details and examples in the field-register companion.
+ Interleaved objections per argument, plus a dedicated objections section for the 1–3 largest cross-cutting ones — the dual structure that reads rigorous without reading defensive.
+ 3–5 affirmative arguments per section, each a numbered paragraph; brief steelman then direct response to objections.
+[Heading 1] Register & voice (on top of the Writing Guide)
+ Argument-directive journal register: philosophical rather than survey-style; footnote-tolerant; moderate formality. Hold the reader's hand in the main text; keep density in the appendix.
+ Match the SPECIFIC target journal — different philosophy journals differ in length, formality, and section style; confirm the house conventions in the Setup Contract.
+[Heading 1] Model prose
+ A prior philosophy paper by the author in the same register (chosen at setup — see the Model Prose Library catalog's coverage-by-type line). Put the chosen one in the paper's Model Prose/ folder and read it for voice before drafting — sentence shapes, not content. Also read the closest example in the shared Model Prose Library in full before Stage-4 drafting.
+[Heading 1] Referee lenses (Stage 8 — spawned BLIND)
+ The fixed trio for a philosophy paper: (1) a specialist in the paper's own sub-field / the tradition it targets (the hostile expert); (2) a broad philosophy GENERALIST — the venue's typical gatekeeper, who judges whether it is a genuine, publishable contribution; (3) a foundations/adjacent specialist who can pressure-test the deepest formal or metaethical commitments. Fresh personas each round, same three lenses. Each is spawned BLIND (only its lens + the manuscript + the venue; no summary of the paper's claims, no leading questions) and reads the footnotes. Add one standing 'case-for-acceptance' reader to offset the built-in revise-and-resubmit lean. See referee.md and the Pipeline for the full standard (read the trajectory not the label; cap the rounds; author-owned Finish).
+[Heading 1] Special passes / notes
+ Pinpoint citations are the most error-prone element — the citation-auditor checks every 'X argues Y on p. Z'.
+ For a formal paper, verify any .tex build recompiles to an identical PDF before shipping (pdftotext diff).

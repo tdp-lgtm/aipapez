@@ -1,0 +1,28 @@
+ START HERE — The Deep Drafter
+ For the author. How to write a paper with this workspace. v1.1 — Shareable Edition, August 2026.
+ This workspace turns a one-page brief into a finished, referee-tested draft through a documented pipeline. You supply the thesis, the central arguments, and the judgment calls; Claude does the execution. You don't need to run anything yourself — just talk to Claude in plain language.
+ Provenance: the agent was developed by Simon Goldstein (philosophy, University of Hong Kong) with Claude, over a series of real papers in philosophy and law. This shareable edition is generalized: it works for any field once it has been personalized to you. Share and adapt freely.
+[Heading 1] First: personalize the agent (one session, once)
+ The agent ships generic. Before the first paper, tell Claude: "set up Deep Drafter for me." Claude will interview you (your field, the kinds of papers you write, your venues, your coauthors, your standing preferences), ask you for 3–6 of your best papers as PDFs, and mine them to build your Voice Profile — the sentence- and paragraph-level patterns it will imitate whenever it drafts for you. This single step is what makes drafts come out sounding like you rather than like an AI. The full procedure is in 'SETUP — Personalize the Agent' (this folder); Claude follows it on its own.
+[Heading 1] What to do to start a paper
+ You don't have to specify everything yourself — Claude asks you. Just say you want to start a new paper (or hand over a rough one-pager), and Claude runs a short intake up front — beginning with what kind of paper it is (the type sets length, citations, structure, and register), then the target venue and length, coauthors, whose voice to match, any topics to avoid, and how much to check in with you. Answer the menu and it's off.
+[List Number] Make a one-page brief: the thesis (one sharp paragraph), the central arguments, the target venue, a rough word budget, and 3–5 key sources. Rough is fine — Claude sharpens it with you.
+[List Number] Gather the inputs: the PDFs of the few works you most want engaged, and one prior paper of yours (or a model paper) whose voice you want matched.
+[List Number] Tell Claude: the paper's working title, its type, and the target length — then hand it the brief, the readings, and the model paper. Claude files them and starts.
+[Heading 1] How the work goes
+[List Bullet] Outline first. Claude builds the argument in layers — a skeleton, then an argument outline, then a detailed paragraph-by-paragraph outline — before writing any prose. Structure is settled where it's cheap to change.
+[List Bullet] Then drafting, then voice, then review. Claude writes the draft, tightens it against your Writing Guide, rewrites every sentence into your voice (calibrated on your own papers), then runs a panel of simulated referees — each reading blind, the way real referees do — and a citation check that verifies every reference against the real sources. Quality comes from those reviewers; a separate auditor just keeps everyone honest about actually doing the work.
+[List Bullet] You sign off at four points: the Argument Sketch (is this the argument?), the Plan (is the angle right?), the detailed outline (the drafting contract — nothing is drafted until you approve it), and the first full draft — which you only ever see AFTER it has been rewritten into your voice. Everywhere else it runs on its own.
+[Heading 1] Working with the drafts
+[List Bullet] Edit any document directly in Word. Track changes or don't — Claude detects both. Save it (a name like '… - your-name edits' is perfect, but saving over the file also works). Claude treats your edits as setting the direction and builds on them — it will never quietly revert them.
+[List Bullet] Leave comments in the text as you read — a bracketed note like '[ab: cut this; tighten the third argument]' (your initials), or a real Word comment. Claude applies them as written.
+[List Bullet] Every version is kept. Nothing is overwritten; older versions move to an 'Old versions' folder.
+[List Bullet] In review rounds, Claude marks its own substantial additions in a marking color (blue by default) so you can spot what's new fast; your own incorporated edits stay black. Final drafts are always clean black text.
+[Heading 1] Two things you can say any time
+[List Bullet] 'Run straight through' — go fully autonomous from the brief to a finished draft, no check-ins; you review at the end.
+[List Bullet] 'Check with me at every gate' — the opposite: pause for you at every stage.
+[Heading 1] One thing to settle before you submit anywhere
+ Journals and fields differ on disclosure of AI assistance, and policies are changing fast. The agent records your standing stance during setup and asks again per venue — but the decision is yours, and nothing is submitted until you've settled it.
+[Heading 1] Where things are
+[List Bullet] Your papers live in Papers/. The shared playbook (Pipeline, Style Modules, Context, the Writing Guide, your Voice Profile, the Model Prose Library) is in General Guide to Academic Writing/ and at the workspace root. Each paper's status is in its Progress reports/ (the Checklist and the Progress Log) — open those to see exactly where a paper stands.
+[List Bullet] Want to see what the agent produces before you start? 'Examples of papers produced using this agent/' holds three real papers written with it — two philosophy papers and a law-review article. Read whichever is nearest your field to see what the finished product reads like.

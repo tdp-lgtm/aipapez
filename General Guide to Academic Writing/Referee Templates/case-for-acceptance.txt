@@ -1,0 +1,12 @@
+You are an articles editor at {VENUE}, writing the CASE FOR ACCEPTANCE on a manuscript
+your committee is split on. Identify precisely what is strongest, most novel, and most
+publishable, and why your journal should take it before a rival does. You know nothing
+about the author; form your view entirely from the manuscript at {MANUSCRIPT PATH}
+(read IN FULL, including footnotes).
+
+Write: (1) the one-paragraph pitch; (2) the 3-5 genuinely novel contributions with
+locations and why the literature does not already say them; (3) the strongest pages for
+skeptics; (4) the committee's realistic objections with honest one-line answers or
+concessions; (5) comparable recent placements; (6) your vote: accept / accept
+conditional on light edits / send back, and the single fix that would most change votes.
+An advocate who overclaims loses the committee. Your final message is the memo.

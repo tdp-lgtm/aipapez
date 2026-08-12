@@ -1,0 +1,31 @@
+ Project Template — Setup & Folder Structure
+ How to start a new paper in the correct structure — shared playbook. v1.0 — Shareable Edition.
+ Use this every time a new paper starts. The full process is in the Pipeline; this is just the start-up template and the standard folder structure (so every paper looks the same).
+[Heading 1] Start here — the first steps of a new paper
+[List Number] Intake first — ask the author up front. Ask the paper TYPE (this picks the Style Module) and the rest of the Setup Contract — title, one-sentence thesis (or the Argument Sketch), target venue + length (offer the type default), coauthors + author order (per the Context doc's convention), model-prose anchor, hard-nos, and autonomy (four gates / run straight through / every gate). Lead with type; use the interactive picker for the menu choices. Don't make the author remember to specify these.
+[List Number] Scaffold the project: python3 "Behind the scenes (Claude)/Build scripts/new_paper.py" "<Title>" "<type>" ["<length>"]. This creates the folder tree below, the Project Checklist (FIRST), and a Progress Log stub. (Or copy this Project Template by hand.)
+[List Number] Load the inputs: the author's 1-page brief into Brief/; the real PDFs of the core interlocutors into Background Readings/ (convert to text); and a prior paper to imitate for voice into Model Prose/.
+[List Number] Open the Project Checklist and drive everything from it — top to bottom, a row filled only when its step is genuinely done, evidence written from the finished artifact, never pre-filled.
+[List Number] Read the General docs (the Pipeline, the paper-type Style Module, Context, the Voice Profile) and the root Writing Guide; then build the Literature Map and the Plan.
+[List Number] At every stage, run the lenses; pass the AUDITOR gate at the reserved gates (its only job: confirm the claimed work was actually done) or attach the deterministic self-check; and invoke the specialist agents where the Pipeline says (referee panel; citation-auditor; copy-critic). Pause for the author at the four human gates (Argument Sketch, Plan, Paragraph Outline, voiced draft) unless told 'run straight through'.
+ Why checklist-first + auditor matters: if the checklist is created late or pre-filled, the layered outline, the revision rounds, the referee passes, and the citation audit tend to get recorded as 'done' without being done. Creating and honestly working the checklist from minute one — and letting the independent auditor gate the reserved stages — keeps every step real.
+[Heading 1] The standard folder structure (the same for every paper)
+
+--- TABLE 1 (9 rows x 2 cols) ---
+Folder | What it holds
+Brief/ | The author's 1-page project description (thesis; central arguments; target journal; word budget; 3–5 key sources) + any notes or draft fragments. The source of truth for intent.
+Background Readings/ | Real PDFs of the core interlocutors (read these, not training memory) + Converted text/.
+Model Prose/ | A prior paper by the author, read for VOICE/register only (never for content).
+WIP Docs/ | Every working doc, by type: Literature Map, Plan, Outline (3A/3B/3C), Draft, Abstract, Referee Reports, Change Logs — each main type with its own Old versions/.
+Progress reports/ | Clean & author-facing: the Project Checklist (created FIRST), the running Progress Log, the Argument & Objection Coverage Map, and the Stage-12 Retrospective.
+Scrap/ | Working/review material: the Claims-to-Verify register, the Citation Audit, the Setup Brief (in Review artifacts/), and converted source text.
+Submission/ | ONLY the file(s) literally submitted (final .docx, and .pdf/.tex where the type calls for it).
+Behind the scenes (Claude)/ | This paper's own build scripts (they import the shared gen_docx / gen_paper_docx).
+--- end table ---
+
+[Heading 2] WIP Docs subfolders (one per document type)
+[List Bullet] Literature Map  •  Plan  •  Outline (3A Skeleton / 3B Argument / 3C Paragraph, as named versions)  •  Draft  •  Abstract  •  Referee Reports  •  Change Logs — each main type with its own Old versions/.
+[Heading 1] Created at setup, before any deliverable
+[List Bullet] The standard folder tree (above).
+[List Bullet] The Project Checklist — created FIRST, worked top-to-bottom (from Project Checklist TEMPLATE or the scaffolder).
+[List Bullet] The running Project Progress Log (a stub, appended at each gate).
