@@ -11,6 +11,8 @@ Changelog: v0.2 — 2026-09-22, after the batch-2 reading and the custodian's se
 
 v0.1 is in `Old versions/`.
 
+Correction (2026-09-22, after the Plan gate): §0 item 5 describes Alexander L151/L161 exactly, and §4 cites Kamm at L61–65, pp. 94–95. No other change.
+
 v0.1 — AI-originated working memo that settles the crux flagged in `Brief/Argument Sketch.md` before the Plan (2026-09-22). Feeds the Literature Map and the Plan. Claims about works not yet on disk are tagged `(verify #N)`, where N is the row in `Background Readings/REQUESTS.md`. Line references (L…) are to the per-work files in `Background Readings/Converted text/`.
 
 ---

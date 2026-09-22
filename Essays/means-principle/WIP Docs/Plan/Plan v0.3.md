@@ -18,7 +18,7 @@ Changelog: v0.3 — 2026-09-22. Rebuilt under Option A of `WIP Docs/Plan/Rethink
   - §10 Ac records the Kamm page finding.
   - Alexander L151/L161 is described exactly.
   - The Hecht reference becomes L75–77.
-  - Line references are added for the two de-italicized cases.
+  - Line references are added for the two de-italicized cases. After the re-check, Christensen's case is cited at L209–211 (heading and text).
 
 v0.2 and v0.1 (both gate APPROVE) are in `Old versions/`. `(verify #N)` = the claim waits on row N of `Background Readings/REQUESTS.md`. L… = line in the per-work files in `Background Readings/Converted text/`.
 
@@ -226,7 +226,7 @@ Total target **5,450** of the 6,000 cap, leaving 550 for referee-driven addition
   - A rescuer who would lose an arm refuses to save a sliding man. For the arm's sake the refusal is permissible; refusing *so that* his body stops the trolley is wrong (Parry, file 06 L121).
   - How the view explains it: P3 makes the permission not to give an authority over one's *own* sacrifice. That authority is exercised only by acting on it, and a refusal made to exploit another's plight is no exercise of it. The only other justification, the five's rescue, is disabled.
   - Otherwise the principle is objective: Liao & Barry's malicious diverter is acknowledged as a disagreement (file 29 L143–163).
-  - Footnote: Walen 2022's forfeiture view (file 22 L107–123) and Christensen's case of a passer-by who declines to help homeless people so that their visible suffering will deter a rival (file 05 L209).
+  - Footnote: Walen 2022's forfeiture view (file 22 L107–123) and Christensen's case of a passer-by who declines to help homeless people so that their visible suffering will deter a rival (file 05 L209–211).
 - **(d) Catastrophe** (≈150). Duties grow with the stakes, so the principle yields where duty yields. Whether a person can owe her life to save a million is a question the principle inherits, not one it must settle.
 
 ### §6 Conclusion (200)
@@ -334,5 +334,5 @@ Local moves in §5(a):
   - *Finding (gate):*
     - Alexander L161 denies only a duty to shield others with one's body, and his L151 examples of rescue duties are special ones. The wording now says exactly that.
     - Hecht's Justification Condition is stated at file 15 L77, under the heading at L75.
-    - Ramakrishnan's twenty-behind case is at file 01 L201; Christensen's passer-by case is at file 05 L209.
+    - Ramakrishnan's twenty-behind case is at file 01 L201; Christensen's passer-by case is at file 05 L209–211.
   - Claims still waiting on sources carry `(verify #N)`.

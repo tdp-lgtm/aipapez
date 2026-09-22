@@ -489,8 +489,10 @@ methodology report.
 - **Approx. cost/time:** Human: 0. Machine: ~1 h.
 
 ## [2026-09-22] Session 1 (cont.) — Plan gate (v0.3): REVISE, fixes applied
-- **Models/agents:** Claude (Claude Code remote session); paper-auditor subagent (haiku tier) for
-  the gate.
+- **Models/agents:** Claude (Claude Code remote session); paper-auditor subagent for the gate.
+  It ran on the **default tier** (the main session's model). No model override was passed at spawn,
+  unlike the four earlier gates (Setup, Idea Selection, Lit Review, Plan v0.1), which ran on the
+  haiku tier. (Corrected after the auditor's round-2 re-check, below.)
 - **Gate result (auditor's verdict line, verbatim):** "VERDICT: REVISE — Plan v0.3's substantive
   work is verifiably done, but two recorded claims don't match the artifacts: (1) Plan v0.3
   italicizes *Tracks* (L144) and *Streets* (L218), which §7's apparatus list leaves out, giving 5
@@ -526,3 +528,28 @@ methodology report.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~15 min (auditor ~199k tokens, ~10 min).
 - **Next:** re-run the gate on the fixes.
+
+## [2026-09-22] Session 1 (cont.) — Plan gate (v0.3), round 2 re-check: REVISE (model-tier record)
+- **Models/agents:** Claude; the same paper-auditor subagent, resumed. It ran on the **default tier**,
+  like round 1.
+- **Gate result (verdict line, verbatim):** "VERDICT: REVISE — both required Plan fixes and the three
+  confirmations check out, but the new Process Log entry wrongly says this gate's paper-auditor ran
+  on the "haiku tier"; the spawn metadata and subagent transcript show the default tier; correct
+  that line (and record this re-check and the Checklist gate row the same way)."
+- **What the auditor confirmed:**
+  - both required fixes are done;
+  - the changelog lines match the diff d3d3f3f..1ccbd3d;
+  - nothing else in the Plan changed;
+  - the gate result and fixes are logged.
+- **AI actions:**
+  - Corrected the round-1 entry's model line to the default tier.
+  - Applied the round-2 non-blocking notes:
+    - Christensen's case cited at file 05 L209–211;
+    - the Rethink Memo's Alexander locator cell reworded;
+    - one-line correction notes added to the Crux Memo v0.2 and Literature Map v0.2 changelogs.
+  - Standing practice from here: procedural gates pass the cheaper model explicitly, following the
+    paper-auditor's own tiering rule and the custodian's preference for the lowest adequate model.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~6 min (auditor round 2 ~238k tokens, mostly cached
+  context).
+- **Next:** a narrow round-3 check of the corrected record, on the haiku tier.

@@ -6,6 +6,8 @@ Changelog: v0.2 — 2026-09-22, after the batch-2 reading (16 works) and the cus
 - **Verdict.** The niche and the originality verdict are revised to "the criterion the rationale needs."
 - **Ranking and searches.** The interlocutors are re-ranked, and searches 73–77 are recorded.
 
+Correction (2026-09-22, after the Plan gate): Alexander L151/L161 is described exactly, Hecht's condition is cited at L75–77, and Kamm's "new problem" at pp. 94–95 (L61–65). No other change.
+
 v0.1 (gated at Lit Review, APPROVE) is in `Old versions/`. Line references (L…) point to the per-work files in `Background Readings/Converted text/`. The notes behind this map are in `Reading Notes — Provided Corpus.md` and `Reading Notes — Batch 2.md`.
 
 ---
