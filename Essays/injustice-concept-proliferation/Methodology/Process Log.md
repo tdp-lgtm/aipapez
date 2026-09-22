@@ -269,3 +269,42 @@ methodology report.
 - **Selections:** none.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~50 min wall clock.
+
+## [2026-09-22] Session 3 — pipeline overhaul absorbed; readings upload 2; Maitra originality check
+- **Models/agents:** Claude (drafting agent); no subagents this segment.
+- **Human messages (verbatim):**
+  > "I'll have a look and then also give you the new writings you wanted. In the meantime can you merge the branches"
+  > "I've now uploaded new readings for you. Also note that I've made some changes to the pipeline, etc. so be mindful of that."
+  > "I hit my usage limit while you were working, but it has reset now. Please continue from where you left off."
+- **AI actions:** (1) Merged origin/main into the working branch per explicit permission (custodian
+  commits f0ea4e8 "Prose overhaul" and 4ceb68f "New readings"). (2) Read the revised
+  CLAUDE.md/DIGEST/Pipeline/Style Guide diffs and the three new files in full
+  (`Playbook/Craft/model-paragraphs.md`, `.claude/agents/prose-rewriter.md`,
+  `.claude/agents/cold-reader.md`): new regime = apparatus budget (1 named view, ≤1 named rival,
+  ≤1 further coined term, ≤3 named cases, exactly 2 displays, 1 illustrative-only metaphor), snap
+  budget (≤1–2 attention-drawing landings), calibration duty (model-paragraphs read fresh before
+  every prose session), Stage 7 clarity chain 7a prose-rewriter → 7b self-edit+lint → 7c
+  cold-reader. Mapped Draft v1.3's violations for the coming reconciliation pass: 2 named rivals,
+  4 named cases, 3 displays, and a sustained minting/currency vocabulary of my own (the metaphor
+  may now only illustrate). (3) Split the custodian's second upload into 5 per-paper files under
+  `Converted text/` (Burgess/Cappelen/Plunkett 2020 volume; Maitra 2018; Liao & Hansen 2023;
+  Cabezas 2024; Gardiner 2022). (4) Read Maitra 2018 in full — the flagged pre-final originality
+  risk. VERDICT: no preemption. Her subject is assimilation of new wrongs to normatively familiar
+  categories and the external/internal distortions that follow; she does not treat uptake
+  economics, scarcity, or adequacy conditions on coining. Her claim that normative language exists
+  "to help us understand the nature of wrongs, and to direct us towards remedies" independently
+  supports the Backing Condition's redress-shape clause; she enters the essay as a new
+  interlocutor, not a rival. (5) Read Cappelen's "Master Argument" chapter (2020 volume),
+  Objection (7): confirms the draft's implementation-problem attribution from the text ("in large
+  part incomprehensible and outside human control"; effects "marginal, unsystematic, and
+  unpredictable") — the §4 (verify — Cappelen) tag can be discharged by citing the on-disk 2020
+  chapter. (6) Updated REQUESTS.md: #22, #23, #24, #26 RECEIVED; #27 SATISFIED via the 2020
+  chapter; still open: #10 Griffin, #13 Simon, #14 Wellman, #21 Shklar, #25 Tasioulas.
+- **Compliance note:** the custodian's pipeline changes are workflow/style scaffolding; the
+  model-paragraphs specimens are synthetic, on an invented example, argument-neutral — permitted
+  generic-feedback/tooling territory, no philosophical substance imported. Logged per the playbook
+  self-improvement rule.
+- **Selections:** none.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: ~2 min. Machine: ~45 min wall clock (interrupted once by a usage
+  limit reset).
