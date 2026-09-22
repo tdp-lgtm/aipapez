@@ -672,3 +672,16 @@ methodology report.
     - Parry's "informs" is at L103, not L101.
 - **Compliance flags:** none. No custodian input.
 - **Approx. cost/time:** Human: 0. Machine: ~40 min.
+
+## [2026-09-22] Session 1 (cont.) — Auditor gate 4B: APPROVE
+- **Models/agents:** paper-auditor subagent, haiku tier.
+- **Gate result (verdict line, verbatim):** "VERDICT: APPROVE — Stage 4B's claimed work is genuinely
+  done (files confirm it); the agent may proceed to Stage 4C (Fat outline, v0.1)." The auditor
+  spot-checked 12 line references with no mismatches.
+- **Design finding while preparing 4C (AI-originated):** the opening pair in Plan v0.4 confounds
+  spending with doing and allowing: the neighbour is let die in the first case and killed in the
+  second. A redesigned pair makes both cases killings, uses his body in the same way in both (it
+  holds the trapdoor), and varies only whether his death is the cost of that supply. In the first
+  case he dies of smoke that the opening releases; in the second the trapdoor crushes him.
+  Recorded in 4C v0.1, to be shown to the custodian at Checkpoint 3.
+- **Approx. cost/time:** Machine: ~2 min (auditor ~78k tokens).
