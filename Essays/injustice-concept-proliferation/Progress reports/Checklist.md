@@ -38,10 +38,10 @@
 
 ## Stage 5 — Draft v1.0
 - [x] Single full-density pass to section budgets; structure preserved; placeholders + (verify) tags — `Drafts/Draft v1.0.md`, 5,949 words excl. bibliography (word_count.py: WITHIN −51); all outline paragraphs landed (4.4a and 1.1-anchor as planned footnotes; 6.5–6.6 merged into one genus paragraph, content preserved — noted); 10 (verify)/(verify page) tags for the citation-auditor
-- [ ] Lens Ac; Auditor gate — Draft v1.0: <verdict line>
+- [x] Lens Ac; Auditor gate — Draft v1.0: "VERDICT: APPROVE — Stage 5 (Draft v1.0)'s claimed work is genuinely done. Files confirm it. […] Deficiencies: None found. The agent may proceed to Stage 6 (Quality passes)." (paper-auditor, 2026-09-22; mapping, word count, displays, 3 quotes spot-checked, 16 verify tags tracked)
 
 ## Stage 6 — Quality passes
-- [ ] Pass 1 / Pass 2 / (Pass 3) — each a new version, changelog line, self-check
+- [x] Pass 1 / Pass 2 — each a new version, changelog line, self-check — v1.1 (Investment View display added; genus paragraph split; intensifiers 17→6; de-duplications; trims to −32) and v1.2 (§3 paragraph split; ranking meta-statement removed; 2 recasts); pass-2 changes small → converged, no pass 3; essay-only count 5,793 words (changelog metadata excluded, stripped at Stage 12 build)
 
 ## Stage 7 — Clarity & register pass
 - [ ] Round 1 (front→back) and Round 2 (back→front) with per-section ledger; converged
