@@ -23,3 +23,14 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
   D Claims Are Not Currency.
 - CHECKPOINT 1: custodian selected A (the recommended sketch). Saved to Brief/Argument Sketch.md.
 - Next: auditor gate — Idea Selection, then Stage 2 literature review.
+- Auditor gate — Idea Selection: APPROVE (verified candidates, searches, sketches, CP1 logging).
+
+## [2026-09-22] Stage 2 — Literature review
+- Environment cannot download any files (all fetching blocked; search only). Literature Map built
+  from verified records + abstracts; every full text routed to the request list.
+- Literature Map v0.1: four camps (exemplars; inflation critics; boosters/near-neighbors; tools);
+  open niche identified; originality verdict OPEN with risk register (Kitsik and Alston full texts
+  could move the argument — both top of the request list).
+- REQUESTS.md: 19 sources, 9 must-have, free one-click links supplied where they exist. Custodian
+  pinged in chat with the batched list.
+- Awaiting auditor gate — Lit Review; Plan work (Stage 3) proceeds meanwhile with (verify) tags.

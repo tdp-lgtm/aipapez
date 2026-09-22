@@ -11,12 +11,12 @@
 - [x] Originality/significance pre-screen run (searches logged) — 9 web searches (queries in Process Log); key finds: Kitsik 2025, Nikolaidis 2020, rights-inflation lit, Byskov 2021; per-candidate verdict table in `Thesis Candidates v0.1.md` (4 advanced, 3 merged, 5 killed)
 - [x] Top 3–5 written up as Argument Sketches, ranked — 4 sketches with premises, crux, main objection, ranking rationale (`Argument Sketches v0.1.md`)
 - [x] CHECKPOINT 1 — sketch selected by custodian ("A — Backed Coinage (Recommended)", 2026-09-22); saved to `Brief/Argument Sketch.md`
-- [ ] Auditor gate — Idea Selection: <verdict line>
+- [x] Auditor gate — Idea Selection: "VERDICT: APPROVE — Stage 1 (Idea Generation & Selection) claimed work is genuinely done; all files confirm it. The agent may proceed to Stage 2 (Literature Review)." (paper-auditor, 2026-09-22; verified candidates, searches, sketches, CP1 logging, compliance)
 
 ## Stage 2 — Literature review
-- [ ] Active search done; key sources obtained or flagged
-- [ ] Literature Map with open-niche + originality verdict
-- [ ] Lenses E, Ac run
+- [x] Active search done; key sources obtained or flagged — 14 searches across Stages 1–2; environment blocks all file downloads (only search works), so ALL full texts flagged to REQUESTS.md (19 rows, 9 must-have, with free links where they exist); custodian pinged 2026-09-22
+- [x] Literature Map with open-niche + originality verdict — `WIP Docs/Literature Map/Literature Map v0.1.md`: exemplars/critics/boosters mapped, 3 nearest neighbors distinguished, verdict OPEN with risk register
+- [x] Lenses E, Ac run — findings recorded at end of Literature Map (engagement plan complete; accuracy capped at abstract level pending uploads)
 - [ ] Auditor gate — Lit Review: <verdict line>
 
 ## Stage 3 — Plan

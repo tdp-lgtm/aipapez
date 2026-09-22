@@ -65,3 +65,26 @@ methodology report.
   sketches (permitted selection).
 - **Approx. cost/time:** Human: <1 minute (one menu click). Machine: ~30 min wall clock; 11 web
   searches + 1 subagent.
+
+## [2026-09-22] Session 1 (cont.) — Stage 2 Literature Review & Positioning
+- **Models/agents:** Claude (Claude Code remote session). Subagents: paper-auditor ×1 (small tier)
+  for the Idea Selection gate — APPROVE, pasted into Checklist.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Attempted to obtain full texts; discovered the environment blocks all outbound
+  fetching (curl and WebFetch → egress 403 on every domain tried: philarchive.org, ncbi.nlm.nih.gov,
+  plato.stanford.edu, link.springer.com, cambridge.org, gwern.net, mirandafricker.com). Only
+  server-side WebSearch works. Adapted per Literature Access Protocol: built the Literature Map from
+  verified bibliographic records + abstracts only, with evidence level explicitly capped; wrote
+  `Background Readings/REQUESTS.md` (19 rows: 9 must-have incl. Kitsik 2025, Alston 1984, Fricker
+  2007, Jenkins 2020, Smith & Archer 2020, Haslam 2016/2020, Friedman 2025, Nikolaidis 2020, Young
+  2011; 10 nice-to-have; free links supplied where found). Ran 8 further verification searches
+  (Jenkins JAPA record; Friedman PQ record; Nikolaidis record; Byskov record; Alston record;
+  attention-ethics literature — found Smith & Archer 2020; Archer & Mills 2019; Young social
+  connection model; Wellman 1999; Srinivasan 2018; Dotson 2012). Wrote `Literature Map v0.1.md`
+  (landscape in 4 camps, open niche, 3 nearest neighbors distinguished, originality verdict OPEN
+  with risk register, engagement plan). Ran lenses E and Ac; findings recorded in the map.
+- **Selections:** none (no custodian input this segment).
+- **Tools/retrieval:** WebSearch ×8 this segment (queries above); WebFetch/curl attempted and
+  blocked (logged for the methodology report — retrieval constraints are methodology-relevant).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~25 min wall clock.
