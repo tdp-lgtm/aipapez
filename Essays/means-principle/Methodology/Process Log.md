@@ -356,3 +356,41 @@ methodology report.
       originals), #21 (Costa).
 - **Next:** read all 16 works in full, write reading notes, then a rethink memo (whether to keep,
   revise, or replace the Spending View), then return to the custodian with options.
+
+## [2026-09-22] Session 1 (cont.) — Batch-2 reading (16 works) and notes
+- **Models/agents:** Claude (Claude Code remote session). No subagents, no web searches.
+- **AI actions:**
+  - Read all 16 works in `Background Readings/Converted text/14`–`29`.
+    - In full: Walen 2016; Liao & Barry 2020; Walen 2022; Choo 2025; Otsuka 2008; Alexander 2016;
+      Mack 2005; Liao et al. 2012.
+    - Core sections plus searches: Øverland 2014; Thomson 1985; Lazar 2019; Steinhoff 2019;
+      Hecht 2023.
+    - Targeted, with page markers: Kamm 2007 chs. 4–5.
+    - File 26 duplicates file 12 (Quinn, abridged).
+  - Wrote `WIP Docs/Literature Map/Reading Notes — Batch 2.md`: one entry per work, each with its
+    implications for the Spending View (SV). Re-read Alexander L151–161 and corrected the
+    omissions point: the SV's omission structure is Alexander's; the two differ only over which
+    duties of rescue exist.
+- **Main findings (AI-originated assessments):**
+  - **Anticipations.**
+    - The rationale family: Alexander 2016's prerogative–MP corollary and "not resources" framing;
+      Walen 2022's "patient-analog" of the claim not to make large sacrifices; Mack 2005's
+      non-hollowness argument.
+    - Parts of the criterion: Walen's tightness test for holdings; Otsuka's intention-based
+      *Six Behind One* contrast.
+    - The symmetric Loop point: Costa 1987, reported in Otsuka's fn 7.
+  - **Retraction found.** Walen 2016 retracts Walen 2014's symmetric-Loop verdict. The Crux Memo
+    and Plan v0.2 cite the 2014 view as agreement, so both need correcting.
+  - **Loop.** The literature and all the survey data concern the asymmetric Loop (Choo; Liao et
+    al.), and Choo's replies to the order-effect argument are strong. The SV must bite the bullet
+    on the asymmetric case, by argument. The symmetric point drops to a footnote.
+  - **Strongest demonstrations found.** The SV's test sorts:
+    - all six of Liao & Barry's counterfactual cases that defeat Øverland's and Walen's views;
+    - both of Walen's counterexamples to the absence baseline;
+    - *Six Behind One* (against Alexander).
+  - **Scope.** Cases where the victim is in the path of the agent's means are not spending and
+    must be scoped out: Foot's *Car Rescue*, *Flamethrower 2*, *Rescue Ahead*, Steinhoff's *Car*
+    cases.
+- **Compliance flags:** none. No custodian input in this segment.
+- **Approx. cost/time:** Human: 0. Machine: ~2 h (~500k tokens of reading).
+- **Next:** a rethink memo, then options to the custodian.
