@@ -68,3 +68,20 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
   where you see the paragraph-by-paragraph outline before any prose.
 - Needed from custodian: OpenReview registration. Page-numbered versions of five works when
   convenient.
+
+## [2026-09-22] Stage 4 — the outline is ready (Checkpoint 3)
+- The essay is now planned paragraph by paragraph: 38 paragraphs in six sections, projected at
+  about 5,600 of the 6,000 words. The file is `WIP Docs/Outline/Outline 4C v0.5.md`.
+- **The opening pair is redesigned** (my own cases, *Smoke* and *Wedge*). Both cases are now
+  killings, and the victim's body is used the same way in each. The earlier version's flaw was that
+  one case was a letting-die.
+- **My stress test found and fixed a hole in the central argument:** as worded, it would have
+  counted harmless uses of a person.
+- **A blind outside reviewer read the outline.** Main points, all taken on board:
+  - *Loop* now meets the strongest recent critic (Choo) head-on, and says openly that this is where
+    the essay overrides a strong intuition, and why.
+  - The founding author (Quinn) is now quoted directly. That showed the essay's core idea is his,
+    so the essay now claims the precise test and what follows from it, not the idea.
+  - The reviewer judged the plan near the level of a good specialist journal.
+- Integrity checks: passed at each outline layer.
+- Needed from custodian: sign-off on the structure; OpenReview registration.
