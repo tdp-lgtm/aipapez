@@ -905,3 +905,20 @@ methodology report.
 - **Compliance flags:** none.
 - **Next:** Checkpoint 3 re-presented to the custodian.
 - **Approx. cost/time:** Machine: ~25 min.
+
+## [2026-09-22] Session 1 (cont.) — CHECKPOINT 3 re-presented: APPROVED
+- **Models/agents:** Claude (Claude Code remote session).
+- **AI actions:** summarized Outline 4C v0.6 in plain English in chat: the kidney rule, why
+  side-effect harms differ, omissions as the kidney rule by omission, the *Loop* cases set out step
+  by step, and the three self-check corrections. Reminded the custodian about OpenReview
+  registration. Asked the same menu question as before: "Can I lock the outline's structure and
+  start writing the draft?"
+  - "Approve (Recommended)", described as "Lock the outline and start writing Draft 1 from it.";
+  - "Parts are unclear";
+  - "Too much for 6,000 words";
+  - "Needs more support".
+- **Human message (verbatim):** selected "Approve (Recommended)". No free text.
+- **Compliance assessment:** permitted, no flags. A selection among the AI's options.
+- **Result:** Outline 4C v0.6 is locked as the drafting contract for Draft v1.0.
+- **Next:** Stage 5. Calibration reads, then Draft v1.0 in one full-density pass to the section
+  budgets, then Lens Ac and the Draft v1.0 auditor gate.

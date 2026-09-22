@@ -85,3 +85,15 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
   - The reviewer judged the plan near the level of a good specialist journal.
 - Integrity checks: passed at each outline layer.
 - Needed from custodian: sign-off on the structure; OpenReview registration.
+
+## [2026-09-22] Checkpoint 3 — outline strengthened and approved
+- You asked for more support. I strengthened the four thinnest points:
+  - why the freedom not to give must protect more than a right to say no (a new kidney-rule case
+    of my own);
+  - why side-effect harms are different;
+  - letting harm happen;
+  - the *Loop* argument, now set out step by step.
+- My own check caught three accuracy slips in the new text; all were fixed before saving.
+- You approved. The outline (`WIP Docs/Outline/Outline 4C v0.6.md`) is now locked, and I am
+  writing the first full draft from it.
+- Needed from custodian: OpenReview registration, if not done yet.

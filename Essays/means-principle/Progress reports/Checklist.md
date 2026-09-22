@@ -41,7 +41,7 @@
 - [x] Argument-clinic pass: memo in Scrap/; accepted fixes in outline — `Scrap/argument-clinic-4C.md` (most serious: P2 false of harmless use, fixed by "at their own expense"); 11 fixes applied in `Outline 4C v0.4.md`
 - [x] Blind referee memo on outline; accepted items folded in — `WIP Docs/Referee Reports/Outline referee memo 4C.md` (one blind referee, sonnet tier; 5 major, 6 minor; all major items accepted); folded into `Outline 4C v0.5.md` (Loop rebuilt around Choo's argument; Quinn engaged directly; P2 defended conceptually; budget check added)
 - [x] Auditor gate — 4C FINAL: "VERDICT: APPROVE — Stage 4C's claimed work is genuinely done (files confirm it); the agent may proceed to Stage 5 (Draft v1.0)." (paper-auditor, haiku tier, 2026-09-22; verified 38 bullets, broad diffs at each round, Coverage Map v0.2, clinic and referee dispositions, clean referee input)
-- [ ] CHECKPOINT 3 — structure signed off; outline locked
+- [x] CHECKPOINT 3 — structure signed off; outline locked — first answer "Needs more support" (strengthened in `Outline 4C v0.6.md`: kidney rule, side-effect harms, omissions, the *Loop* cases); re-presented and approved 2026-09-22 ("Approve (Recommended)"). Locked: `WIP Docs/Outline/Outline 4C v0.6.md`
 
 ## Stage 5 — Draft v1.0
 - [ ] Calibration reads done (model-paragraphs in full + register samples) and logged
