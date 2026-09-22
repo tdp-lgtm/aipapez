@@ -30,7 +30,7 @@
 - [x] 4B argument outline (all six lenses; auditor gate) — `Outline 4B Argument v0.1.md`; "VERDICT: APPROVE — Stage 4B (Argument Outline) is genuinely done. […] The agent may proceed to Stage 4C." (paper-auditor, 2026-09-22; 19 verify tags counted, evidence caps spot-checked)
 - [x] 4C fat outline v0.1 (~1,800–2,400 words) — 46 paragraph-bullets, ~2,100 words; now at v0.3 after rounds
 - [x] 4C round 1 — completeness: Coverage Map built, gaps closed — `Coverage Map v0.1.md`: 3 defects found (missing equity objection — added as 6.3–6.4; one overreach softened; Feinberg extension under-defended — repaired) → v0.2
-- [ ] 4C round 2 — engagement: BLOCKED on source uploads (#1, #3, #4, #7, #12 minimum)
+- [x] 4C round 2 — engagement: every key interlocutor in bullets — custodian delivered 17 full texts (2026-09-22); all read or surveyed (notes: `Literature Map/Reading Notes — Round 2.md`); outline → v0.4 with all load-bearing (verify) tags discharged to on-disk sources; 5 new sources requested (incl. Maitra 2018 as pre-final originality check)
 - [x] Argument-clinic pass: memo in Scrap/; accepted fixes in outline — `Scrap/argument-clinic-4C.md`: 6 findings (lead: prophetic-coinage counterexample → answerability repair; uptake equivocation split; congestion objection added as 4.7b; pro tanto bridge; 2 discipline notes) all applied → v0.3
 - [ ] Blind referee memo on outline; accepted items folded in
 - [ ] Auditor gate — 4C FINAL: <verdict line>

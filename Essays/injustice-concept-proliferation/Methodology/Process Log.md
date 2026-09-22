@@ -163,3 +163,35 @@ methodology report.
 - **Tools/retrieval:** none this segment.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~45 min wall clock.
+
+## [2026-09-22] Session 2 — Source delivery; deep reading; 4C Round 2
+- **Models/agents:** Claude (Claude Code remote session; per get_session the configured model is
+  claude-fable-5).
+- **Human messages (verbatim):**
+  > You can find the md here: Essays/injustice-concept-proliferation/Background Readings/AI Drafter
+  > Conceptual Papers.md
+  >
+  > As always, feel free to learn from these and improve the argument. Also, feel free to keep
+  > asking for more papers and chapters as you go further and deeper into the issues
+- **AI actions:** Pulled the custodian's upload (1.28 MB Markdown; 17 of 21 requested sources);
+  split into per-paper files in `Converted text/`; noted absence of page markers (pinpoint policy
+  recorded in REQUESTS; Young excerpt partially paginated). Marked 17 rows RECEIVED. READ IN FULL:
+  Kitsik 2025, Jenkins 2020, Friedman 2025, Smith & Archer 2020, Fricker 2017, Nikolaidis 2020,
+  Dotson 2012, Byskov 2021, Alston 1984, Feinberg 1970 (+ manifesto-rights section). SURVEYED with
+  targeted reads: Haslam et al. 2020, Young ch. 4, Fricker 2007 chs. 1/7 structure (full clause-fill
+  reads deferred to drafting), Stevenson, Theilen, Srinivasan, Chalmers (footnote tier). Wrote
+  `Reading Notes — Round 2.md` (per-source findings). Ran 4C Round 2 (engagement): outline → v0.4 —
+  5.3/5.4 unblocked and filled from Jenkins/Friedman; Kitsik mechanisms + refined relation sentence;
+  Alston steelman precisified with the anarchic-manner point and the forum repositioning; Haslam
+  concession added; Dotson's open/closed-structures woven into the equity objection (6.3–6.4) and
+  answerability grounding (3.9); Fricker 2017 boundedness + Dotson order-of-change + Byskov
+  stakeholder-condition added as practice-self-discipline evidence (5.6); NEW: Feinberg
+  manifesto-rights anchoring + objection/reply (4.4a; paragraph count 48). All load-bearing (verify)
+  tags discharged to on-disk sources; 4 tags remain on undelivered sources with stated fallbacks.
+  Added 5 new REQUESTS rows (Maitra 2018 flagged as mandatory pre-final originality check).
+- **Selections:** none. The custodian provided literature and generic encouragement only
+  (permitted); all interpretations, repositionings, and new argumentative material AI-originated.
+- **Compliance flags:** none — "feel free to learn from these and improve the argument" is generic;
+  the sources are published literature for the AI to analyse (expressly permitted).
+- **Approx. cost/time:** Human: ~5 min (download/upload). Machine: ~90 min wall clock; ~300k tokens
+  of source reading.
