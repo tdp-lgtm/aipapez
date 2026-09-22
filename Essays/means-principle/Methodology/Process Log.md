@@ -112,3 +112,42 @@ methodology report.
 - **Compliance flags:** none (no custodian input this segment).
 - **Approx. cost/time:** Human: 0 minutes this segment. Machine: long segment (~2.5–3 hours wall
   clock); reading ~190k tokens of source text plus notes, 33 searches.
+
+## [2026-09-22] Session 1 (cont.) — CHECKPOINT 1 (thesis selection)
+- **Models/agents:** Claude (Claude Code remote session). No subagents this segment.
+- **Human messages (verbatim):**
+  > (via the interactive menu, question "Which thesis should this essay develop?", free-text answer)
+  > "A sounds most interesting but please explain the two caveats in more details before proceeding"
+
+  > (via the interactive menu, question "With those caveats in view, how should I proceed?")
+  > "Go ahead with A (Recommended)"
+- **AI actions:** Presented the four ranked sketches in plain English (A Spending View, recommended;
+  B Keeping and Taking; C Jurisdiction View; D Levers). At the custodian's request, explained the two
+  caveats flagged in Sketch A (AI-authored explanation): (1) overlap with Ramakrishnan's Utility for
+  harms to persons, and how the essay would handle it (state it up front; rest originality on the
+  rationale, the property scope, the duty-bounded "disabling" structure, and the use/spend
+  distinction; read Walen 2016/2022, Øverland 2014, Alexander 2016 to confirm); (2) the Loop verdict
+  (why the view cannot permit Loop without permitting a trapdoor Bridge; how it would be defended; the
+  Choo 2025 risk). Offered a follow-up choice (proceed with A / switch to B / switch to C or D). Saved
+  the selected sketch to `Brief/Argument Sketch.md`. Reminded the custodian about OpenReview.
+- **Selections:** Custodian selected Sketch A (the AI's top-ranked option) from 4 AI-generated sketches.
+  The custodian's first message asked for an explanation of caveats the AI itself had flagged; it
+  supplied no philosophical content.
+- **Tools/retrieval:** none this segment.
+- **Compliance flags:** none. The first message is a request for clarification of AI-generated
+  material (permitted: "asking the AI to ... expand on this point"); the second is a selection among
+  AI outputs (permitted).
+- **Approx. cost/time:** Human: ~3 minutes (reading summaries, two menu answers). Machine: ~10 min.
+
+## [2026-09-22] Session 1 (cont.) — Auditor gate: Idea Selection
+- **Models/agents:** paper-auditor subagent (haiku tier), fresh context; asked to verify the Stage 1
+  rows against the files on disk (candidates, logged searches, sketches, Checkpoint 1 log and
+  compliance).
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Ran the gate; recorded the verdict on the Checklist.
+- **Result:** "VERDICT: APPROVE — Stage 1 (Idea Selection)'s claimed work is genuinely done (files
+  confirm it); the agent may proceed to Stage 2 (Literature Review)." The auditor reported no
+  discrepancies (12 candidates; 33 numbered searches; 4 ranked sketches with premise-form arguments,
+  objections, cruxes; both CP1 messages verbatim; no philosophical substance in custodian input).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~2 min (auditor ~45k tokens, 16 tool calls).

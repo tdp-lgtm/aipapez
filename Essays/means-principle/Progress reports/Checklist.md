@@ -10,8 +10,8 @@
 - [x] ≥10 candidate contributions generated (WIP Docs/Candidates/) — 12 candidates (C1–C12), each with P/Q/R test, contribution type, originality hypothesis, case verdicts (`Thesis Candidates v0.1.md`); generated after reading all 11 provided works in full (notes in `Literature Map/Reading Notes — Provided Corpus.md`)
 - [x] Originality/significance pre-screen run (searches logged) — 33 WebSearch queries (listed in Process Log; fetch blocked by egress); verdict table in `Thesis Candidates v0.1.md`: 4 advance, 5 merged, 3 killed; flagship stress-tested (Loop/trapdoor-Bridge counterexample forced a re-specification)
 - [x] Top 3–5 written up as Argument Sketches, ranked — 4 sketches (A Spending View, B Keeping and Taking, C Jurisdiction View, D Levers) with premise-form arguments, main objections, cruxes, ranking table (`Argument Sketches v0.1.md`)
-- [ ] CHECKPOINT 1 — sketch selected (by custodian / autonomously); saved to Brief/
-- [ ] Auditor gate — Idea Selection: <verdict line>
+- [x] CHECKPOINT 1 — sketch selected (by custodian / autonomously); saved to Brief/ — custodian selected Sketch A, the Spending View (also the AI's top rank), after asking for the two caveats to be explained ("Go ahead with A (Recommended)", 2026-09-22); saved to `Brief/Argument Sketch.md`; exchange verbatim in Process Log
+- [x] Auditor gate — Idea Selection: "VERDICT: APPROVE — Stage 1 (Idea Selection)'s claimed work is genuinely done (files confirm it); the agent may proceed to Stage 2 (Literature Review)." (paper-auditor, haiku tier, 2026-09-22; verified 12 candidates, 33 logged searches, 4 sketches, CP1 verbatim log, Brief/Argument Sketch.md, no compliance issues)
 
 ## Stage 2 — Literature review
 - [ ] Active search done; key sources obtained or flagged
