@@ -960,3 +960,23 @@ methodology report.
 - **Compliance flags:** none.
 - **Next:** the Draft v1.0 auditor gate.
 - **Approx. cost/time:** Machine: ~1.5 h.
+
+## [2026-09-22] Session 1 (cont.) — Auditor gate, Draft v1.0: APPROVE
+- **Models/agents:** paper-auditor subagent, haiku tier.
+- **Gate result (verdict line, verbatim):** "VERDICT: APPROVE — Stage 5 (Draft v1.0)'s claimed work
+  is genuinely done (files confirm it); all 38 outline bullets are unpacked into prose with clear
+  mappings to draft paragraphs; quotations are verified against source files on disk; word count
+  matches the self-check's ~1,000-word overage; calibration reads and drafting session are logged
+  in full in the Process Log; the draft contains no mention of AI, the competition, or its own
+  process; and the self-check's minor deviations are transparent and within budget allowances. The
+  agent may proceed to Stage 6 (Quality passes)."
+- **What the auditor reported verifying:**
+  - the six-section structure against the outline;
+  - two quotations against the source files (Quong, file 09 L47; Quinn, file 12 L249–255);
+  - the word count (6,506 with the changelog line);
+  - the Process Log's Stage 5 entry;
+  - a hygiene search for AI, competition and prompt terms.
+  It was asked for at least six bullet spot-checks and five quotation checks. Its report lists
+  fewer, so this log records only what it reported.
+- **Next:** Stage 6 Pass 1 (v1.1), a cut pass with quality work.
+- **Approx. cost/time:** Machine: ~5 min.
