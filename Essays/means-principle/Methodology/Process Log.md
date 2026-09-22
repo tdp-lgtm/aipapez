@@ -568,3 +568,36 @@ methodology report.
   The plan goes to the custodian next.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~2 min (auditor ~55k tokens).
+
+## [2026-09-22] Session 1 (cont.) — CHECKPOINT 2: Plan approved; opening chosen
+- **Models/agents:** Claude (Claude Code remote session).
+- **AI actions:** summarized Plan v0.3 in plain English in chat and asked two menu questions.
+  - "How does the plan look?", with options "Approve (Recommended)", "Parts are unclear", "Too
+    ambitious for 6,000", "Needs more support".
+  - "How should the essay open?", with options "Two clinical trials (Recommended)" and "Classic pair
+    of cases".
+  - Also sent a source request: Millum & Grady 2013 and the Declaration of Helsinki for the trials
+    opening; paginated originals as lower priority.
+- **Human messages (verbatim):**
+  - Q1: "Approve (Recommended)".
+  - Q2: "Classic self-written cases". Free text typed in place of the offered options.
+- **Compliance assessment:** permitted, no flags.
+  - Q1 is an approval.
+  - Q2 is a generic preference about the form of the opening: cases written for the essay, in the
+    classic thought-experiment style, rather than borrowed ones. It supplies no case, argument,
+    distinction or objection. The cases will be AI-originated.
+  - AI interpretation, stated to the custodian: open with a pair of cases the AI writes itself, not
+    the clinical trials and not Ramakrishnan's existing pair.
+- **AI actions after the checkpoint:** Plan v0.4 (v0.3 moved to `Old versions/`).
+  - §1 hook: a self-written minimal pair, drafted by the AI (a firefighter uses an unconscious
+    neighbour's body to hold a trapdoor, in two versions: he dies of the smoke because there is time
+    to save only the five, or his body is wedged so that it crushes him).
+  - Ramakrishnan's cases are told plainly with credit.
+  - Research ethics becomes an optional §3 illustration.
+  - Named cases: the opening pair and *Loop*.
+  - **Deterministic self-check:** the diff between v0.3 and v0.4 shows exactly the changelog's items.
+    The only single-asterisk italic case name left in the Plan is *Loop*; the other two names get
+    chosen at 4C.
+- **Selections:** the Plan is approved; the opening is the custodian's free-text choice. Next is
+  Stage 4 (Layered Outline); Checkpoint 3 comes at the paragraph outline (4C).
+- **Approx. cost/time:** Human: ~1 min. Machine: ~10 min.

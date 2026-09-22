@@ -57,3 +57,14 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
 - Integrity check: first result REVISE, for two record-keeping mismatches (a count of case names;
   a checklist line). Both fixed; re-check under way.
 - Needed from custodian (soon): approval of the plan at Checkpoint 2; OpenReview registration.
+
+## [2026-09-22] Checkpoint 2 — plan approved
+- The plan passed its integrity check. You approved it.
+- Opening: you chose "classic self-written cases". I've drafted a pair about a firefighter and an
+  unconscious neighbour, in `WIP Docs/Plan/Plan v0.4.md` §5 (§1 Introduction). You'll see it
+  properly in the outline.
+- The clinical-trials sources are now optional. They would only add a supporting example.
+- Next: the layered outline (skeleton → argument outline → paragraph outline). Then Checkpoint 3,
+  where you see the paragraph-by-paragraph outline before any prose.
+- Needed from custodian: OpenReview registration. Page-numbered versions of five works when
+  convenient.
