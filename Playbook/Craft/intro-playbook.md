@@ -4,8 +4,8 @@ The introduction is the highest-leverage page of the paper. Referees form a
 verdict-shaped impression within it. Its job: make the reader *feel a problem*,
 believe it matters, and learn what you'll argue — fast.
 
-> For the corpus-grounded conventions and real opening examples (Clark, Muñoz, Howard, Srinivasan),
-> see `journal-craft.md` §1–2; this file is the practical drill-down for building and fixing an
+> For the corpus-grounded conventions, see `journal-craft.md` §1–2; the opening architectures are
+> in `moves-catalog.md` Part 1. This file is the practical drill-down for building and fixing an
 > opening. Adapted from the entrant's `acdemwrit` writing system.
 
 ---
@@ -30,9 +30,9 @@ with a *move*:
 - **The puzzle / inconsistent triad.** "Here are three things we're inclined to
   believe. They can't all be true." Then the paper is the resolution. Powerful
   because the reader is hooked by their *own* commitments.
-- **The vivid case.** A concrete scenario that pumps an intuition (Thomson's
-  violinist; the trolley; a well-chosen real example). State immediately what the
-  case is meant to show. Best when one clean case carries the paper.
+- **The vivid case.** A concrete scenario that pumps an intuition — a stipulated case built for
+  the job, or a well-chosen real example. State immediately what the case is meant to show. Best
+  when one clean case carries the paper.
 - **The bold thesis.** Lead with a surprising claim stated flatly, then spend the
   paper earning it. Works when the thesis is genuinely counterintuitive.
 - **The "they-say / I-say."** "It is widely held that Q. I argue this is
@@ -41,9 +41,8 @@ with a *move*:
   about Y." Reframings are high-value when they land.
 - **The gap opening.** "Much has been written about X; almost nothing about Y" —
   legitimate as the literal opening *when the gap itself is the surprise and
-  carries the motivation* (Oberman-style; exemplar
-  `oberman-optional-war--gap-framing`; DIGEST §8 Openings). Limp gap-framing
-  with no edge stays banned.
+  carries the motivation* (the sharp gap opening, `moves-catalog.md` Part 1; DIGEST §8 Openings).
+  Limp gap-framing with no edge stays banned.
 
 Avoid: the dictionary opening, the throat-clearing history of the problem ("Since
 Aristotle…"), and the topic announcement with no tension.
@@ -63,7 +62,7 @@ at risk**. Techniques:
   advantage that the stakes are often concrete (justice, harm, rights, the law).
   Use it — but keep the case in service of the argument, not decoration.
 
-The McEnerney point (worth internalizing): academic writing earns its keep by
+The point worth internalizing: academic writing earns its keep by
 creating value for a *community of expert readers* — it changes what they think.
 Your intro's job is to show *those* readers that they have a problem they didn't
 fully see, and that you can move them on it.

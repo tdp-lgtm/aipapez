@@ -30,9 +30,10 @@ session-by-session methodology logging on top.
   citation audits against real sources, and an integrity auditor that verifies claimed work against
   files.
 - **A field-craft layer.** `Playbook/Craft/` distills how top analytic philosophy papers are built —
-  structure conventions, intro playbook, prose principles, AI-tell bans, and an exemplar bank of
-  transferable moves from published papers (techniques only, never text) — adapted from the
-  entrant's own `acdemwrit` writing system.
+  structure conventions, intro playbook, prose principles, AI-tell bans, and an anonymous Moves
+  Catalog of argument architectures and prose techniques — adapted from the entrant's own
+  `acdemwrit` writing system. House rule: the playbook names no real authors or papers; lessons are
+  kept as abstract rules.
 - **A literature loop.** The agent maintains a per-essay source-request list; the entrant uploads
   the PDFs (or Markdown) it cannot reach — engagement and accuracy are graded, and fabrication is
   banned.
@@ -44,7 +45,6 @@ session-by-session methodology logging on top.
 - `Playbook/` — pipeline, essay style guide, methodology protocol, project template, referee
   templates (all Markdown).
 - `Essays/` — one folder per essay.
-- `Model Prose/` — register models (read for sentence shapes, never content).
 - `.claude/agents/` — the referee, citation-auditor, copy-critic, and paper-auditor subagents.
 - `Behind the scenes (Claude)/Build scripts/` — scaffolding and word-count tools (plus legacy
   Word-era tooling).

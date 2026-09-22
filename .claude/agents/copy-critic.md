@@ -33,9 +33,11 @@ a term, case, or allusion used before it is introduced; a named principle / the 
 central argument not set as a display; premises not visibly implying the conclusion; missing defense
 locations.
 
-**Exemplar-echo check:** compare suspect passages against `Playbook/Craft/Exemplars/` — any essay
-sentence, case, coinage, or image that echoes an exemplar's wording (rather than merely using its
-technique) is a MUST-FIX: the bank licenses moves, never words.
+**Pastiche check:** the Moves Catalog (`Playbook/Craft/moves-catalog.md`) licenses techniques,
+never text — an essay that reads as an imitation of one identifiable author, or that leans on a
+borrowed case, coinage, or image rather than its own material, is a MUST-FIX. So is any distinctive
+phrasing lifted from a source without quotation marks and a citation (check against
+`Background Readings/`).
 
 ## 3. Prose defects that hide the philosophy
 - Editorializing: "it is important to note," "interestingly," "notably," "crucially."

@@ -40,8 +40,8 @@ from the entrant's `acdemwrit` writing system.
 5. **Build the strongest objection** — not a list of weak ones: *the* objection a smart, hostile
    specialist raises first. State it better than they would.
 6. **Draft candidate replies**, marked as candidates; flag when a reply requires narrowing the
-   thesis (an honest concession, often the right move — see `Craft/Exemplars/prose/
-   lichter-asif--retreat-to-safer-claim.md`) versus genuinely defeating the objection.
+   thesis (an honest concession, often the right move — see "the built-in fallback,"
+   `Craft/moves-catalog.md` Part 2) versus genuinely defeating the objection.
 7. **Generate counterexamples and cases**, each isolating one variable (minimal-pair discipline,
    DIGEST §2).
 

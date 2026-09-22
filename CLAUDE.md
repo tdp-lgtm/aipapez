@@ -23,9 +23,11 @@ remain, but its premise is inverted: there, the author supplied the thesis and y
    in full on a first run.
 6. **`Playbook/2. Essay Style Guide.md`** — how the essays are written (clarity-first analytic
    philosophy register, displays, premise-form central argument, 6k discipline). Depth behind it:
-   `Playbook/Craft/` (journal craft, intro playbook, prose principles, AI-tells, abstracts, the
-   casebooks) and `Playbook/Craft/Exemplars/` — a bank of transferable moves from published papers,
-   governed by one rule: **borrow techniques, never sentences, cases, coinages, or content**.
+   `Playbook/Craft/` — journal craft, intro playbook, prose principles, AI-tells, abstracts, and
+   the anonymous Moves Catalog — governed by two rules (canonical in `Craft/README.md`): the
+   playbook names **no real authors or papers** (lessons are kept as abstract rules; essays cite
+   the real literature, verified), and techniques are executed in the essay's own material — no
+   imported sentences, cases, or coinages.
 7. **`Playbook/3. Methodology Protocol.md`** — the logging duty and the report that ships with every
    essay.
 8. **`Playbook/4. Essay Project Template.md`** — folder spec and the Checklist template.
@@ -105,8 +107,6 @@ Do **not** ask for a thesis, arguments, or an argument sketch. Generating those 
 - **`Playbook/`** — pipeline, style guide, methodology protocol, project template, referee templates.
 - **`Essays/<slug>/`** — everything for one essay: `Brief/`, `Background Readings/`, `WIP Docs/`,
   `Methodology/`, `Progress reports/`, `Scrap/`, `Submission/`.
-- **`Model Prose/`** — register models (strong analytic philosophy papers, with `.md` mirrors). Read
-  for sentence shapes and register only — never import content.
 - **`.claude/agents/`** — paper-auditor, referee, citation-auditor, copy-critic.
 - **`Behind the scenes (Claude)/Build scripts/`** — `new_essay.py` (scaffold), `word_count.py` (the
   6k arbiter), `read_docx.py` (read .docx sources), `gen_docx.py`/`gen_paper_docx.py` (Word builds,

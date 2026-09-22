@@ -21,48 +21,23 @@ The corpus formula (cf. `journal-craft.md` §11), in order:
 No literature review, no "Section 2 then discusses…", no hedged thesis. Length: ~100–150 words is
 the sweet spot (and the abstract counts toward the competition's 6,000-word cap).
 
-### Annotated real examples (verbatim)
+### The formula in action (lessons from the corpus, anonymized)
 
-**Clark, "The Demands of Necessity" (Ethics) — the compact ideal (~55 words):**
+Three shapes the best abstracts in the corpus take — study the *mechanics*:
 
-> Defensive harm is subject to both a proportionality and necessity constraint.
-> In what follows I precisify, explain, and unify these two constraints. I argue
-> that they express the very same moral demand, only at different levels of
-> generality — specifically, the demand that an attacker not be made to bear more
-> cost to avert their attack than they would be required to take on themselves.
-
-*Why it works:* sentence 1 = the accepted terrain; sentence 2 = what the paper
-does, in three verbs; sentence 3 = the thesis stated fully enough that a reader
-could disagree with it from the abstract alone. Nothing about structure.
-
-**Muñoz, "Three Paradoxes of Supererogation" (Noûs) — puzzle-first:**
-
-> Supererogatory acts — good deeds "beyond the call of duty" — are a part of
-> moral common sense, but conceptually puzzling. I propose a unified solution to
-> three of the most infamous puzzles: the classic Paradox of Supererogation (if
-> it's so good, why isn't it just obligatory?), Horton's All or Nothing Problem,
-> and Kamm's Intransitivity Paradox. I conclude that supererogation makes sense
-> if, and only if, the grounds of rightness are [multi-dimensional and comparative].
-
-*Why it works:* the tension lands in sentence 1 (common sense *but* puzzling);
-the contribution is scoped by *enumerating* exactly what gets solved; the
-conclusion is stated as a biconditional — maximal informativeness, zero hedging.
-Even the parenthetical question ("if it's so good, why isn't it just
-obligatory?") does work: the reader feels the puzzle inside the abstract.
-
-**Muñoz, "Impartiality, Anonymity, and Caring Who" (Free & Equal) — foil-first:**
-
-> In the last 30 years, a range of powerful arguments have pushed ethics in a
-> utilitarian direction by invoking the principle of Outcome Anonymity… This
-> principle is often presented as a minimal requirement of impartiality. I argue
-> that it is not. Outcome Anonymity forbids more than partiality: it forbids
-> caring who is who in a welfare distribution. After illustrating this point with
-> four examples, I present a theorem that suggests…
-
-*Why it works:* the foil gets built up ("powerful arguments", "often presented
-as minimal") precisely so the four-word thesis — "I argue that it is not." — can
-detonate. The method sentence ("four examples… a theorem") tells the expert
-reader exactly what kind of paper this is.
+- **The compact ideal (~50–80 words).** Sentence 1 states the accepted terrain (the two constraints
+  everyone recognizes). Sentence 2 says what the paper does, in two or three plain verbs
+  ("precisify, explain, and unify"). Sentence 3 states the thesis fully enough that a reader could
+  disagree with it from the abstract alone. Nothing about structure.
+- **Puzzle-first.** The tension lands in sentence 1 (common sense *but* conceptually puzzling); the
+  contribution is scoped by *enumerating* exactly which puzzles get solved; the conclusion is
+  stated at maximal informativeness (ideally as a biconditional or an "if and only if"), zero
+  hedging. A short parenthetical question can make the reader feel the puzzle inside the abstract
+  itself.
+- **Foil-first.** The rival principle is built up ("powerful arguments," "often presented as a
+  minimal requirement") precisely so a four-word thesis — "I argue it is not." — can detonate. A
+  one-sentence method note ("four examples and a theorem") tells the expert reader exactly what
+  kind of paper this is.
 
 ### Anti-patterns
 
@@ -78,27 +53,19 @@ reader exactly what kind of paper this is.
 
 ## Titles
 
-### The corpus patterns (all real examples)
+### The title patterns (examples invented to show the shape)
 
-- **Named-view titles** — the title IS the contribution's handle: *The Limited
-  Use View of the Duty to Save*.
-- **Verdict titles** — the thesis in the title, sometimes with its scope:
-  *Why Paternalism Is Wrong (When It Is Wrong)*; *The Myth of the Optional War:
-  Why States Are Required to Wage the Wars They Are Permitted to Wage*.
-- **Question titles** — the paper's exact question: *What's Unjust about
-  Structural Injustice?*
-- **Phenomenon titles** — name the thing you're theorizing, preferably as a
-  fresh two-word noun phrase: *Wrongful Observation*; *Dangerous Speech*;
-  *Civilian Liability*; *Taking Responsibility*.
-- **Colon titles (hook: precision)** — evocative left, exact right: *Innocence
-  Lost: A Problem for Punishment as Duty*; *"As If": Reasonable Mistakes and
-  Defensive Liability*.
-- **Allusion/wit titles** — memorable, but the subtitle must carry the content:
-  *If You'll Be My Bodyguard: Agreements to Save and the Duty to Minimize Harm*;
-  *Orwell's Battle with Brittain*; *But Thinking Makes It So*; *Reverse-
-  Engineering Blame*.
-- **Pair titles** — two coordinated terms naming a tension: *Killing and
-  Rescuing*; *Pride and Investment*; *Changing Minds and Hearts*.
+- **Named-view titles** — the title IS the contribution's handle: *The Standing Account of
+  Forgiveness*.
+- **Verdict titles** — the thesis in the title, sometimes with its scope: *Why Nudging Wrongs No
+  One (When It Wrongs No One)*.
+- **Question titles** — the paper's exact question: *What's Wrong with Moral Deference?*
+- **Phenomenon titles** — name the thing you're theorizing, preferably as a fresh two-word noun
+  phrase: *Wrongful Persuasion*; *Moral Outsourcing*.
+- **Colon titles (hook: precision)** — evocative left, exact right: *Borrowed Convictions: Testimony
+  and the Ethics of Belief*.
+- **Allusion/wit titles** — memorable, but the subtitle must carry the literal content.
+- **Pair titles** — two coordinated terms naming a tension: *Blaming and Explaining*.
 
 ### Rules of thumb
 

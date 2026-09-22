@@ -67,7 +67,7 @@ Deliverables are Markdown — read them directly. Useful measurements (run from 
 - Bullet counts per section for outline-fatness checks: count `^\s*[-*]` lines per `^#` heading
   (a few lines of Python or grep). **Compare versions** by running counts on both and diffing —
   that is how you tell whether a "round" really happened.
-- Legacy .docx (Model Prose, legacy playbook): `python3 "Behind the scenes (Claude)/Build scripts/read_docx.py" "<path>"`.
+- Source .docx (readings, legacy playbook): `python3 "Behind the scenes (Claude)/Build scripts/read_docx.py" "<path>"`.
 
 ## Checklist integrity (every gate)
 Open the essay's Checklist. For every row marked done for this stage, confirm the named artifact

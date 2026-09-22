@@ -6,8 +6,9 @@ draws on the tradition of Williams (*Style: Lessons in Clarity and Grace*),
 Pinker (*The Sense of Style*), and the plain-spoken clarity of the field's best
 stylists.
 
-> The *examples* that make this concrete live in `Exemplars/` and `prose-casebook.md`. Adapted from
-> the entrant's `acdemwrit` writing system. Standing rule: imitate techniques, never sentences.
+> The move bank that makes this concrete is `moves-catalog.md` Part 2. Adapted from the entrant's
+> `acdemwrit` writing system, anonymized per the Craft anonymity rule (`README.md`). Standing rule:
+> techniques, never sentences.
 
 ---
 
@@ -103,7 +104,7 @@ the 12k-token original. Adopted, with calibration:
   field practice and house style; they stay.
 - **Parallel form for parallel ideas.** Coordinate claims, rival views, and
   matched cases deserve matched syntax, so the reader parses the structure once
-  and reuses it. (The Muñoz display-the-rival-argument template is this rule at
+  and reuses it. (The attack-one-premise displayed-rival template is this rule at
   paper scale; minimal pairs are this rule at case scale.)
 - **Keep related words together.** Subject near verb, modifier next to what it
   modifies; distance breeds ambiguity — "she only said the premise was
@@ -120,118 +121,67 @@ not short prose (see the house-style throughline below).
 
 ## The house style you're aiming for (snappy, clear, condensed)
 
-Distilled from the field's admired stylists — Frowe, Muñoz, Clark, Sliwa (her register below),
-Srinivasan, Tadros — plus §10 of `journal-craft.md`. These are the moves that make the style work —
-imitate the *technique*, never the sentences (the Exemplars folder rule governs).
+Distilled from the field's admired stylists (kept anonymous per the Craft anonymity rule) plus §10
+of `journal-craft.md`. These are the moves that make the style work — techniques to execute in the
+essay's own material.
 
-- **Short declaratives for the load-bearing beats.** Let cadence carry weight.
-  When a point matters, give it its own short sentence — sometimes its own
-  one-line paragraph: *"But these principles are different, and the difference
-  matters."* The white space is doing work.
-- **Open plain, then turn.** Begin with an almost conversational claim, then pivot
-  on a "but": *"Most of us, most of the time, are partial… But most ethicists
-  think we should sometimes be impartial."* The turn is where the paper starts.
-- **State the thesis flat — no hedging.** *"I argue that it is not."* Save
-  qualifiers for the inferences, not the thesis.
-- **One vivid metaphor, used once.** A single memorable image fixes the stakes
-  (*"a Trojan horse for classical utilitarians"*). Don't pile them up; one earns
-  its keep, three are a tell.
-- **Rhetorical question only as a pivot, answered immediately.** *"But is Outcome
-  Anonymity truly a requirement of impartial concern? I argue that it is not."*
-  Never leave a rhetorical question hanging as if it were an argument.
-- **Concede, then narrow.** Grant the objection in plain words, then say exactly
-  what you still hold: *"I concede that Majority Rule isn't plausible… But I'm not
-  saying it's plausible, only that it's impartial."* Conceding buys authority.
-- **Make the abstract concrete with a homely image.** Cash out a technical point
-  in something physical: welfares as *"fungible goodies"*; a city that would
-  *"destroy one neighborhood to shave time off of millions of commutes."*
-- **Coin at most one term; define it once; then repeat it.** Don't elegantly vary
-  your key term. And when a concept is technical, *visualize* it ("there is an
-  easy way to visualize this…") rather than leaning on the formalism.
-- **End on the strong word, and allow yourself a crisp closing beat.** A short,
-  slightly wry sign-off is permitted once the work is done — *if the body earned
-  it*, and one at most (DIGEST §8 Closings): *"Or so I shall argue."*
+- **Short declaratives for the load-bearing beats.** Let cadence carry weight. When a point
+  matters, give it its own short sentence — sometimes its own one-line paragraph. The white space
+  is doing work.
+- **Open plain, then turn.** Begin with an almost conversational claim the reader accepts, then
+  pivot on a "but" into the tension. The turn is where the paper starts.
+- **State the thesis flat — no hedging.** Save qualifiers for the inferences, not the thesis.
+- **One vivid metaphor, used once.** A single memorable image fixes the stakes. Don't pile them up;
+  one earns its keep, three are a tell.
+- **Rhetorical question only as a pivot, answered immediately and flatly.** Never leave one hanging
+  as if it were an argument.
+- **Concede, then narrow.** Grant the objection in plain words, then say exactly what you still
+  hold. Conceding buys authority.
+- **Make the abstract concrete with a homely image.** Cash out a technical point in something
+  physical and everyday — a plain-words parenthetical can make a formal principle undeniable in
+  passing.
+- **Coin at most one term; define it once; then repeat it.** Don't elegantly vary your key term.
+  When a concept is technical, *visualize* it (give the reader an operation to perform on an
+  example) rather than leaning on the formalism.
+- **End on the strong word, and allow yourself a crisp closing beat.** A short, slightly wry
+  sign-off is permitted once the work is done — *if the body earned it*, and one at most (DIGEST §8
+  Closings).
 
-The throughline: plain words, short sentences at the pivots, confidence at the
-thesis and humility at the inferences, and exactly one image per idea. Condensed
-prose is not prose with the connectives ripped out — it's prose where every
-sentence is load-bearing.
+The throughline: plain words, short sentences at the pivots, confidence at the thesis and humility
+at the inferences, and exactly one image per idea. Condensed prose is not prose with the
+connectives ripped out — it's prose where every sentence is load-bearing.
 
-### Signature openings & moves seen across the corpus
+### The full move bank
 
-More transferable moves, harvested from the prose corpus (Muñoz and co-authors;
-Clark; "As If"). Each is a *technique*, not a template — vary the execution. For the full bank of
-moves sorted by job (openings, transitions, objection/reply, concessions,
-cadence, closings), see `prose-casebook.md`; for fuller annotated passages, see `Exemplars/`.
+The openings, transitions, verdicts, concessions, compression devices, and cadence tools this
+style runs on are catalogued — anonymously, one entry per move — in `moves-catalog.md` Part 2.
+Reach for it while drafting and in every clarity pass.
 
-- **The misdirection opening.** Narrate something that sounds outrageous, then
-  pull the rug. A deadpan first-person catalogue of "thefts" and "assaults" that
-  turns out to be self-directed: *"Before you reach for any moral sanctions: this
-  'neighbor' of mine was me."* (Muñoz & Baron-Schmitt, *Wronging Oneself*.) The
-  reader feels the puzzle before any apparatus arrives.
-- **Two camps, one-word stances.** Locate a whole debate in two sentences by
-  naming one representative per side with a one-word answer: *"Most ethicists,
-  like Parfit, say yes… But some, like Taurek, say no."* (Muñoz, *Each Counts for
-  One*.) Maximum orientation, minimum words.
-- **The diagnosis move.** When you reframe a debate, name exactly what everyone
-  has been conflating: *"both sides fail to distinguish Anonymity… from
-  Responsiveness."* The distinction you name becomes the spine of the paper.
-- **Scope with "we are here to / not here to."** State the project and its limits
-  in parallel: *"We are here to defend this alternative view…"* / *"We are not
-  here to convert the skeptic."* Crisp, and it pre-empts the "but you didn't
-  address X" referee.
-- **Name the view in small caps, then reuse it.** VIOLATION, CULPABILITY,
-  LIABILITY CONTRACTION, *Self-Other Symmetry*: a named noun-phrase becomes the
-  referent the reader (and citing referees) navigate by. Name once; never
-  paraphrase it later.
-- **The witty fragment, used once.** A short, dry fragment can carry a beat that a
-  full sentence would deaden: *"Lovely stuff; hardly required."* (Muñoz,
-  *Supererogation*.) Seasoning, not the meal.
-- **Rhetorical question to pump a paradox, then press on.** *"But surely it's
-  always worse to do wrong. How could it not be?"* The question dramatizes the
-  tension the paper will dissolve; it never substitutes for the argument.
+### The warm register (warmth with rigor — an alternative register for socially textured topics)
 
-### The Sliwa register (warmth with rigor)
+Where the default register strips cases to schematics, some essays — on topics living in ordinary
+social experience — do better in a warmer register that builds social realism into the argument
+itself while staying analytically exact:
 
-A fourth named prose model (with Frowe, Muñoz, Clark). Mined from four
-Sliwa papers (2019–2025); the register is stable across venues. Where Frowe
-strips cases to schematics and Muñoz goes for aphoristic snap, Sliwa builds
-**social realism into the argument itself** — and stays analytically exact.
-
-- **Vignette openings with comic timing**, inside ordinary experience before any
-  literature: *"Imagine your friend was supposed to meet you for a drink at 6.
-  You arrive at the pub a few minutes early, settle down with a beer, and wait
-  . . . and wait . . . and wait."* Or the everyday-failure tetracolon: *"We break
-  promises, betray secrets, get into arguments, forget birthdays and
-  appointments."*
-- **The theory epigram**: compress the whole account into parallel beats —
-  *"Wrongdoing creates a normative footprint. Blame communicates it. Forgiveness
-  erases it."*
-- **One governing metaphor per paper**, coined once ("Call the aggregate set of
-  normative changes… its *normative footprint*") and worked relentlessly; every
-  view baptized on arrival ("Call this the self-blame account").
-- **Textured cases with load-bearing detail**: named ordinary people, dialogue,
-  domestic and workplace reality — and the punchline of the case can *be* the
-  philosophy (*"At least he didn't throw himself on the floor!"*). **Caution for
-  imitation:** every detail must do moral work (the sweaty hands establish
-  non-culpability); color without function is padding.
-- **Objections voiced in the reader's second person**, answered concessively but
-  firmly: *"How could he have done a wrong, you might object…"*; *"This natural
-  thought is partly correct… But it is not entirely correct."* Blunt verdicts on
-  rivals stay available: *"This is wildly implausible."*
-- **Homely-analogy deflation**: *"if you have both a tooth- and a backache and a
-  medicine effectively relieves you of the toothache, it's still a pretty good
-  medicine!"*
-- **Cadence tools**: zeugma yoking abstract and concrete (*"Promises, hearts,
-  and windows can be broken through inadvertence"*); the emphatic tail (*"a duty
-  not to injure full stop"*); wry parentheticals as tonal relief (*"(The tax
-  code, fortunately, makes no such demands on our emotional lives.)"*).
-- **Closings that re-perform the coinage or call back the title** rather than
-  summarize: *"…moral testimony that changes both minds and hearts."*
-- **Structural note**: her papers run a *reverse-engineering arc* — platitudes of
-  the practice → hypothesis → clarify it → put it to work feature-by-feature →
-  rivals — rather than Frowe's case-verdict-principle arc. Humour targets
-  situations and bad views, never persons.
+- **Vignette openings with comic timing**, inside ordinary experience before any literature; the
+  pacing (even the typography) can perform the phenomenon.
+- **The theory epigram**: once the account is built, compress it into two or three parallel
+  subject–verb–object beats the reader carries away.
+- **One governing metaphor per paper**, coined once and worked relentlessly; every view baptized on
+  arrival ("Call this the … account").
+- **Textured cases with load-bearing detail**: named ordinary people, dialogue, domestic and
+  workplace reality — and the punchline of a case can *be* the philosophy. **Caution:** every
+  detail must do normative work; color without function is padding.
+- **Objections voiced in the reader's second person** ("How could that be a wrong, you might
+  object…"), answered concessively but firmly; blunt verdicts on rivals stay available.
+- **Homely-analogy deflation**: an opponent's over-reaching inference dies in one domestic analogy,
+  no apparatus.
+- **Cadence tools**: zeugma yoking abstract and concrete; the emphatic tail ("…full stop"); wry
+  parentheticals as tonal relief.
+- **Closings that re-perform the coinage or call back the title** rather than summarize.
+- **Structural note**: this register pairs naturally with the reverse-engineering arc
+  (`moves-catalog.md` Part 1) rather than the case-verdict-principle arc. Humour targets situations
+  and bad views, never persons.
 
 ## A self-edit sequence (for the Stage-7 clarity pass and every quality pass)
 

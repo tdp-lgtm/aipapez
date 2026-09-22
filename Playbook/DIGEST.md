@@ -3,7 +3,7 @@
 The compressed synthesis of the whole playbook. **Load this every session; pull the deep files only
 when the task needs them** (table in §10). Hard cap: 2,000 words — to add here, demote something.
 Precedence on any conflict: root `CLAUDE.md` → §8 Adjudications here → the owning deep file →
-casebooks/exemplars (§11).
+the Moves Catalog (§11).
 
 ## 0. The venue and the two hard constraints
 
@@ -69,12 +69,14 @@ flat; explain before use; no metaphor doing argument work; concrete before abstr
 repeated; "I" throughout; em dashes minimal. Full rules: `Playbook/2. Essay Style Guide.md`; craft
 depth: `Craft/prose-principles.md`.
 
-## 5. Exemplars — moves, never words
+## 5. The Moves Catalog — and the anonymity rule
 
-`Craft/Exemplars/` is a bank of transferable moves from published papers (argument architectures in
-`structure/`, sentence moves in `prose/`). Pick 2–3 per task by the catalog in its README. Standing
-rule: **borrow the technique, never the sentence, case, coinage, or content** — no pastiche of any
-author; anything echoing an exemplar too closely is a copy-critic defect.
+`Craft/moves-catalog.md` is the bank of transferable techniques: Part 1 argument architectures
+(pick 2–3 at Plan/Outline time by contribution type), Part 2 prose moves (drafting and clarity
+passes). Two standing rules (canonical in `Craft/README.md`): **the playbook names no real authors
+or papers** — craft lessons are kept as anonymous, abstract rules (essays, by contrast, cite the
+real literature by name, verified); and **techniques are executed in the essay's own material** —
+no pastiche, no imported cases, coinages, or sentences.
 
 ## 6. Top AI-tells
 
@@ -89,8 +91,8 @@ Setup → Idea Generation & Selection (P/Q/R candidates, originality pre-screen,
 Plan → Outline 4A/4B/4C (fat = ~30–40% of 6k) + argument-clinic pass → Draft v1.0 (full density) →
 Quality passes → Clarity pass (two rounds min) → Custodian read (generic only) → **Iterative referee
 loop** (blind panels; revise; repeat to convergence) → Finishing (abstract last; citation audit;
-length; anonymity + injection sweep) → Methodology report → Ship → Retrospective (mint exemplars,
-update this playbook). Full procedure: `Playbook/1. Pipeline — Competition Edition.md`.
+length; anonymity + injection sweep) → Methodology report → Ship → Retrospective (add moves to the
+catalog, update this playbook). Full procedure: `Playbook/1. Pipeline — Competition Edition.md`.
 
 ## 8. Adjudications (canonical here on any conflict)
 
@@ -104,7 +106,7 @@ update this playbook). Full procedure: `Playbook/1. Pipeline — Competition Edi
   register; a closer that merely repeats the paragraph is the recap-tell. Close on the inference
   earned; never echo.
 - **Openings**: concrete hook first is the default; a sharp gap opening is legitimate when the gap
-  is the surprise (Oberman-style); limp gap-framing stays banned.
+  is the surprise and carries the motivation; limp gap-framing stays banned.
 - **Em-dashes**: not a field tell, but the house preference is minimal — commas, colons, parentheses
   first; a gloss-dash only where clearly the best tool.
 - **Premise-form arguments**: the central argument appears once as displayed premises (house rule,
@@ -129,9 +131,9 @@ never silently skipped.
 |---|---|
 | Any session's start | This DIGEST + the essay's Checklist + Process Log |
 | Idea generation / thesis testing | §1 here + `Craft/journal-craft.md` §1–2 + Pipeline Stage 1 |
-| Structure / intro / outline work | `Craft/journal-craft.md` + `Craft/intro-playbook.md` + `Craft/structure-casebook.md` (worked examples) + 2–3 `Craft/Exemplars/structure/` files |
+| Structure / intro / outline work | `Craft/journal-craft.md` + `Craft/intro-playbook.md` + `Craft/moves-catalog.md` Part 1 |
 | Argument pressure-testing | `.claude/skills/argument-clinic` procedure |
-| Drafting prose / quality passes | `2. Essay Style Guide.md` + `Craft/prose-principles.md` + `Craft/prose-casebook.md` + 2–3 `Craft/Exemplars/prose/` files |
+| Drafting prose / quality passes | `2. Essay Style Guide.md` + `Craft/prose-principles.md` + `Craft/moves-catalog.md` Part 2 |
 | Clarity pass / anti-tell sweep | `Craft/ai-tells.md` + `Craft/prose-principles.md` (self-edit sequence) |
 | Referee loop | Pipeline Stage 9 + `Playbook/Referee Templates/` |
 | Abstract & title | `Craft/abstracts-and-titles.md` |
@@ -148,5 +150,5 @@ One canonical home per judgment; fix drift at the owner, point from everywhere e
 - Register/style adjudications → **§8 here** (canonical). Essay mechanics (length, displays,
   citations) → `2. Essay Style Guide.md`.
 - Structure craft → `Craft/journal-craft.md`; sentence craft → `Craft/prose-principles.md`;
-  AI-tells → `Craft/ai-tells.md`; abstracts/titles → `Craft/abstracts-and-titles.md`; worked
-  examples → the casebooks and `Craft/Exemplars/`.
+  AI-tells → `Craft/ai-tells.md`; abstracts/titles → `Craft/abstracts-and-titles.md`; the move
+  bank → `Craft/moves-catalog.md`; the anonymity rule → `Craft/README.md`.
