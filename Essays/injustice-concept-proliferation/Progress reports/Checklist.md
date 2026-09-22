@@ -26,7 +26,7 @@
 - [x] CHECKPOINT 2 — custodian response (generic) applied & logged — "Sounds good" + reading-timing question (answered: 4A/4B now, 4C waits for texts); verbatim in Process Log
 
 ## Stage 4 — Layered outline
-- [ ] 4A skeleton (lenses A, E; auditor gate)
+- [x] 4A skeleton (lenses A, E; auditor gate) — `Outline 4A Skeleton v0.1.md`; lens A fix (added 3.4); "VERDICT: APPROVE — Stage 4A Outline Skeleton's claimed work is genuinely done. […] The agent may proceed to Stage 4B." (paper-auditor, 2026-09-22)
 - [ ] 4B argument outline (all six lenses; auditor gate)
 - [ ] 4C fat outline v0.1 (~1,800–2,400 words)
 - [ ] 4C round 1 — completeness: Coverage Map built, gaps closed
