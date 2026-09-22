@@ -151,3 +151,60 @@ methodology report.
   objections, cruxes; both CP1 messages verbatim; no philosophical substance in custodian input).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~2 min (auditor ~45k tokens, 16 tool calls).
+
+## [2026-09-22] Session 1 (cont.) — Stage 2 opens: literature search and source requests
+- **Models/agents:** Claude (Claude Code remote session). No subagents this segment.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:**
+  - Re-read Pipeline Stage 2 and the Literature Access Protocol.
+  - Re-read Ramakrishnan's key cases (Heart Attack\*\*, Room, Drowning, Six Heart Attacks; file 01
+    L107–175) against the Spending View's test: all sorted as intended; noted that the Tracks case is
+    handled without a special clause if "supplying a good" is read relative to the agent's actual
+    alternatives (to be worked out in the crux memo).
+  - Fetched and read a publicly posted, abridged course copy of Quinn 1989 (saved with provenance as
+    `Converted text/12 Quinn 1989 (abridged…).md`). Finding (AI's own reading): Quinn's rationale for
+    the DDE already contains the idea that people "usefully involved ... only at the cost of"
+    something protected by their rights should serve only voluntarily, with an exception for strong
+    obligations. Consequence for originality: Quinn is the ancestor of the Spending View's rationale
+    and must be credited; the essay's originality claim must rest on what Quinn lacks (an objective,
+    victim-centred test that handles omissions such as Ramakrishnan's Heart Attack, which Quinn's own
+    counterfactual gets wrong; the property scope; the rescue-rights role; the derivation from the
+    prerogative).
+  - Found an independent practice that draws the Spending View's line: research-ethics guidance on
+    placebo controls (Millum & Grady 2013, condition that participants not "forgo treatment they
+    would otherwise receive"; Declaration of Helsinki placebo paragraph), and randomization under
+    scarcity. Candidate evidence against the "arbitrary causal structure" worry.
+  - Found prior work on the prerogative-to-restriction inference (Mack 2005; cf. Muñoz 2021; Lazar
+    2019; Scheffler's asymmetry thesis), which bears on the rationale planned for the crux memo.
+  - Wrote the prioritized request table in `Background Readings/REQUESTS.md`: 10 must-have and
+    8 nice-to-have sources, one line each on why, with free links where known.
+- **Tools/retrieval (numbering continues from Stage 1):** (34) "means principle" 2025–2026 [no new
+  MP work found]; (35) Choo 2025 [title and pages confirmed, PPR 111(1): 195–215]; (36) Liao & Barry
+  2020 [title confirmed; Walen 2022 reply]; (37) Alexander 2016 [confirmed; MP forbids using others'
+  bodies, labors, talents, or rightful resources without consent; "jurisdictional limitation on the
+  reach of strong (legitimately enforceable) moral obligations" (search summary)]; (38) WebFetch
+  digital.sandiego.edu [EGRESS_BLOCKED]; (39) WebFetch onlinelibrary.wiley.com [EGRESS_BLOCKED];
+  (40) opportunistic/eliminative 2024–2025 [Lazar 2015 *Sparing Civilians* chapter; nothing new on
+  the MP]; (41) "harmful use" 2024–2025 [no hit]; (42) Øverland 2014 abstract [victim-centred;
+  circumstances of those harmed]; (43) Quinn 1989 [record and course copies]; (44) WebFetch of the
+  MIT course copy of Quinn [PDF obtained, abridged; text extracted]; (45) Otsuka 2008 [confirmed; LSE
+  eprint]; (46) Liao, Wiegmann, Alexander & Vong 2012 [confirmed; Loop intuitions vary with context];
+  (47) Lazar 2019 [confirmed]; (48) mere means + placebo + scarcity [Millum & Grady's four cases;
+  Helsinki]; (49) "need not give"/"may not take" + prerogatives [SEP entry; Mack 2005 abstract];
+  (50) prerogatives, restrictions, hybrid theory [Scheffler's asymmetry thesis]; (51) Millum & Grady
+  2013 [confirmed; condition (4) quoted in search summary]; (52) randomization under scarcity (Ebola,
+  COVID) [randomization defended as equitable allocation of scarce products that also yields data];
+  (53) Muñoz 2021 [confirmed; PPR 102(3): 608–623]; (54) Mack 2005 [abstract: the prerogative's
+  rationale is unsatisfied without restrictions]; (55) WebFetch philarchive.org [EGRESS_BLOCKED];
+  (56) prerogative grounds the MP [no hit making this specific link]; (57) Kamm, *Morality,
+  Mortality* II, "Prerogatives and Restrictions" [chapter exists; not read]; (58) Thomson 1985
+  [confirmed, YLJ 94: 1395–1415]; (59) Kamm 2007 chapters [ch. 4 DDE/DTE, ch. 5; DTE permits Loop];
+  (60) Steinhoff 2019 [confirmed, CLP 13(1): 1–25; sceptic about rationales]; (61) Helsinki placebo
+  paragraph [text found in search summary]; (62) WebFetch openyls.law.yale.edu [EGRESS_BLOCKED];
+  (63) WebFetch psy.vanderbilt.edu [EGRESS_BLOCKED]; (64) Tadros 2020 table of contents [ch. 6 "The
+  Significance of Intentions" confirmed = file 02]; (65) Mack 2005 pages [SPP 22(1): 357–393];
+  (66) Walen 2019 book [confirmed; ch. 3 on SSRN]; (67) Hecht 2023 [Lisa Hecht, JMP 20(5–6)];
+  (68) WMA Declaration of Helsinki 2024 [official page].
+- **Compliance flags:** none (no custodian input this segment). The request list was composed
+  entirely by the AI.
+- **Approx. cost/time:** Human: 0. Machine: ~40 min; 35 searches/fetches.
