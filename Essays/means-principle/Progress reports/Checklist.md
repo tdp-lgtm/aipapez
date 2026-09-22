@@ -31,7 +31,8 @@
 - [x] CHECKPOINT 2 — custodian response (generic) applied & logged — 2026-09-22: "Approve (Recommended)"; opening: "Classic self-written cases" (free text; compliance: permitted). Applied as `WIP Docs/Plan/Plan v0.4.md` (self-written opening pair; v0.3 in Old versions/); diff self-check matches the changelog
 
 ## Stage 4 — Layered outline
-- [ ] 4A skeleton (lenses A, E; auditor gate)
+- [x] 4A skeleton — `WIP Docs/Outline/Outline 4A v0.1.md`: six sections with jobs, recalls, hand-offs and budgets (5,450); ordered moves per section; dependencies; lenses A and E run (findings in its §4)
+- [ ] Auditor gate — 4A
 - [ ] 4B argument outline (all six lenses; auditor gate)
 - [ ] 4C fat outline v0.1 (~1,800–2,400 words)
 - [ ] 4C round 1 — completeness: Coverage Map built, gaps closed

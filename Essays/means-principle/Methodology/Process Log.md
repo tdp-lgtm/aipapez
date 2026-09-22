@@ -601,3 +601,20 @@ methodology report.
 - **Selections:** the Plan is approved; the opening is the custodian's free-text choice. Next is
   Stage 4 (Layered Outline); Checkpoint 3 comes at the paragraph outline (4C).
 - **Approx. cost/time:** Human: ~1 min. Machine: ~10 min.
+
+## [2026-09-22] Session 1 (cont.) — Stage 4A: skeleton
+- **Models/agents:** Claude (Claude Code remote session).
+- **AI actions:** wrote `WIP Docs/Outline/Outline 4A v0.1.md` from Plan v0.4. It contains:
+  - the spine;
+  - a table of the six sections: job, what each recalls, what each hands on, budgets summing to
+    5,450;
+  - the ordered moves within each section;
+  - the dependencies that fix the order;
+  - lens findings for A and E.
+- **Lens findings, briefly:**
+  - A: the opening pair is resolved explicitly in §2; the several-alternatives question is
+    assigned to 4B; §5(a) points back to §3 rather than repeating it.
+  - E: every ranked interlocutor is placed; Steinhoff is limited to one full treatment; Walen's
+    footnotes are consolidated to three, each with one job.
+- **Compliance flags:** none. No custodian input.
+- **Approx. cost/time:** Human: 0. Machine: ~15 min.
