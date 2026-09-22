@@ -251,3 +251,21 @@ methodology report.
 - **Selections:** none.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~40 min wall clock.
+
+## [2026-09-22] Session 2 (cont.) — Stage 6 quality passes; Stage 7 clarity passes
+- **Models/agents:** Claude (drafting agent) throughout; no subagents.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Read `Craft/prose-principles.md` and `Craft/ai-tells.md`. Stage 6 pass 1 → v1.1:
+  added the Investment View display (style-guide requirement), split the merged genus paragraph,
+  thinned intensifiers ("exactly"/"precisely" 17→6), de-duplicated repeated phrases, trimmed under
+  budget. Pass 2 → v1.2: split §3's long final paragraph, removed a ranking meta-statement and a
+  self-reference from the equity-objection opener, two recasts. Convergence after pass 2 (changes
+  shrinking). Stage 7 → v1.3: countable cadence checks run (94 em dashes found — the one serious
+  tell); round 1 front→back converted 50+ dashes to commas/colons/parentheses/sentence breaks
+  (94→28, display and quote-internal kept); round 2 back→front folded two announce-fragments;
+  per-section ledger recorded in Checklist. Deterministic self-checks: diffs match changelogs at
+  each version. Essay-only word count 5,714 (changelog metadata excluded; ~150-word headroom
+  reserved for the Stage-10 abstract).
+- **Selections:** none.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~50 min wall clock.

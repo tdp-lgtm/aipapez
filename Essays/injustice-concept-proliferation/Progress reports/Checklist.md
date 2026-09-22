@@ -44,7 +44,7 @@
 - [x] Pass 1 / Pass 2 — each a new version, changelog line, self-check — v1.1 (Investment View display added; genus paragraph split; intensifiers 17→6; de-duplications; trims to −32) and v1.2 (§3 paragraph split; ranking meta-statement removed; 2 recasts); pass-2 changes small → converged, no pass 3; essay-only count 5,793 words (changelog metadata excluded, stripped at Stage 12 build)
 
 ## Stage 7 — Clarity & register pass
-- [ ] Round 1 (front→back) and Round 2 (back→front) with per-section ledger; converged
+- [x] Round 1 (front→back) and Round 2 (back→front) with per-section ledger; converged — Draft v1.3. Cadence checks run (longest 17–23-word run: 3 — pass; opener share — pass; triads/antitheses thinned in Stage 6). Round 1: em-dash sweep 94→28. Round 2 ledger: §7 PASS · §6 FIXED (dash conversions) · §5 FIXED (announce-fragment folded; dashes) · §4 TOUCHED (dashes; display kept) · §3 TOUCHED (dashes) · §2 TOUCHED (dashes) · §1 FIXED (announce-fragment; dashes). Essay-only count 5,714 words.
 
 ## Stage 8 — Custodian read (CHECKPOINT 4)
 - [ ] Feedback received, logged verbatim, applied (generic only; flags handled per Rules)
