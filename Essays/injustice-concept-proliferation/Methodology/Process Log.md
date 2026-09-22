@@ -107,4 +107,36 @@ methodology report.
 - **Approx. cost/time:** Human: 0. Machine: ~20 min wall clock.
 - **Gate note:** paper-auditor returned REVISE on Plan v0.1 — real defect: section budgets summed to
   6,350 against a claimed 5,900. Fixed in Plan v0.2 (budgets rebalanced to a verified 5,950; v0.1
-  archived to Old versions/). Resubmitted to the Plan gate.
+  archived to Old versions/). Resubmitted to the Plan gate; v0.2 APPROVED.
+
+## [2026-09-22] Session 1 (cont.) — CHECKPOINT 2 (Plan read)
+- **Models/agents:** Claude (Claude Code remote session).
+- **Human messages (verbatim):**
+  > Sounds good, but when do you want the readings? Don't you need that to write more detailed
+  > outline, etc?
+- **AI actions:** Presented the Plan in plain English at CHECKPOINT 2. Answered the timing question:
+  4A/4B can proceed without sources (own architecture); 4C finalization and §5 application passages
+  wait for full texts (Jenkins, Friedman, Kitsik especially). Proceeding to Stage 4A/4B.
+- **Selections:** Custodian approved the Plan ("Sounds good") — generic approval, no philosophical
+  content. The reading-timing question is workflow, not substance.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: ~1 minute. Machine: negligible this segment.
+
+## [2026-09-22] Session 1 (cont.) — Stage 4A skeleton + 4B argument outline
+- **Models/agents:** Claude (Claude Code remote session). Subagents: paper-auditor ×1 (small tier)
+  for the 4A gate (verdict pending at time of writing; 4B gate to follow).
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Wrote `Outline 4A Skeleton v0.1.md` (7 sections, internal move order, entry/exit
+  states, order rationale; lenses A+E run — one fix: added 3.4 defending the concepts→uptake
+  channel, previously implicit). Wrote `Outline 4B Argument v0.1.md` (premise-by-premise: named case
+  inventory — Dismissed, Ambient Injustice + starred variants, Two Wrongs, The Docket; §3 crux with
+  three-part claim-making analysis, validity non-dilution, uptake scarcity, ignored-claim point with
+  internal turn via testimonial injustice; §4 B0→B3 public iteration of the Backing Condition +
+  economizing reversal; §5 verdict schemas with 5.3/5.4 draft-blocked on sources; §6 three
+  objections steelmanned with replies and one deliberate bullet-biting concession; all six lenses
+  run with findings). 19 (verify) tags placed; applications to Jenkins/Friedman texts explicitly
+  deferred until uploads.
+- **Selections:** none.
+- **Tools/retrieval:** none this segment (all argument construction is the AI's own).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~35 min wall clock.

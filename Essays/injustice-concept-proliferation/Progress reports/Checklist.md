@@ -22,8 +22,8 @@
 ## Stage 3 — Plan
 - [x] Plan: sharpest thesis; the move; section budgets ≤ 6,000; dialectical structure; argument labels — `WIP Docs/Plan/Plan v0.2.md`: Investment View thesis, 3-step analytic move, 7 sections budgeted to 5,950 (v0.1 had a budget-sum error, 6,350 vs claimed 5,900 — caught by auditor, fixed in v0.2), dialectical placement, stable vocabulary, no formal apparatus
 - [x] All six lenses run — findings §10 of Plan v0.1 (incl. one fix applied: uptake defined as recognition+response pair)
-- [ ] Auditor gate — Plan: <verdict line>
-- [ ] CHECKPOINT 2 — custodian response (generic) applied & logged
+- [x] Auditor gate — Plan: v0.1 REVISE (budget sum 6,350 vs claimed 5,900 — real defect, fixed); v0.2 "VERDICT: APPROVE — Plan's resubmission is genuinely done and correctly fixed. The agent may proceed to CHECKPOINT 2 (custodian feedback) and Stage 4 (Layered Outline 4A/4B/4C)." (paper-auditor, 2026-09-22; arithmetic re-verified, diff confirmed budget-only)
+- [x] CHECKPOINT 2 — custodian response (generic) applied & logged — "Sounds good" + reading-timing question (answered: 4A/4B now, 4C waits for texts); verbatim in Process Log
 
 ## Stage 4 — Layered outline
 - [ ] 4A skeleton (lenses A, E; auditor gate)
