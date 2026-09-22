@@ -97,3 +97,23 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
 - You approved. The outline (`WIP Docs/Outline/Outline 4C v0.6.md`) is now locked, and I am
   writing the first full draft from it.
 - Needed from custodian: OpenReview registration, if not done yet.
+
+## [2026-09-22] Stages 5–6 — first full draft, then two editing passes
+- **First full draft written** (`WIP Docs/Drafts/`), following the approved outline paragraph by
+  paragraph. The independent integrity check passed it.
+- **Every quotation was checked against the source files by a script.** All match word for word,
+  except one short phrase from a paper not yet in our folder (Harris, "The Survival Lottery"); it
+  is marked for checking.
+- **Editing pass 1** cut the draft from about 6,450 to about 5,750 words, mostly repetition and long
+  footnotes, and fixed two sentences that claimed more than the argument needs.
+- **Editing pass 2** added the answer to the first objection a reader will have: "isn't the
+  difference just what the firefighter intends?" It also made the argument about letting harm
+  happen more explicit.
+- **Now:** the clarity stage. Fresh reviewers who have never seen my notes rewrite for readability,
+  then a "cold reader" checks the essay can be followed on one fast read. After that comes your
+  read (Checkpoint 4), where style feedback is welcome.
+- **Length:** about 5,800 words before the abstract. The clarity stage will trim about 250 more,
+  so the essay has room for an abstract and for referee-driven fixes under the 6,000 cap.
+- **Needed from you:** OpenReview registration, if not done yet. When convenient, page-numbered
+  copies of the main papers already in the folder (list in `Background Readings/REQUESTS.md`,
+  item 20), so exact page citations can be added before submission.
