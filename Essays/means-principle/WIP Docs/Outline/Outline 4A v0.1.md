@@ -1,6 +1,6 @@
 # Outline 4A v0.1 — Skeleton (means-principle, "Spending Persons")
 
-Changelog: v0.1 — Stage 4A, AI-authored, 2026-09-22. Built from `WIP Docs/Plan/Plan v0.4.md` (Checkpoint 2 approved). It fixes the sections, the job of each, their order, and how each hands the argument to the next. Lens findings (A, E) are in §4. Working titles.
+Changelog: v0.1 — Stage 4A, AI-authored, 2026-09-22. Gate fix (same day, auditor REVISE): the lens E table now places Lazar, Tadros 2020 and Kahn, and marks Parfit and Guerrero as not engaged. v0.1 had not passed a gate, so it was fixed in place. Built from `WIP Docs/Plan/Plan v0.4.md` (Checkpoint 2 approved). It fixes the sections, the job of each, their order, and how each hands the argument to the next. Lens findings (A, E) are in §4. Working titles.
 
 ---
 
@@ -94,7 +94,7 @@ The Means Principle forbids spending persons, not using them.
 - *Finding:* the several-alternatives question (Plan risk iii) belongs in §2 move 4. It must be settled at 4B, before the paragraph outline.
 - *Finding:* §5(a)'s second reason to accept the Loop verdict leans on §3's rationale. §5(a) must point back to §3 rather than restate it, to avoid presenting the argument twice.
 
-**E (Engagement).** Every ranked interlocutor from Literature Map v0.2 §4 has a place:
+**E (Engagement).** Every interlocutor ranked in Literature Map v0.2 §4, including the footnote-only list, is placed below. Those who will not appear in the essay are marked as such:
 
 | Interlocutor | Where |
 |---|---|
@@ -108,6 +108,11 @@ The Means Principle forbids spending persons, not using them.
 | Parry | §4 (sliding man; wrench; externality); §5(c) (the costly rescue) |
 | Otsuka, Choo, Kamm | §5(a) |
 | Footnote only | Mack, Walen 2022, Quinn, Cullity (§3 credits); Walen 2014/2016 and Øverland (§2); Hecht (§4); Walen 2022 (§4 tightness; §5 space and forfeiture); Christensen (§5(c)); Costa, Liao et al. 2012 (§5(a)) |
+| Lazar 2019 | §3 footnote on P3, beside Mack (status grounds the permission and its limits); optional |
+| Tadros 2020 | §5(c) footnote, beside Parry (the case for a mental-state component) |
+| Kahn 2024 | §2 footnote on the consent clause ("agrees to bear"): consent is an exception, not the criterion; optional |
+| Parfit 2011 | Not engaged in the essay (background: mere means vs harmful means); no placement |
+| Guerrero 2014 | Not engaged in the essay (background: the precaution theory); no placement |
 
 - *Finding:* Steinhoff's pairs bear on both §3 and §5(b). §3 takes his challenge in full; §5(b) mentions him in a clause only, to avoid repetition.
 - *Finding:* Walen would appear in five footnotes. Consolidate to at most three, each with one job, to avoid a survey:

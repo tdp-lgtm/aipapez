@@ -618,3 +618,19 @@ methodology report.
     footnotes are consolidated to three, each with one job.
 - **Compliance flags:** none. No custodian input.
 - **Approx. cost/time:** Human: 0. Machine: ~15 min.
+
+## [2026-09-22] Session 1 (cont.) — Auditor gate 4A: REVISE, fixed
+- **Models/agents:** paper-auditor subagent, **haiku tier**.
+- **Gate result (verdict line, verbatim):** "VERDICT: REVISE — Stage 4A's skeletal structure and Lens
+  A findings are verifiably done, but Lens E's placement table is incomplete and contradicts its own
+  claim."
+  - The missing names were five from the Literature Map's footnote-only list: Lazar, Kahn, Guerrero,
+    Parfit, Tadros 2020.
+- **Fix:**
+  - Added rows placing Lazar (§3 footnote, optional), Tadros 2020 (§5(c) footnote) and Kahn (§2
+    consent footnote, optional).
+  - Marked Parfit and Guerrero as not engaged.
+  - Reworded the claim to match.
+  - Changelog line added in the file. It had not passed a gate, so it was fixed in place.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~5 min (auditor ~67k tokens).
