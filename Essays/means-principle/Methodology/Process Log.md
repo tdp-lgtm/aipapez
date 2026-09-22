@@ -1006,3 +1006,28 @@ methodology report.
 - **Compliance flags:** none.
 - **Next:** Stage 6 Pass 2 (dialectical balance; each argument once; additions).
 - **Approx. cost/time:** Machine: ~45 min.
+
+## [2026-09-22] Session 1 (cont.) — Stage 6 Pass 2: Draft v1.2; Stage 6 converged
+- **Models/agents:** Claude (Claude Code remote session). No subagents.
+- **Calibration read:** `Playbook/Craft/model-paragraphs.md` in full, fresh, before the pass.
+- **AI actions (all AI-originated):**
+  - Ruled out intention as the difference in the opening pair, with a note on the problem of
+    closeness (Quong, file 09 L357; Choo, file 28 n. 11). This pre-empts the reply from the
+    doctrine of double effect.
+  - Ran the replacement test explicitly on the sliding man.
+  - Named the permission not to give in its usual terms (an agent-relative prerogative).
+  - Weakened an overclaim about coercion.
+  - Cut a repeated point (¶5.7) and a redundant note sentence.
+  - v1.1 moved to `Old versions/`.
+- **Self-check (deterministic):** `WIP Docs/Change Logs/Draft v1.2 — self-check.md`.
+  - With note numbers masked, the word-diff matches the changelog.
+  - Notes are renumbered and matched.
+  - Quotations: 40 of 41 verbatim; Harris remains (verify).
+  - Words: 5,809 before the abstract, too close to the cap. The 7b condense pass must cut at least
+    200 words.
+- **Convergence:** no further argument-level change without outside review. Stage 6 is declared
+  converged after two passes.
+- **Human messages:** none since the Checkpoint 3 approval.
+- **Compliance flags:** none.
+- **Next:** Stage 7, the clarity chain (7a prose-rewriter; 7b condense and lint; 7c cold reader).
+- **Approx. cost/time:** Machine: ~25 min.

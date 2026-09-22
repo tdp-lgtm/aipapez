@@ -50,8 +50,8 @@
 - [x] Lens Ac; Auditor gate — Draft v1.0: "VERDICT: APPROVE — Stage 5 (Draft v1.0)'s claimed work is genuinely done (files confirm it); all 38 outline bullets are unpacked into prose with clear mappings to draft paragraphs; quotations are verified against source files on disk; word count matches the self-check's ~1,000-word overage; calibration reads and drafting session are logged in full in the Process Log; the draft contains no mention of AI, the competition, or its own process; and the self-check's minor deviations are transparent and within budget allowances. The agent may proceed to Stage 6 (Quality passes)." (paper-auditor, haiku tier, 2026-09-22). Lens Ac: `WIP Docs/Change Logs/Draft v1.0 — Lens Ac and self-check.md` §2
 
 ## Stage 6 — Quality passes
-- [ ] Calibration reads fresh per pass; Pass 1 / Pass 2 / (Pass 3) — each a new version, changelog
-      line, self-check
+- [x] Calibration reads fresh per pass; Pass 1 / Pass 2 / (Pass 3) — each a new version, changelog
+      line, self-check — Pass 1: `Draft v1.1.md` (cut 6,459 → 5,761; two precision fixes; Quong "relevantly similar" note; self-check `WIP Docs/Change Logs/Draft v1.1 — self-check.md`). Pass 2: `Draft v1.2.md` (intention and closeness in the opening; the omissions test made explicit; one repeat cut; self-check `…/Draft v1.2 — self-check.md`). Converged after Pass 2 (no argument-level change left without outside review); model-paragraphs read fresh before each pass
 
 ## Stage 7 — Clarity chain (repeat until 7c is clean)
 - [ ] 7a: prose-rewriter spawned per section (fresh contexts, no outline); rewrites applied;
