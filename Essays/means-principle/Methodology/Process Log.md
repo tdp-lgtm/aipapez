@@ -208,3 +208,45 @@ methodology report.
 - **Compliance flags:** none (no custodian input this segment). The request list was composed
   entirely by the AI.
 - **Approx. cost/time:** Human: 0. Machine: ~40 min; 35 searches/fetches.
+
+## [2026-09-22] Session 1 (cont.) — Stage 2: crux memo, Literature Map, lenses E/Ac
+- **Models/agents:** Claude (Claude Code remote session). No subagents this segment.
+- **Human messages (verbatim):** none this segment. The AI sent the custodian a bundled, plain-English
+  request for sources (the REQUESTS list) and an OpenReview reminder; no reply yet.
+- **AI actions:**
+  - Wrote `WIP Docs/Plan/Crux Memo v0.1.md` (AI-originated), which settles the crux before the Plan:
+    - A rationale R: the prerogative over giving assigns each person the trade-off between what she
+      supplies and its cost to her; non-hollowness; the exact shape is spending.
+    - A precise test: supply relative to the agent's alternatives; existential replacement for cost.
+    - A working verdict table over ~34 cases from the corpus.
+    - A new treatment of Loop. In Thomson's own stipulation the five's bodies protect the one, so not
+      diverting would also spend; when every option spends, the protected claims are weighed, as in
+      Switch; asymmetric loops are forbidden.
+    - An account of when intentions matter (only where a prerogative is relied on).
+    - A list of objections to plan for.
+  - Re-read Cullity 2018 (file 11 L171, L233–252, fn 45) and Tadros 2011 (file 03 L85–105, L193–277).
+    Finding: both already restrict Thomson's 2008 prerogative argument to using, and Tadros already
+    speaks of side-effect victims as not contributing and not required to "expend" their lives. The
+    originality claim was narrowed accordingly: the novelty is the scope result (supplying at a
+    cost), not the family of argument.
+  - Found and saved a complete, publicly posted copy of Thomson 2008 (file 13; journal pagination
+    recoverable from running heads). Added it to REQUESTS as #19, marked RECEIVED (no custodian
+    action needed).
+  - Wrote `WIP Docs/Literature Map/Literature Map v0.1.md`:
+    - landscape as two tracks (criterion vs rationale);
+    - positions tables;
+    - cross-cutting disputes;
+    - adjacent literatures (research ethics);
+    - the open niche;
+    - ranked interlocutors;
+    - provisional originality verdict: OPEN with a narrowed claim, with conditions that would close it
+      tied to requested sources #1, #3, #5, #7.
+  - Ran lenses E and Ac (findings recorded in the Literature Map §6 and on the Checklist).
+  - Corrected four source file names after verification (01 Ramakrishnan 2016; 02 Tadros 2020 ch. 6;
+    06 Parry 2023; 08 Kahn 2024). Documents cite by file number, so no references changed.
+- **Tools/retrieval:** (69) Thomson 2008 bibliographic check [PPA 36: 359–374]; (70) WebFetch of the
+  MIT course copy of Thomson 2008 [PDF obtained; text extracted; complete]; (71) search of the same
+  course host for further readings [only lecture notes; nothing used].
+- **Compliance flags:** none (no custodian input this segment).
+- **Approx. cost/time:** Human: 0. Machine: ~1.5 hours (memo and map drafting; re-reading ~15k words
+  of corpus).

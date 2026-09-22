@@ -14,9 +14,9 @@
 - [x] Auditor gate — Idea Selection: "VERDICT: APPROVE — Stage 1 (Idea Selection)'s claimed work is genuinely done (files confirm it); the agent may proceed to Stage 2 (Literature Review)." (paper-auditor, haiku tier, 2026-09-22; verified 12 candidates, 33 logged searches, 4 sketches, CP1 verbatim log, Brief/Argument Sketch.md, no compliance issues)
 
 ## Stage 2 — Literature review
-- [ ] Active search done; key sources obtained or flagged
-- [ ] Literature Map with open-niche + originality verdict
-- [ ] Lenses E, Ac run
+- [x] Active search done; key sources obtained or flagged — 68 logged searches (1–33 Stage 1; 34–68 Stage 2); 2 texts obtained by the agent (Quinn 1989 abridged, file 12; Thomson 2008 complete, file 13); `Background Readings/REQUESTS.md` has 19 rows (11 must-have, 8 nice-to-have; 1 received); custodian pinged 2026-09-22
+- [x] Literature Map with open-niche + originality verdict — `WIP Docs/Literature Map/Literature Map v0.1.md`: two-track landscape (criterion vs rationale), positions tables, open niche, ranked interlocutors, provisional verdict OPEN with a narrowed claim and stated closing conditions; crux worked out in `WIP Docs/Plan/Crux Memo v0.1.md`
+- [x] Lenses E, Ac run — E: Thomson 2008 added and obtained; Cullity fn 45 and Tadros L277 found to anticipate part of the rationale, so the claim was narrowed; Tadros represented in strongest form. Ac: every attribution line-referenced or `(verify #N)`-tagged; search-summary claims marked; no Quinn pinpoints until #6; four file names corrected (01, 02, 06, 08)
 - [ ] Auditor gate — Lit Review: <verdict line>
 
 ## Stage 3 — Plan
