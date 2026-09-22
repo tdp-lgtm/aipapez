@@ -419,3 +419,71 @@ methodology report.
 - **Compliance flags:** none. The custodian will be asked only to select among AI-generated
   options. Their reply is to be logged verbatim in the next entry.
 - **Approx. cost/time:** Human: 0 so far. Machine: ~40 min.
+
+## [2026-09-22] Session 1 (cont.) — Direction selected (rethink, Option A)
+- **Models/agents:** Claude (Claude Code remote session).
+- **AI actions:** summarized the rethink in plain English in chat, then asked one menu question:
+  "Which direction should the essay take?" Options, all AI-generated:
+  - "A: test + reason (Recommended)";
+  - "B: the test alone";
+  - "C: the reason alone".
+- **Human messages (verbatim):** selected "A: test + reason (Recommended)". No free text.
+- **Selection:** Option A of `WIP Docs/Plan/Rethink Memo v0.1.md`: the criterion the rationale needs
+  ("Spending Persons", refocused).
+- **Compliance flags:** none. A pure selection among AI-generated options, with no philosophical
+  content from the custodian.
+- **Approx. cost/time:** Human: ~1 min. Machine: ~2 min.
+- **Next:**
+  1. Literature Map v0.2 and Crux Memo v0.2 (corrections from the batch-2 reading).
+  2. Plan v0.3 under Option A.
+  3. Six lenses.
+  4. Plan gate.
+  5. Checkpoint 2.
+
+## [2026-09-22] Session 1 (cont.) — Plan v0.3 (Option A): supporting documents, plan, lenses
+- **Models/agents:** Claude (Claude Code remote session). No subagents before the gate.
+- **AI actions:**
+  - **Crux Memo v0.2** (v0.1 moved to `WIP Docs/Plan/Old versions/`):
+    - §0 items 3–5 revised: Loop is now a bitten bullet; originality recalibrated.
+    - §1 gains the contrastive grounding of the alternatives clause.
+    - §2 gains Steinhoff's challenge and the doing-versus-serving joint, with credits to Mack,
+      Alexander and Walen 2022.
+    - §3 table: the Loop rows are corrected, and 11 rows are added (Liao & Barry's cases,
+      *Six Behind One*, Walen's cases, the sensor case, the person in the path, *Enemy Trolley*).
+    - §4 (Loop) is rewritten; §5, §6 (O11, O12), §7 and §8 are updated.
+  - **Literature Map v0.2** (v0.1 moved to `Old versions/`):
+    - positions tables rebuilt on the texts, with line references;
+    - a new dispute, the person in the path;
+    - Loop and prerogative disputes rewritten;
+    - niche and originality verdict revised to "the criterion the rationale needs";
+    - interlocutors re-ranked (Quong and Ramakrishnan close; eight point engagements);
+    - lens findings E and Ac.
+  - **Plan v0.3** (v0.2 moved to `Old versions/`):
+    - thesis rebuilt with the rationale credited;
+    - §2 enlarged: contrastive ground, stress test;
+    - §3 rebuilt: Quong's dilemma, doing versus serving, Steinhoff;
+    - §4 shrunk;
+    - Loop ≈450 words inside §5, with the symmetric case in a footnote;
+    - a scope objection on the person in the path;
+    - budgets sum to 5,450;
+    - apparatus unchanged in kind;
+    - all six lenses run, with findings in §10.
+  - **Correction found while checking pages.** Kamm's "new problem" passage is at file 21
+    L61–65, spanning pp. 94–95; the conversion has no page markers for pp. 92–94. It was cited as
+    p. 94 alone. Fixed in the Plan, the Crux Memo, the Literature Map and the batch-2 notes.
+- **Tools/retrieval** (WebSearch; originality re-checks for the essay's new centre of gravity):
+  - (73) "means principle harming as a means baseline agent's alternatives contrastive
+    justification counterfactual victim's contribution" [only harm-baseline literature; no
+    anticipation];
+  - (74) "\"means principle\" \"cost of\" supplying OR contribution \"replacement\" test Liao Barry
+    counterfactual victim-centered" [the Walen and Liao–Barry exchange, already read; no
+    anticipation];
+  - (75) "opportunistic harm \"six behind one\" OR \"tracks\" case means principle alternatives
+    baseline 2023 OR 2024 OR 2025" [nothing relevant];
+  - (76) "\"means principle\" \"limits of beneficence\" OR \"prerogative\" \"supply\" OR \"serve\"
+    side effect Thomson \"Turning the Trolley\" reply Tadros Cullity" [SEP entries only; no
+    anticipation of doing versus serving];
+  - (77) "deontological constraint \"contrastive\" reasons harming as a means \"relative to the
+    alternatives\" Loop trolley objective account" [general sources; no anticipation].
+- **Compliance flags:** none. No custodian input in this segment.
+- **Approx. cost/time:** Human: 0. Machine: ~1 h.

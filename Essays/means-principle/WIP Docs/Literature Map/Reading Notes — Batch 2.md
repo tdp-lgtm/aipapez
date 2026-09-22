@@ -297,7 +297,7 @@ Agents first divide the world's resources; patient-claims then restrict agents r
 
 **Key content.**
 - **The DTE** (ch. 4): acting "because" an evil will occur vs acting "in order to" bring it about.
-- **Loop** (ch. 4 p. 94): the looping trolley is "a *new problem*" created by the diversion, equivalent to a *Wagon* case in which a new device threatens the five.
+- **Loop** (ch. 4 pp. 94–95, L61–65; the page marker for p. 95 opens L65, and pp. 92–94 have no markers): the looping trolley is "a *new problem*" created by the diversion, equivalent to a *Wagon* case in which a new device threatens the five.
 - **Ch. 5 E.i** (pp. 154–156): redirecting "noncausally produces" a "structural equivalent of the greater good," the five being rid of the original threat. The one's being hit "sustains" the good by "preventing its being undone," so redirecting is permissible.
 - **Tractor** (independent tractor threat; p. 156): the one's being hit *produces* the good, so impermissible.
 - **Miracle** (p. 155): also impermissible.
