@@ -821,3 +821,22 @@ methodology report.
   comparison with the alternatives) and its consequences.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Machine: ~1 h (referee ~232k tokens).
+
+## [2026-09-22] Session 1 (cont.) — Auditor gate 4C FINAL: APPROVE
+- **Models/agents:** paper-auditor subagent, haiku tier.
+- **AI actions before the gate:** wrote `WIP Docs/Outline/Coverage Map v0.2.md`, re-mapping every
+  argument and objection, plus the clinic and referee items, onto the v0.5 bullets; v0.1 moved to
+  `Old versions/`. Added a dated correction to Literature Map v0.2 §5: the criterion's core idea is
+  Quinn's (file 12 L250–254), and claim (a) is narrowed to the test.
+- **Gate result (verdict line, verbatim):** "VERDICT: APPROVE — Stage 4C's claimed work is genuinely
+  done (files confirm it); the agent may proceed to Stage 5 (Draft v1.0)."
+- **What the auditor verified:**
+  - 38 bullets;
+  - broad diffs at each of the four version steps;
+  - Coverage Map v0.2, with 5 mappings spot-checked;
+  - the engagement table;
+  - the clinic dispositions (F1, F4, F5 spot-checked);
+  - the referee dispositions (M1, M3, M4 spot-checked);
+  - the clean referee input has no process notes.
+- **Next:** Checkpoint 3 with the custodian (structure sign-off; generic feedback only).
+- **Approx. cost/time:** Machine: ~3 min.
