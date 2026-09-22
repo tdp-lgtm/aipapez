@@ -980,3 +980,29 @@ methodology report.
   fewer, so this log records only what it reported.
 - **Next:** Stage 6 Pass 1 (v1.1), a cut pass with quality work.
 - **Approx. cost/time:** Machine: ~5 min.
+
+## [2026-09-22] Session 1 (cont.) — Stage 6 Pass 1: Draft v1.1 (cut and tighten)
+- **Models/agents:** Claude (Claude Code remote session). No subagents.
+- **Calibration read:** `Playbook/Craft/model-paragraphs.md` in full, fresh, before the pass.
+- **AI actions (all AI-originated):**
+  - Cut 6,459 → 5,761 words before the abstract. Most of the cut is repeated points, credit lists
+    and long notes.
+  - Merged two paragraphs; folded the Steinhoff paragraph into the premise 4 paragraph; cut the
+    note on the cave and parking cases.
+  - Made two claims precise. The support for *Smoke* now claims only that a harmless use cannot be
+    what makes the killing wrongful. Ramakrishnan's primitivism now attaches to his principle.
+  - Added a note separating the replacement test from Quong's "relevantly similar body or
+    property" clause (file 09 L49), and added Alexander to the company on *Loop* (file 25, n. 8).
+  - Split the long *Loop* paragraph in two.
+  - v1.0 moved to `Old versions/`.
+- **Self-check (deterministic):** `WIP Docs/Change Logs/Draft v1.1 — self-check.md`.
+  - The diff matches the changelog row by row.
+  - Quotation script: 42 quotations, 41 verbatim on disk; Harris remains (verify).
+  - Note references and definitions match.
+  - Lint: 3 FLAGs (list triads, short sentences, one uniform-length run), deferred to 7b.
+  - First attempt: the first version of this pass cut only about 170 words, so the pass was redone
+    paragraph by paragraph until the word target was met.
+- **Human messages:** none since the Checkpoint 3 approval.
+- **Compliance flags:** none.
+- **Next:** Stage 6 Pass 2 (dialectical balance; each argument once; additions).
+- **Approx. cost/time:** Machine: ~45 min.
