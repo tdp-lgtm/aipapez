@@ -291,3 +291,25 @@ methodology report.
   REQUESTS #18].
 - **Compliance flags:** none (no custodian input this segment).
 - **Approx. cost/time:** Human: 0. Machine: ~1 hour.
+
+## [2026-09-22] Session 1 (cont.) — Auditor gate: Plan; Plan v0.2 (post-gate corrections)
+- **Models/agents:** paper-auditor subagent (haiku tier), fresh context, for the Plan gate.
+- **Human messages (verbatim):** none this segment.
+- **Result:** "VERDICT: APPROVE — Stage 3 (Plan)'s claimed work is genuinely done." The auditor:
+  - verified every required element;
+  - added the budgets up to 5,650 words;
+  - confirmed the apparatus is within budget;
+  - confirmed the six lens findings;
+  - confirmed consistency with Sketch A and the changelog;
+  - spot-checked 4 line references, all accurate.
+- **AI actions after the gate:** made Plan v0.2 (v0.1 moved to `WIP Docs/Plan/Old versions/`).
+  Corrections found while re-checking case sources:
+  - The liability case is Tadros 2020's Mines (file 02 L301–305).
+  - The sliding-man case is Parry's, adapted from Tadros 2011 p. 122 (file 06 fn 13).
+  - §5 adds a reply to Walen's objection that the Means Principle leaves Thomson's symmetric loop a
+    tragic dilemma (file 07 L215, fn 35).
+  - Costa 1987 added to REQUESTS as #21 (nice-to-have).
+  Deterministic self-check: the diff between v0.1 and v0.2 shows exactly these five changes plus the
+  title and changelog lines.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~10 min (auditor ~62k tokens).

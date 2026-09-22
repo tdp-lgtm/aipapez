@@ -22,7 +22,7 @@
 ## Stage 3 — Plan
 - [x] Plan: sharpest thesis; the move; section budgets ≤ 6,000; dialectical structure; argument labels — `WIP Docs/Plan/Plan v0.1.md`: P/Q/R, Display 1 (the Spending View) and Display 2 (argument P1–P4 → C) with defense locations; the move (supplying vs bearing); 7 sections, budgets sum to 5,650 of 6,000; Loop as the dedicated objection section; labels P1–P4 only; apparatus checked against the Style Guide budget; 4 Moves Catalog architectures chosen; source dependencies and fallbacks listed
 - [x] All six lenses run — findings in Plan §10: C (Display 1 and P2 rewritten for clarity); A (P3 now carries the duty bound; the §6(a) weak joint flagged); S (no change); O (claims narrowed to supplying-vs-bearing plus the test); E (footnote slots reserved for Walen's toolkit baseline and Liao & Barry); Ac (Parry line references corrected to L231–259 in Plan, Literature Map, Crux Memo)
-- [ ] Auditor gate — Plan: <verdict line>
+- [x] Auditor gate — Plan: "VERDICT: APPROVE — Stage 3 (Plan)'s claimed work is genuinely done." (paper-auditor, haiku tier, 2026-09-22; verified all required Plan elements, budgets sum 5,650, apparatus within budget, six lenses with findings, consistency with Sketch A and changelog, 4 line-reference spot-checks accurate)
 - [ ] CHECKPOINT 2 — custodian response (generic) applied & logged
 
 ## Stage 4 — Layered outline
