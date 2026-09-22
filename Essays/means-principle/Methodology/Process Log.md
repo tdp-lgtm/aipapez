@@ -634,3 +634,17 @@ methodology report.
   - Changelog line added in the file. It had not passed a gate, so it was fixed in place.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Machine: ~5 min (auditor ~67k tokens).
+
+## [2026-09-22] Session 1 (cont.) — Auditor gate 4A: APPROVE
+- **Models/agents:** paper-auditor subagent (haiku tier), resumed for the re-check.
+- **Gate result (verdict line, verbatim):** "VERDICT: APPROVE — Stage 4A's required fix is verifiably
+  complete. The Lens E placement table now includes every interlocutor ranked in Literature Map v0.2
+  §4 (items 1–9 and the footnote-only list), with placements specified for three and explicit "not
+  engaged" notes for two. The claim sentence matches the table. The file's changelog records the
+  gate fix, and git diff a944683..65ef9bf shows only the required edits. The Process Log entry
+  documents the REVISE verdict and the applied fix. The agent may proceed to Stage 4B (Argument
+  outline)."
+- **Pinpoint noted while reading for 4B:** Parry fn 12 (file 06) cites Alexander's omissions passage
+  at p. 261 of the chapter, and Quinn 1989 at p. 346. Recorded for the citation audit. (verify
+  against the originals.)
+- **Approx. cost/time:** Machine: ~1 min (auditor ~76k tokens).

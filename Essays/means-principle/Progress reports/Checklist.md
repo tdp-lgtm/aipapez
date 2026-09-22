@@ -32,7 +32,7 @@
 
 ## Stage 4 — Layered outline
 - [x] 4A skeleton — `WIP Docs/Outline/Outline 4A v0.1.md`: six sections with jobs, recalls, hand-offs and budgets (5,450); ordered moves per section; dependencies; lenses A and E run (findings in its §4)
-- [ ] Auditor gate — 4A
+- [x] Auditor gate — 4A: "VERDICT: APPROVE — Stage 4A's required fix is verifiably complete. The Lens E placement table now includes every interlocutor ranked in Literature Map v0.2 §4 (items 1–9 and the footnote-only list), with placements specified for three and explicit "not engaged" notes for two. ..." (paper-auditor, haiku tier, 2026-09-22; round 1 REVISE on the lens E table, fixed; round 2 APPROVE)
 - [ ] 4B argument outline (all six lenses; auditor gate)
 - [ ] 4C fat outline v0.1 (~1,800–2,400 words)
 - [ ] 4C round 1 — completeness: Coverage Map built, gaps closed
