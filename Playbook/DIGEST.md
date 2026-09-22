@@ -37,11 +37,15 @@ the Moves Catalog (§11).
 - **Open on a concrete hook**: a named case, a sharp puzzle, or a real event abstracted within a
   page. A gap-framed first line only when the gap itself is the hook. Never "much has been written
   about X"; never a lit review before the thesis.
-- **Thesis early (by p.2), stated twice** (compressed + fully scoped), **named** as a capitalized or
-  italicized principle, distinguished from its two nearest rivals *in the paragraph that introduces
-  it*. Prefer "can/often" over "must/always" when the weaker modality still makes the contribution.
-- **Cases are machinery**: named (italic, 2–4 words), minimal (3–6 sentences), built in pairs varying
-  **one feature at a time**, reused as referents, verdict sentence immediately after.
+- **Thesis early (by p.2), stated twice** (compressed + fully scoped), **named**, distinguished from
+  its two nearest rivals *in the paragraph that introduces it*. Prefer "can/often" over
+  "must/always" when the weaker modality still makes the contribution.
+- **Cases are machinery**: minimal (3–6 sentences), built in pairs varying **one feature at a
+  time**, verdict sentence immediately after; at most three carry names, told inline, not displayed.
+- **THE APPARATUS BUDGET (hard, per essay)**: 1 named view + ≤1 named rival + ≤1 further coined term
+  + ≤3 named cases + exactly 2 displays (the view; the premise-form central argument) + 1 metaphor
+  that may illustrate, never argue and never become an essay-wide vocabulary. Everything else is
+  plain description. `prose_lint.py` counts; over budget needs a changelog justification.
 - **Objections in three layers**: preemptive caveats up front; mid-argument micro-objections; one
   dedicated section for the strongest objection or best rival. Steelman; concede what you can;
   close each objection with a flat verdict.
@@ -51,7 +55,7 @@ the Moves Catalog (§11).
   position; each paragraph opens with a topic sentence naming its job.
 - **Conclusion restates the result**, re-marks scope, adds nothing new.
 - 5–7 numbered sections; the central argument once, in premise form, defense locations named
-  (`Playbook/2. Essay Style Guide.md` has the display mechanics).
+  (`Playbook/2. Essay Style Guide.md` has the display mechanics and both budgets).
 
 ## 3. Prose: the self-edit sequence
 
@@ -61,13 +65,18 @@ hedges that narrow content, cut hedges that only lower confidence (exception: in
 verdicts keep one light hedge — §8) → (6) cut 10–20% → (7) strip AI-tells (`Craft/ai-tells.md`) →
 (8) read aloud; vary rhythm.
 
-## 4. The register
+## 4. The register — and the calibration duty
 
 Simple, clear, even boring academic prose — invisible prose; the reader notices the argument, never
-the writing. Short anchoring sentences at the pivots; thesis, definitions, and objection-closers
-flat; explain before use; no metaphor doing argument work; concrete before abstract; plain referents
-repeated; "I" throughout; em dashes minimal. Full rules: `Playbook/2. Essay Style Guide.md`; craft
-depth: `Craft/prose-principles.md`.
+the writing. Tie-breaker on every sentence: **invisible beats clever** (the essay earns 2–3 pointed
+landings, total; each snap move from the Moves Catalog at most twice; most paragraphs end
+workmanlike). Short anchoring sentences at the pivots; thesis, definitions, and objection-closers
+flat; explain before use; reasoning unpacked, never compressed — cleverness compresses, explanation
+expands; no metaphor doing argument work; concrete before abstract; plain referents repeated; "I"
+throughout; em dashes minimal. **Calibrate before every prose session**: read
+`Craft/model-paragraphs.md` in full, fresh (the patterns fade fast), plus 5–10 pages of the essay's
+chosen register samples from `Background Readings/`; log both reads. Full rules:
+`Playbook/2. Essay Style Guide.md`; craft depth: `Craft/prose-principles.md`.
 
 ## 5. The Moves Catalog — and the anonymity rule
 
@@ -88,11 +97,15 @@ The aim is prose quality, never disguise.
 ## 7. The pass pipeline (per essay, in order)
 
 Setup → Idea Generation & Selection (P/Q/R candidates, originality pre-screen, crux) → Lit Review →
-Plan → Outline 4A/4B/4C (fat = ~30–40% of 6k) + argument-clinic pass → Draft v1.0 (full density) →
-Quality passes → Clarity pass (two rounds min) → Custodian read (generic only) → **Iterative referee
-loop** (blind panels; revise; repeat to convergence) → Finishing (abstract last; citation audit;
-length; anonymity + injection sweep) → Methodology report → Ship → Retrospective (add moves to the
-catalog, update this playbook). Full procedure: `Playbook/1. Pipeline — Competition Edition.md`.
+Plan → Outline 4A/4B/4C (fat = ~30–40% of 6k) + argument-clinic pass → Draft v1.0 (full density =
+full information, unpacked at reading speed) → Quality passes → **Clarity chain** (7a prose-rewriter
+per section in fresh contexts → 7b condense/tell-strip + `prose_lint.py` → 7c cold-reader friction
+report; repeat until clean) → Custodian read (generic only; style feedback invited — it is
+compliance-free) → **Iterative referee loop** (blind panels; revise; prose-rewriter over rewritten
+passages; repeat to convergence) → Finishing (abstract last; citation audit; length; lint;
+anonymity + injection sweep; final cold read) → Methodology report → Ship → Retrospective (add
+moves to the catalog, update this playbook). Full procedure:
+`Playbook/1. Pipeline — Competition Edition.md`.
 
 ## 8. Adjudications (canonical here on any conflict)
 
@@ -115,6 +128,9 @@ catalog, update this playbook). Full procedure: `Playbook/1. Pipeline — Compet
   (`Craft/journal-craft.md` §5).
 - **Referee labels**: never chase accept/reject labels; read trajectory and convergent issues. The
   loop stops on convergence, not on a verdict.
+- **Register lock-in**: prose that reads AI-written, over-compressed, or over-clever goes to the
+  **prose-rewriter** in a fresh context (never the drafting context); comprehension is measured by
+  the **cold-reader**'s friction score, and the clarity stage exits only on a clean read.
 
 ## 9. Anti-fabrication (non-negotiable)
 
@@ -133,8 +149,9 @@ never silently skipped.
 | Idea generation / thesis testing | §1 here + `Craft/journal-craft.md` §1–2 + Pipeline Stage 1 |
 | Structure / intro / outline work | `Craft/journal-craft.md` + `Craft/intro-playbook.md` + `Craft/moves-catalog.md` Part 1 |
 | Argument pressure-testing | `.claude/skills/argument-clinic` procedure |
-| Drafting prose / quality passes | `2. Essay Style Guide.md` + `Craft/prose-principles.md` + `Craft/moves-catalog.md` Part 2 |
-| Clarity pass / anti-tell sweep | `Craft/ai-tells.md` + `Craft/prose-principles.md` (self-edit sequence) |
+| Any prose session (first!) | `Craft/model-paragraphs.md` (in full, fresh) + the essay's register samples |
+| Drafting prose / quality passes | `2. Essay Style Guide.md` (incl. both budgets) + `Craft/prose-principles.md` + `Craft/moves-catalog.md` Part 2 |
+| Clarity chain | 7a: prose-rewriter agent · 7b: `Craft/ai-tells.md` + self-edit sequence + `prose_lint.py` · 7c: cold-reader agent |
 | Referee loop | Pipeline Stage 9 + `Playbook/Referee Templates/` |
 | Abstract & title | `Craft/abstracts-and-titles.md` |
 | Citation verification | citation-auditor agent + `check-citations.py` (Build scripts) |

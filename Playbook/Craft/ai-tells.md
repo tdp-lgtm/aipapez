@@ -110,6 +110,12 @@ These rarely earn their place. Cut, or replace with the plain thing.
   only… but also" (max 1 per piece), triads (one is fine, three is a pattern),
   colons used rhetorically (a couple at most).
 
+- **Vague attributions.** "Many argue," "some have suggested," "it is widely held" with no
+  citation attached. Either name and cite the holder of the view or own the claim yourself.
+- **Inflated symbolism.** Framing a workaday point as emblematic of something larger ("this reflects
+  a deeper tension in…") when the essay doesn't argue the larger claim. Make the point at its own
+  size.
+
 ## Content tells (the dangerous ones)
 
 - **Confident vagueness.** Smooth sentences that assert without arguing. In

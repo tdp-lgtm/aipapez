@@ -255,6 +255,9 @@ without connectives. (One triad; a page of them is a tell — see `ai-tells.md`.
   revision; and so on.
 - **Two or three structural moves per essay, chosen for the argument.** More reads as pastiche of
   the field.
+- **Part 2 is seasoning, under the Style Guide's snap budget**: each attention-drawing cadence move
+  at most once or twice per essay, never in adjacent paragraphs; most paragraphs end workmanlike.
+  The tie-breaker is always invisible over clever.
 - **Growth:** at Stage 12 (or whenever a reading shows a technique this catalog lacks), add the
   move — described abstractly, no authors, no papers, no quotes. If a move can't be stated without
   its source's words, it isn't transferable enough to add.

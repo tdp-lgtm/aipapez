@@ -29,6 +29,11 @@ session-by-session methodology logging on top.
   (fresh simulated panels each round, revised until fresh readers stop finding new problems),
   citation audits against real sources, and an integrity auditor that verifies claimed work against
   files.
+- **Prose machinery against AI register.** Every prose session calibrates on synthetic model
+  paragraphs plus real papers from the essay's own readings; hard budgets cap named apparatus and
+  clever cadence moves; a countable prose linter enforces them; a fresh-context prose-rewriter
+  redoes any section that drifted; and a cold-reader agent measures whether the essay can be
+  followed in one fast read before it moves on.
 - **A field-craft layer.** `Playbook/Craft/` distills how top analytic philosophy papers are built —
   structure conventions, intro playbook, prose principles, AI-tell bans, and an anonymous Moves
   Catalog of argument architectures and prose techniques — adapted from the entrant's own

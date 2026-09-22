@@ -70,8 +70,9 @@ Do **not** ask for a thesis, arguments, or an argument sketch. Generating those 
    (`python3 "Behind the scenes (Claude)/Build scripts/new_essay.py" "<slug>"`), then drive the
    project from the Checklist, top to bottom, filling rows only from finished artifacts. Follow the
    Pipeline stages in order: Setup → Idea Generation & Selection → Lit Review → Plan → Layered
-   Outline (4A/4B/4C fat outline + argument-clinic pass) → Draft v1.0 → Quality passes → Clarity
-   pass → Custodian read → Iterative referee loop (blind panels, revise, repeat to convergence) →
+   Outline (4A/4B/4C fat outline + argument-clinic pass) → Draft v1.0 (calibrated; bullets
+   unpacked) → Quality passes → Clarity chain (prose-rewriter → lint → cold-reader, to a clean
+   read) → Custodian read → Iterative referee loop (blind panels, revise, repeat to convergence) →
    Finishing → Methodology report → Ship → Retrospective.
 4. **Outline first; the paragraph outline is the drafting contract.** Fat outline at ~30–40% of
    final length (~1,800–2,400 words for a 6k essay); no prose until it is locked. Then separated
@@ -107,7 +108,9 @@ Do **not** ask for a thesis, arguments, or an argument sketch. Generating those 
 - **`Playbook/`** — pipeline, style guide, methodology protocol, project template, referee templates.
 - **`Essays/<slug>/`** — everything for one essay: `Brief/`, `Background Readings/`, `WIP Docs/`,
   `Methodology/`, `Progress reports/`, `Scrap/`, `Submission/`.
-- **`.claude/agents/`** — paper-auditor, referee, citation-auditor, copy-critic.
+- **`.claude/agents/`** — paper-auditor, referee, citation-auditor, copy-critic, prose-rewriter
+  (fresh-context register rewrites, Stage 7a), cold-reader (one-fast-read friction reports, Stage
+  7c). Plus the argument-clinic skill in `.claude/skills/`.
 - **`Behind the scenes (Claude)/Build scripts/`** — `new_essay.py` (scaffold), `word_count.py` (the
   6k arbiter), `read_docx.py` (read .docx sources), `gen_docx.py`/`gen_paper_docx.py` (Word builds,
   used only if Stage 12 goes Markdown → .docx → PDF).
