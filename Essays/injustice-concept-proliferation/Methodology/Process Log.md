@@ -223,3 +223,31 @@ methodology report.
   and repairs AI-originated).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: <1 min. Machine: ~35 min wall clock; referee ~72k tokens.
+
+## [2026-09-22] Session 2 (cont.) — 4C FINAL gate; CHECKPOINT 3
+- **Models/agents:** paper-auditor ×1 (small tier) for 4C FINAL — APPROVE (verified outline
+  evolution v0.1→v0.5, all round artifacts, 4-source spot-check, budgets).
+- **Human messages (verbatim):**
+  > (CHECKPOINT 3, via interactive menu) "Sign off — lock and draft"
+- **AI actions:** Presented the 7-section structure in plain English; custodian signed off; outline
+  v0.5 locked as the drafting contract. Proceeding to Stage 5 (Draft v1.0).
+- **Selections:** Custodian approved structure (generic sign-off; no content added).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: ~2 min. Machine: auditor ~73k tokens.
+
+## [2026-09-22] Session 2 (cont.) — Stage 5 Draft v1.0
+- **Models/agents:** Claude (drafting agent) — the entire draft is the drafting agent's own prose;
+  no subagents in the drafting pass.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Read `2. Essay Style Guide.md` in full; pulled exact definitional wording from
+  on-disk Fricker chapters (incl. the "no culprit" passage now quoted in §4). Wrote
+  `Drafts/Draft v1.0.md` in one bullets→prose pass from locked Outline v0.5: 7 sections, 49 outline
+  units landed (two as planned footnotes; outline 6.5–6.6 merged to one paragraph, content
+  preserved), one paragraph per line, author-date citations, 10 (verify)/(verify page) tags held
+  for the citation audit, working bibliography (24 entries, on-disk-verified except 4 tagged).
+  word_count.py: 5,949 words excluding bibliography — WITHIN limit (−51). Lens Ac run:
+  outline-to-draft paragraph mapping checked section by section; deviations noted (footnotes,
+  genus-paragraph merge).
+- **Selections:** none.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~40 min wall clock.

@@ -34,10 +34,10 @@
 - [x] Argument-clinic pass: memo in Scrap/; accepted fixes in outline — `Scrap/argument-clinic-4C.md`: 6 findings (lead: prophetic-coinage counterexample → answerability repair; uptake equivocation split; congestion objection added as 4.7b; pro tanto bridge; 2 discipline notes) all applied → v0.3
 - [x] Blind referee memo on outline; accepted items folded in — 1 blind referee (social/political philosophy lens, sonnet tier); 3 HIGH + 3 MED + 4 LOW findings; ALL dispositioned (`Referee Reports/Outline memo — disposition.md`); fixes applied → outline v0.5 (two-tier economizing claim; real fail/graded cases added — Alston's documented mints, affective injustice at introduction; implementation-problem objection engaged at 4.7c; determinate victims + fallback in 3.9; §6 rebalanced)
 - [x] Auditor gate — 4C FINAL: "VERDICT: APPROVE. Stage 4C's claimed work is genuinely done (files confirm it). […] The work claimed for Stage 4C is not only complete but genuinely rigorous. […] The agent may proceed with confidence to CHECKPOINT 3 and Stage 5 (Draft v1.0)." (paper-auditor, 2026-09-22; verified v0.1→v0.5 evolution +71%, all round artifacts, 4-source spot-check, budget arithmetic)
-- [ ] CHECKPOINT 3 — structure signed off; outline locked
+- [x] CHECKPOINT 3 — structure signed off; outline locked — custodian: "Sign off — lock and draft" (2026-09-22); Outline 4C Fat v0.5 is the drafting contract
 
 ## Stage 5 — Draft v1.0
-- [ ] Single full-density pass to section budgets; structure preserved; placeholders + (verify) tags
+- [x] Single full-density pass to section budgets; structure preserved; placeholders + (verify) tags — `Drafts/Draft v1.0.md`, 5,949 words excl. bibliography (word_count.py: WITHIN −51); all outline paragraphs landed (4.4a and 1.1-anchor as planned footnotes; 6.5–6.6 merged into one genus paragraph, content preserved — noted); 10 (verify)/(verify page) tags for the citation-auditor
 - [ ] Lens Ac; Auditor gate — Draft v1.0: <verdict line>
 
 ## Stage 6 — Quality passes
