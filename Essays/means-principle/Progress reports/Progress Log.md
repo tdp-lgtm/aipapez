@@ -45,3 +45,15 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
 - Three possible directions are in `WIP Docs/Plan/Rethink Memo v0.1.md`. I recommend A: keep the
   whole view, with the new test at its centre.
 - Needed from custodian: a choice of direction; OpenReview registration (still pending).
+
+## [2026-09-22] Stage 3 — direction chosen; revised plan written
+- You chose direction A: the new test at the centre, with the familiar reason for the principle
+  credited to the authors who hold it.
+- Revised plan written: `WIP Docs/Plan/Plan v0.3.md`. Six sections, about 5,450 of the 6,000
+  words.
+- Supporting documents updated: `WIP Docs/Plan/Crux Memo v0.2.md` (the core argument) and
+  `WIP Docs/Literature Map/Literature Map v0.2.md` (who holds what).
+- A last online check found no one making the essay's key new move.
+- Integrity check: first result REVISE, for two record-keeping mismatches (a count of case names;
+  a checklist line). Both fixed; re-check under way.
+- Needed from custodian (soon): approval of the plan at Checkpoint 2; OpenReview registration.

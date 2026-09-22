@@ -34,7 +34,7 @@ v0.1 — AI-originated working memo that settles the crux flagged in `Brief/Argu
      - Alexander 2016: the MP and the prerogative as "logical corollar[ies]" (file 25 L83, fn 16 at L95); "not resources" (L79);
      - Walen 2022: the "patient-analog" (file 22 L47);
      - Cullity fn 45;
-   - the structure for omissions (Alexander L151, who adds a denial of general rescue duties, L161);
+   - the structure for omissions (Alexander L151, whose examples of a rescue duty are special ones; he denies any duty to shield others with one's body "even at little or no cost", L161);
    - the symmetric Loop point (Costa 1987, via Otsuka fn 7, file 27 L41);
    - verdicts on holdings close to Walen's tightness test (file 14 L251–265; file 22 L79).
 

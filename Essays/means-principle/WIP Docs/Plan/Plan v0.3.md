@@ -8,6 +8,17 @@ Changelog: v0.3 — 2026-09-22. Rebuilt under Option A of `WIP Docs/Plan/Rethink
 - **Loop** becomes a bitten bullet (asymmetric case, about 450 words inside §5); Thomson's symmetric case goes to a footnote.
 - **Scope.** A scope paragraph and an objection on the person in the path of the agent's means are added.
 - **Budget:** 5,450.
+- **Also changed from v0.2** (listed at the gate):
+  - seven sections become six: v0.2's §6 "Two further objections" is folded into §5;
+  - the liability example (Tadros 2020's Mines case) is dropped for length;
+  - the reply to Walen's dilemma objection about the symmetric loop is dropped with the symmetric analysis;
+  - "the principle helps fix rescue rights" gives way to "rescue duties as inputs" (the modularity sentence in §4).
+- **Gate fix** (2026-09-22, after the paper-auditor's REVISE; v0.3 had not yet passed a gate, so it is fixed in place):
+  - Ramakrishnan's and Christensen's cases are no longer italicized; both are told plainly and listed in §7.
+  - §10 Ac records the Kamm page finding.
+  - Alexander L151/L161 is described exactly.
+  - The Hecht reference becomes L75–77.
+  - Line references are added for the two de-italicized cases.
 
 v0.2 and v0.1 (both gate APPROVE) are in `Old versions/`. `(verify #N)` = the claim waits on row N of `Background Readings/REQUESTS.md`. L… = line in the per-work files in `Background Readings/Converted text/`.
 
@@ -141,7 +152,7 @@ Total target **5,450** of the 6,000 cap, leaving 550 for referee-driven addition
   - The ground: the principle limits what can justify an act, and a justification is a reason for one option *rather than another*.
   - Illustration: six people stand behind the man on the side track, and his body would shield them from the diverted trolley. If the agent does not divert, they are safe anyway. So their safety is no part of what makes diverting better, and his body supplies nothing that figures in the justification. Permissible.
   - Contrast *Loop*, where the whole of the improvement over not diverting comes from his body.
-  - Credit: Otsuka reached this contrast through intentions (file 27 L93–105), and Ramakrishnan's *Tracks* is the same shape (file 01).
+  - Credit: Otsuka reached this contrast through intentions (file 27 L93–105), and Ramakrishnan's case in which twenty people stand behind the man on the sidetrack is the same shape (file 01 L201).
   - Correct Alexander, whose accounting forbids diverting in the six-behind case (file 25 L57).
 - **The classic pairs** (2–3 sentences each):
   - the footbridge (spending) vs the diversion (nothing supplied);
@@ -189,8 +200,8 @@ Total target **5,450** of the 6,000 cap, leaving 550 for referee-driven addition
 - **Omissions.** Parry's sliding man vs two independent trolleys, told plainly (file 06 L67–105; Parry adapts it from Tadros 2011, p. 122, fn 13).
   - Parry shows that on Quong's view the man lacks the prior rescue right the principle is meant to protect.
   - The test: the good his body would supply is disabled as a reason against rescuing him, so an ordinary duty of easy rescue stands. The victim of the second trolley supplies nothing, so the numbers count.
-  - Credit the structure to Alexander: a duty to rescue "is not canceled by the setback to C" (file 25 L151). Note that he denies general duties of easy rescue (L161).
-  - **Modularity sentence:** the principle creates no duty to aid; it removes one reason against meeting it. So its reach in omission cases depends on which rescue duties there are. Footnote Hecht 2023 (file 15 L29, L75) on how contested that is.
+  - Credit the structure to Alexander: a duty to rescue "is not canceled by the setback to C" (file 25 L151). Note that his examples of such a duty are special ones (one's child; a peril one caused, L151), and that he denies any duty to use one's body to shield others "even at little or no cost" (L161).
+  - **Modularity sentence:** the principle creates no duty to aid; it removes one reason against meeting it. So its reach in omission cases depends on which rescue duties there are. Footnote Hecht 2023 (file 15 L29, L75–77) on how contested that is.
 - **Holdings.**
   - Quong's unity demand, the life jacket vs the driftwood (file 09 L101–111), is met. The jacket's owner drowns as the cost of what her jacket supplies; the loser of the race for the driftwood supplies nothing.
   - Parry's wrench cases (file 06 L171–195): the owner does not die as the cost of the wrench's service, so there is no three-track absurdity.
@@ -215,7 +226,7 @@ Total target **5,450** of the 6,000 cap, leaving 550 for referee-driven addition
   - A rescuer who would lose an arm refuses to save a sliding man. For the arm's sake the refusal is permissible; refusing *so that* his body stops the trolley is wrong (Parry, file 06 L121).
   - How the view explains it: P3 makes the permission not to give an authority over one's *own* sacrifice. That authority is exercised only by acting on it, and a refusal made to exploit another's plight is no exercise of it. The only other justification, the five's rescue, is disabled.
   - Otherwise the principle is objective: Liao & Barry's malicious diverter is acknowledged as a disagreement (file 29 L143–163).
-  - Footnote: Walen 2022's forfeiture view (file 22 L107–123) and Christensen's *Streets* (file 05).
+  - Footnote: Walen 2022's forfeiture view (file 22 L107–123) and Christensen's case of a passer-by who declines to help homeless people so that their visible suffering will deter a rival (file 05 L209).
 - **(d) Catastrophe** (≈150). Duties grow with the stakes, so the principle yields where duty yields. Whether a person can owe her life to save a million is a question the principle inherits, not one it must settle.
 
 ### §6 Conclusion (200)
@@ -253,7 +264,7 @@ Re-mark the scope (the person in the path; rescue duties as inputs). One plain c
 | Named view (own) | 1 | the Spending View |
 | Named rival | ≤1 | None christened. Rivals are referred to by author ("Quong's version", "Ramakrishnan's principle") |
 | Coined term | ≤1 | "the replacement test" (defined at first use in §2). The comparison with the alternatives and the doing-versus-serving distinction are described in plain words each time, never named |
-| Named cases (italic) | ≤3 | *Room*, *Heart Attack*, *Loop*. All others are told plainly, without italic names: the two trials; the footbridge; the diversion; the six behind the one; Liao & Barry's roof, door and button cases; the sliding man and the two trolleys; the life jacket and the driftwood; the wrench; the costly rescue; the man on the road; the sensor |
+| Named cases (italic) | ≤3 | *Room*, *Heart Attack*, *Loop*. All others are told plainly, without italic names: the two trials; the footbridge; the diversion; the six behind the one; Liao & Barry's roof, door and button cases; the sliding man and the two trolleys; the life jacket and the driftwood; the wrench; the costly rescue; the man on the road; the sensor; Ramakrishnan's twenty behind the man on the sidetrack; Christensen's passer-by who lets suffering deter a rival |
 | Displays | 2 | Display 1 (the Spending View); Display 2 (the argument) |
 | Metaphor | 1 | None as metaphor. The log and the tree is a literal illustration. "Spending" is defined literally, and the argument runs on the definition, never on economic connotations. Prefer "loss", "give", "supply", "decide" over "price", "pay", "purchase", "trade" |
 | Snap moves | ≤2 each | the "Compare:" opening once; one slogan ("the principle forbids spending persons, not using them") in §1 and §6 |
@@ -319,4 +330,9 @@ Local moves in §5(a):
 - **Ac (Accuracy).**
   - Every line reference in this Plan was checked against the files on disk this session. Among them: Alexander L57, L79, L83, L95, L151, L161; Tadros L85–101, L277; Choo L102, L153, L267–275; Liao et al. L121; Otsuka L91–151; Walen 2022 L47, L59–61, L79, L107–123; Steinhoff L107–109, L145–147.
   - *Finding:* the Liao et al. percentages are unreliable (the labels appear swapped at L102). Only the means will be cited.
+  - *Finding:* Kamm's "new problem" passage spans pp. 94–95 (file 21 L61–65), not p. 94 alone; the conversion has no page markers for pp. 92–94. Corrected here and in the Crux Memo, the Literature Map and the batch-2 notes.
+  - *Finding (gate):*
+    - Alexander L161 denies only a duty to shield others with one's body, and his L151 examples of rescue duties are special ones. The wording now says exactly that.
+    - Hecht's Justification Condition is stated at file 15 L77, under the heading at L75.
+    - Ramakrishnan's twenty-behind case is at file 01 L201; Christensen's passer-by case is at file 05 L209.
   - Claims still waiting on sources carry `(verify #N)`.

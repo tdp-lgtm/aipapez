@@ -4,6 +4,7 @@ Changelog: v0.1 — AI-authored, 2026-09-22.
 - **Why written.** The custodian gave a generic instruction to "step back and rethink" once the 16 requested works had arrived (Process Log, same date).
 - **Inputs.** `WIP Docs/Literature Map/Reading Notes — Batch 2.md` (the notes), Crux Memo v0.1, Literature Map v0.1, Plan v0.2.
 - **References.** Line references (L…) are to the per-work files in `Background Readings/Converted text/`.
+- **Correction** (2026-09-22, after the Plan gate). §1.1 now describes Alexander L151/L161 exactly, and §4 gives Option A's total budget correctly (5,450, against Plan v0.2's 5,650). No other change.
 - **Status.** This memo precedes Plan v0.3. The custodian's choice among the options in §4 decides which plan gets written. Checkpoint 2 stays open.
 
 ---
@@ -31,7 +32,7 @@ Changelog: v0.1 — AI-authored, 2026-09-22.
 | Idea in the Spending View (SV) | Who already has it | Where |
 |---|---|---|
 | The principle protects people from being made to serve others beyond what they owe | Quinn 1989 (unowed service); Tadros 2011 (being compelled to serve a goal; side-effect victims "do not contribute" and are not required "to expend [their] life"); Mack 2005 (subordination *by others*); Alexander 2016 ("we are not resources for others' benefit"; the MP and the prerogative as logical corollaries); Walen 2022 (the victim's claim as the "patient-analog" of the claim not to make large sacrifices) | file 12; file 03 L277, L85–101; file 19 L117–167; file 25 L79, L83, fn 16 at L95; file 22 L47 |
-| A benefit that comes only from the victim's not being used cannot cancel a duty to aid him (the SV's structure for omissions) | Alexander 2016, who pairs it with a denial of general rescue duties | file 25 L151 (structure), L161 (no general duty) |
+| A benefit that comes only from the victim's not being used cannot cancel a duty to aid him (the SV's structure for omissions) | Alexander 2016, whose examples of a rescue duty are special ones and who denies any duty to shield others with one's body "even at little or no cost" | file 25 L151 (structure), L161 (no general duty) |
 | Holdings are protected only where the owner's loss is tightly tied to their use | Walen 2016 and 2022 (the "tightness" test) | file 14 L251–265; file 22 L79 |
 | The six-behind-the-one case differs from the loop | Otsuka 2008, in terms of intention | file 27 L93–105 |
 | In Thomson's own loop, not diverting would sacrifice the five | Costa 1987, via Otsuka fn 7 | file 27 L41 |
@@ -119,7 +120,7 @@ Changelog: v0.1 — AI-authored, 2026-09-22.
 
 **Thesis.** The Means Principle forbids spending persons, not using them: imposing on someone, by act or omission, the loss that supplying a good would cost her, for the sake of that good, beyond what she owes or agrees to bear. This gives the familiar view that the principle protects people from being made to serve others its missing piece: an independent test. The test gets right the cases on which the rival tests fail.
 
-**Shape** (same total budget as Plan v0.2):
+**Shape** (total 5,450, against Plan v0.2's 5,650):
 
 | § | Job | Budget |
 |---|---|---|

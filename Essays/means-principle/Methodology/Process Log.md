@@ -487,3 +487,42 @@ methodology report.
     alternatives\" Loop trolley objective account" [general sources; no anticipation].
 - **Compliance flags:** none. No custodian input in this segment.
 - **Approx. cost/time:** Human: 0. Machine: ~1 h.
+
+## [2026-09-22] Session 1 (cont.) — Plan gate (v0.3): REVISE, fixes applied
+- **Models/agents:** Claude (Claude Code remote session); paper-auditor subagent (haiku tier) for
+  the gate.
+- **Gate result (auditor's verdict line, verbatim):** "VERDICT: REVISE — Plan v0.3's substantive
+  work is verifiably done, but two recorded claims don't match the artifacts: (1) Plan v0.3
+  italicizes *Tracks* (L144) and *Streets* (L218), which §7's apparatus list leaves out, giving 5
+  italic case names against a budget of 3, so the Checklist's "apparatus within budget" is false;
+  describe both plainly and list them in §7, or justify the overage; (2) Checklist row "All six
+  lenses run (v0.3)" puts "Kamm page corrected" in Plan §10, which lacks it; add it to §10 Ac or
+  reword the row."
+- **The auditor's non-blocking observations, and what was done:**
+  - Plan changelog gaps (seven sections → six; *Mines* dropped; reply to Walen's dilemma objection
+    dropped; "rescue duties as inputs"): added to the v0.3 changelog.
+  - The Rethink Memo wrongly said Option A had the same total budget as Plan v0.2: corrected
+    (5,450 vs 5,650), with a correction note in its changelog.
+  - The Progress Log lagged: updated in this segment.
+  - Model versions are not named in log entries (the Methodology Protocol asks for them). Open
+    until Stage 11. This session's operating rules keep model identifiers out of repository files,
+    so the custodian will be asked, before the methodology report, how model details should be
+    recorded.
+  - Run lenses as a separate pass after writing, so they leave a diff: adopted for Stage 4.
+  - Notes for the citation-auditor:
+    - Alexander L161 denies only a duty to shield others with one's body. The wording was
+      corrected in the Plan, the Rethink Memo, the Crux Memo, the Literature Map and the batch-2
+      notes.
+    - Hecht's condition is stated at L77 (heading at L75): references now read L75–77.
+    - *Tracks* is at file 01 L201: added.
+- **Fixes to the two required items** (v0.3 had not passed a gate, so it was fixed in place with a
+  changelog line):
+  1. Ramakrishnan's and Christensen's cases are no longer italicized. They are told plainly with
+     line references (file 01 L201; file 05 L209) and added to §7's list of plainly told cases.
+     *Mines* in the new changelog line is also left unitalicized. Check: the Plan now has exactly
+     three single-asterisk italic case names (*Room*, *Heart Attack*, *Loop*).
+  2. Plan §10 Ac now records the Kamm page finding (and the three gate findings), so the
+     Checklist row is accurate as written.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~15 min (auditor ~199k tokens, ~10 min).
+- **Next:** re-run the gate on the fixes.

@@ -81,8 +81,8 @@ Each track has a standing failure:
   - Parry 2023 (file 06 L47–105): *Icy Trolley* vs *Icy Trolleys*; he calls for a "quasi-causal difference" (L105).
   - Tadros 2011 (source of the sliding man, p. 122 per Parry fn 13).
   - Christensen 2026 (*Streets*).
-  - Alexander: the structure (L151), plus a denial of general rescue duties (L161).
-  - Hecht 2023 (file 15): the right to be rescued is activated only under a *Justification Condition* (L29, L75), against Quong's *Coherence Condition*. So rescue content is contested. The essay takes it as an input.
+  - Alexander: the structure (L151), with only special duties as his examples; he denies any duty to shield others with one's body "even at little or no cost" (L161).
+  - Hecht 2023 (file 15): the right to be rescued is activated only under a *Justification Condition* (L29, L75–77), against Quong's *Coherence Condition*. So rescue content is contested. The essay takes it as an input.
 - **Property.**
   - Quong's unity demand (file 09 L111).
   - Parry's *Trolley Tool*, *Three-Track* and externality argument (file 06 L171–259).
