@@ -37,7 +37,7 @@
 - [x] Auditor gate — 4B: "VERDICT: APPROVE — Stage 4B's claimed work is genuinely done (files confirm it); the agent may proceed to Stage 4C (Fat outline, v0.1)." (paper-auditor, haiku tier, 2026-09-22; 12 line references spot-checked, no mismatches)
 - [x] 4C fat outline v0.1 (~1,800–2,400 words) — `WIP Docs/Outline/Outline 4C v0.1.md`: 38 paragraph bullets, ~2,550 words; opening pair redesigned (Smoke/Wedge; design note in Scrap/)
 - [x] 4C round 1 — completeness: Coverage Map built, gaps closed — `WIP Docs/Outline/Coverage Map v0.1.md` (20 arguments, 19 objections; 4 gaps and 6 partials); closed in `Outline 4C v0.2.md` (8 bullets across 5 sections)
-- [ ] 4C round 2 — engagement: every key interlocutor in bullets
+- [x] 4C round 2 — engagement: every key interlocutor in bullets — `Outline 4C v0.3.md` (engagement table at its end; Choo's reply and Quong's rationale engaged; Kamm and Lazar added; Walen consolidated to three notes)
 - [ ] Argument-clinic pass: memo in Scrap/; accepted fixes in outline
 - [ ] Blind referee memo on outline; accepted items folded in
 - [ ] Auditor gate — 4C FINAL: <verdict line>

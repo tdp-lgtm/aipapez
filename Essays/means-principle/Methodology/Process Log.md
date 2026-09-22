@@ -723,3 +723,24 @@ methodology report.
   - the generalization to anyone merely "in the way".
 - **Compliance flags:** none.
 - **Approx. cost/time:** Machine: ~25 min.
+
+## [2026-09-22] Session 1 (cont.) — Stage 4C Round 2 (engagement): outline v0.3
+- **Models/agents:** Claude (Claude Code remote session).
+- **AI actions:** wrote `Outline 4C v0.3.md` (v0.2 moved to `Old versions/`). Every interlocutor
+  ranked in Literature Map v0.2 §4 was checked for real engagement; the table is at the end of v0.3.
+  Changes:
+  - Choo's reply to the "mere means" diagnosis (file 28 L193) is engaged in ¶5.3. The reply
+    (AI-originated): those who judge *Loop* permissible see the use, but use is not what makes
+    the footbridge wrong (*Smoke*). What matters is spending.
+  - Quong's own rationale (rights "block" usefulness as a reason, file 09 L135–137) is credited for
+    its structure and corrected for its object, in ¶3.4.
+  - Kamm's contrast between substitution and subordination is footnoted at ¶2.1.
+  - Lazar is added to the ¶3.2 credit note.
+  - Walen is consolidated to three notes (§2, §4, §5), and Øverland is merged into the §2 note.
+  - Sources checked: Choo L183–195; Quong L135–137; Lazar L9; Kamm file 20 (substitution and
+    subordination).
+- **Length note:** about 3,030 words including inline references, about 2,860 without, which is
+  above the ~2,400 guide. A compression pass is planned when the clinic and referee items are folded
+  in.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~20 min.
