@@ -700,3 +700,26 @@ methodology report.
       his body supplies varies. This removes the doing/allowing confound in Plan v0.4's candidate.
 - **Compliance flags:** none. No custodian input.
 - **Approx. cost/time:** Human: 0. Machine: ~35 min.
+
+## [2026-09-22] Session 1 (cont.) — Stage 4C Round 1 (completeness): Coverage Map; outline v0.2
+- **Models/agents:** Claude (Claude Code remote session).
+- **AI actions:**
+  - Built `WIP Docs/Outline/Coverage Map v0.1.md`. It maps 20 arguments and 19 objections from
+    4B, Plan v0.4 and Crux Memo v0.2 to the v0.1 bullets.
+    - Gaps: O5 (harmless use), O10 (consent), O13 (the "just another counterfactual" reply), O19
+      (compulsion accounts cannot reach omissions).
+    - Partials: A4, A5, A15, O3, O8, O9.
+  - Wrote `Outline 4C v0.2.md` (v0.1 moved to `Old versions/`), closing all of them.
+    - Eight bullets revised across five sections: ¶1.5, ¶2.2, ¶2.4, ¶2.5, ¶3.4, ¶3.5, ¶4.2, ¶5.4.
+    - About 2,850 words, including inline line references.
+  - Sources re-checked for the new material:
+    - Ramakrishnan L107–117 (compulsion does not reach omissions), L109 (the drowning case) and
+      L227–233 (the cave-exit case: dislodging someone is not making her serve);
+    - Liao & Barry L291 ("sound very much like the MP");
+    - Kahn L9 (argues against consent accounts).
+- **New AI-originated content:**
+  - why letting someone suffer the cost of supply is spending, answering the limit of the
+    compulsion account;
+  - the generalization to anyone merely "in the way".
+- **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~25 min.

@@ -36,7 +36,7 @@
 - [x] 4B argument outline — `WIP Docs/Outline/Outline 4B v0.1.md`: §0 terms and the several-alternatives rule settled; §1–§6 claim-by-claim with 2–4 sub-arguments each (examples, line-referenced sources), objections placed per Plan v0.4; all six lenses (findings in its §7)
 - [x] Auditor gate — 4B: "VERDICT: APPROVE — Stage 4B's claimed work is genuinely done (files confirm it); the agent may proceed to Stage 4C (Fat outline, v0.1)." (paper-auditor, haiku tier, 2026-09-22; 12 line references spot-checked, no mismatches)
 - [x] 4C fat outline v0.1 (~1,800–2,400 words) — `WIP Docs/Outline/Outline 4C v0.1.md`: 38 paragraph bullets, ~2,550 words; opening pair redesigned (Smoke/Wedge; design note in Scrap/)
-- [ ] 4C round 1 — completeness: Coverage Map built, gaps closed
+- [x] 4C round 1 — completeness: Coverage Map built, gaps closed — `WIP Docs/Outline/Coverage Map v0.1.md` (20 arguments, 19 objections; 4 gaps and 6 partials); closed in `Outline 4C v0.2.md` (8 bullets across 5 sections)
 - [ ] 4C round 2 — engagement: every key interlocutor in bullets
 - [ ] Argument-clinic pass: memo in Scrap/; accepted fixes in outline
 - [ ] Blind referee memo on outline; accepted items folded in
