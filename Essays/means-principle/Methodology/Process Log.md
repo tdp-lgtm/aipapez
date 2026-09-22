@@ -685,3 +685,18 @@ methodology report.
   case he dies of smoke that the opening releases; in the second the trapdoor crushes him.
   Recorded in 4C v0.1, to be shown to the custodian at Checkpoint 3.
 - **Approx. cost/time:** Machine: ~2 min (auditor ~78k tokens).
+
+## [2026-09-22] Session 1 (cont.) — Stage 4C v0.1: paragraph outline (first pass)
+- **Models/agents:** Claude (Claude Code remote session).
+- **AI actions:**
+  - Wrote `WIP Docs/Outline/Outline 4C v0.1.md`: 38 paragraph bullets across six sections,
+    ~2,550 words. An earlier write reached ~3,190 words and was tightened before saving.
+  - Redesigned the opening pair (AI-originated) and saved the design note to
+    `Scrap/opening-pair-design-note.md`.
+    - *Smoke:* the neighbour's body props the trapdoor harmlessly, and the released smoke kills
+      him.
+    - *Wedge:* his body is wedged, and the trapdoor crushes him.
+    - Both are killings, with the same use of his body. Only whether his death is the cost of what
+      his body supplies varies. This removes the doing/allowing confound in Plan v0.4's candidate.
+- **Compliance flags:** none. No custodian input.
+- **Approx. cost/time:** Human: 0. Machine: ~35 min.

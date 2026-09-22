@@ -35,7 +35,7 @@
 - [x] Auditor gate — 4A: "VERDICT: APPROVE — Stage 4A's required fix is verifiably complete. The Lens E placement table now includes every interlocutor ranked in Literature Map v0.2 §4 (items 1–9 and the footnote-only list), with placements specified for three and explicit "not engaged" notes for two. ..." (paper-auditor, haiku tier, 2026-09-22; round 1 REVISE on the lens E table, fixed; round 2 APPROVE)
 - [x] 4B argument outline — `WIP Docs/Outline/Outline 4B v0.1.md`: §0 terms and the several-alternatives rule settled; §1–§6 claim-by-claim with 2–4 sub-arguments each (examples, line-referenced sources), objections placed per Plan v0.4; all six lenses (findings in its §7)
 - [x] Auditor gate — 4B: "VERDICT: APPROVE — Stage 4B's claimed work is genuinely done (files confirm it); the agent may proceed to Stage 4C (Fat outline, v0.1)." (paper-auditor, haiku tier, 2026-09-22; 12 line references spot-checked, no mismatches)
-- [ ] 4C fat outline v0.1 (~1,800–2,400 words)
+- [x] 4C fat outline v0.1 (~1,800–2,400 words) — `WIP Docs/Outline/Outline 4C v0.1.md`: 38 paragraph bullets, ~2,550 words; opening pair redesigned (Smoke/Wedge; design note in Scrap/)
 - [ ] 4C round 1 — completeness: Coverage Map built, gaps closed
 - [ ] 4C round 2 — engagement: every key interlocutor in bullets
 - [ ] Argument-clinic pass: memo in Scrap/; accepted fixes in outline
