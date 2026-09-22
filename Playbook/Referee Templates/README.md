@@ -8,7 +8,10 @@ Rules that make a prompt genuinely blind:
   literatures that define the LENS is fine; naming what the ESSAY does is not).
 - Fresh agent instance every round; never show prior reports.
 - Round 2+ adds one case-for-acceptance reader.
-- The pre-submission readiness check = one blind generalist read after Stage 10.
+- Rounds iterate to convergence — the loop and its stopping rule live in Pipeline Stage 9. A
+  desk-reject screen (editor persona) precedes round 1; the pre-submission readiness check = one
+  simulated AI screening (grading strictly by the six published criteria) plus one blind generalist
+  read after Stage 10.
 
 The `{VENUE}` slot is always filled with:
 

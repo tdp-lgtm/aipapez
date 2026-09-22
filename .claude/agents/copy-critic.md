@@ -24,12 +24,18 @@ that makes those harder to assess in the first thirty seconds. Ground every item
 - Sections noticeably thinner or weaker than the rest (flag; don't fix the substance yourself).
 - **Word count**: run `word_count.py` (Build scripts); over 6,000 countable words is a MUST-FIX.
 
-## 2. Register (the standard is `Playbook/2. Essay Style Guide.md` — read it before the pass)
+## 2. Register (the standard is `Playbook/2. Essay Style Guide.md` — read it before the pass, plus
+`Playbook/Craft/ai-tells.md` for the full tell list and cadence checks, and `Playbook/Craft/
+prose-principles.md` for the self-edit sequence)
 Flag violations with locations, same as any defect: rhetorical fragments; metaphors carrying an
 argument step; drama adjectives ("extraordinary," "striking"); elegant variation on a fixed referent;
 a term, case, or allusion used before it is introduced; a named principle / the view / a case / the
 central argument not set as a display; premises not visibly implying the conclusion; missing defense
 locations.
+
+**Exemplar-echo check:** compare suspect passages against `Playbook/Craft/Exemplars/` — any essay
+sentence, case, coinage, or image that echoes an exemplar's wording (rather than merely using its
+technique) is a MUST-FIX: the bank licenses moves, never words.
 
 ## 3. Prose defects that hide the philosophy
 - Editorializing: "it is important to note," "interestingly," "notably," "crucially."

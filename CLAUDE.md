@@ -17,13 +17,20 @@ remain, but its premise is inverted: there, the author supplied the thesis and y
 2. **`Competition/Competition Brief.md`** — the venue: format, dates, judging criteria, prizes.
 3. **`Competition/Rules — Human Involvement.md`** — the compliance bright lines. Re-read at the start
    of every working session on an essay. (The organizers' PDFs are in `Competition/Source PDFs/`.)
-4. **`Playbook/1. Pipeline — Competition Edition.md`** — the stage-by-stage process. The core; read
-   in full.
-5. **`Playbook/2. Essay Style Guide.md`** — how the essays are written (clarity-first analytic
-   philosophy register, displays, premise-form central argument, 6k discipline).
-6. **`Playbook/3. Methodology Protocol.md`** — the logging duty and the report that ships with every
+4. **`Playbook/DIGEST.md`** — the always-on compressed core: load it every session; its §10 table
+   says which deep files each task needs, so the rest loads on demand.
+5. **`Playbook/1. Pipeline — Competition Edition.md`** — the stage-by-stage process. The core; read
+   in full on a first run.
+6. **`Playbook/2. Essay Style Guide.md`** — how the essays are written (clarity-first analytic
+   philosophy register, displays, premise-form central argument, 6k discipline). Depth behind it:
+   `Playbook/Craft/` (journal craft, intro playbook, prose principles, AI-tells, abstracts, the
+   casebooks) and `Playbook/Craft/Exemplars/` — a bank of transferable moves from published papers,
+   governed by one rule: **borrow techniques, never sentences, cases, coinages, or content**.
+7. **`Playbook/3. Methodology Protocol.md`** — the logging duty and the report that ships with every
    essay.
-7. **`Playbook/4. Essay Project Template.md`** — folder spec and the Checklist template.
+8. **`Playbook/4. Essay Project Template.md`** — folder spec and the Checklist template.
+9. **`Playbook/5. Literature Access Protocol.md`** — how the agent gets real sources: it maintains a
+   per-essay request list and pings the custodian, who uploads PDFs or Markdown conversions.
 
 Per essay: **starting** — run the Intake (below), scaffold with `new_essay.py`, then work the
 Checklist top to bottom. **Resuming** — read that essay's `Progress reports/` (Checklist + Progress
@@ -61,8 +68,9 @@ Do **not** ask for a thesis, arguments, or an argument sketch. Generating those 
    (`python3 "Behind the scenes (Claude)/Build scripts/new_essay.py" "<slug>"`), then drive the
    project from the Checklist, top to bottom, filling rows only from finished artifacts. Follow the
    Pipeline stages in order: Setup → Idea Generation & Selection → Lit Review → Plan → Layered
-   Outline (4A/4B/4C fat outline) → Draft v1.0 → Quality passes → Clarity pass → Custodian read →
-   Referee panel (blind, capped) → Finishing → Methodology report → Ship → Retrospective.
+   Outline (4A/4B/4C fat outline + argument-clinic pass) → Draft v1.0 → Quality passes → Clarity
+   pass → Custodian read → Iterative referee loop (blind panels, revise, repeat to convergence) →
+   Finishing → Methodology report → Ship → Retrospective.
 4. **Outline first; the paragraph outline is the drafting contract.** Fat outline at ~30–40% of
    final length (~1,800–2,400 words for a 6k essay); no prose until it is locked. Then separated
    moves: one full-density bullet→paragraph pass, then quality passes, then the clarity pass.
@@ -111,8 +119,12 @@ Do **not** ask for a thesis, arguments, or an argument sketch. Generating those 
 - They are a non-technical user: never ask them to run scripts or read code; explain progress in plain
   English. Bundle questions; present finished work, not process; keep each essay's Checklist current
   enough that they always know where things stand.
-- Surface genuine judgment calls as selections between your own options — that keeps decisions his
-  while the philosophy stays yours.
+- Surface genuine judgment calls as selections between your own options — that keeps decisions
+  theirs while the philosophy stays yours.
+- **Source requests:** when the literature work needs papers or books you cannot reach, batch a
+  prioritized request list (per `Playbook/5. Literature Access Protocol.md`) and ping the custodian
+  in chat; they upload PDFs or Markdown into the essay's `Background Readings/`. Never fabricate
+  around a missing source; never stall on one either.
 - Remind them early about: OpenReview registration (up to 2 weeks), chat-log retention (keep session
   transcripts), and the one-prize-per-entrant rule when prioritizing among essay slots.
 

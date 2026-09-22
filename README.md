@@ -24,9 +24,18 @@ session-by-session methodology logging on top.
 - **Everything logged.** Every session is recorded verbatim in a per-essay Process Log, from which
   the required methodology report is assembled — which itself competes for the competition's
   US$5,000 creative-methodology prize pool.
-- **Quality machinery.** Outline-first drafting, separated quality and clarity passes keyed to the
-  six judging criteria, blind referee panels, citation audits against real sources, and an integrity
-  auditor that verifies claimed work against files.
+- **Quality machinery.** Outline-first drafting, an adversarial argument-clinic pass, separated
+  quality and clarity passes keyed to the six judging criteria, an **iterative blind referee loop**
+  (fresh simulated panels each round, revised until fresh readers stop finding new problems),
+  citation audits against real sources, and an integrity auditor that verifies claimed work against
+  files.
+- **A field-craft layer.** `Playbook/Craft/` distills how top analytic philosophy papers are built —
+  structure conventions, intro playbook, prose principles, AI-tell bans, and an exemplar bank of
+  transferable moves from published papers (techniques only, never text) — adapted from the
+  entrant's own `acdemwrit` writing system.
+- **A literature loop.** The agent maintains a per-essay source-request list; the entrant uploads
+  the PDFs (or Markdown) it cannot reach — engagement and accuracy are graded, and fabrication is
+  banned.
 
 ## Layout
 

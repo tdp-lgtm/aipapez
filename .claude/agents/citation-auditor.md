@@ -27,8 +27,12 @@ the PDFs in `Background Readings/` (and its `Converted text/`), and, failing tha
    correctly named, and accurately described.
 
 ## How to work
-- Read the latest draft and pull the citation list / footnotes. Read the candidate sources from
-  `Background Readings/Converted text/` (use `read_docx.py` / PDF text). WebSearch for anything not in the corpus.
+- Start deterministic: `python3 "Behind the scenes (Claude)/Build scripts/check-citations.py" "<draft.md>"`
+  extracts every author–year mention and `[CITE?]`/`(verify)` marker into a numbered checklist (it
+  can only extract, never pass — exit 3 is your work order). Verify each item.
+- Read the candidate sources from `Background Readings/` and `Converted text/` (use `read_docx.py` /
+  PDF text). WebSearch for anything not in the corpus. Cross-check `Background Readings/REQUESTS.md`:
+  an attributed claim whose source was never RECEIVED is automatically UNVERIFIABLE.
 - Do not edit the paper. Produce a findings table.
 
 ## Output — a table, one row per checked citation

@@ -72,10 +72,10 @@ These are harder to game than the label and are what the calling agent should we
 AI referees — including you — almost never output "accept as is": real referee reports skew toward
 revise-and-resubmit, and producing critique is what the task rewards. So the **caller** must read the
 **trajectory across rounds and the specific convergent issues, not the label**, and should (a) run one
-**"case-for-acceptance" reader** alongside the panel to counter the critique lean, and (b) **stop refereeing**
-once scholarship is clean (citation-auditor pass) and issues have converged — the referee's job is to surface
-issues, not to certify acceptance. Cap: two substantive rounds (first complete draft; post-author-revision)
-plus one blind pre-submission read.
+**"case-for-acceptance" reader** alongside the panel to counter the critique lean, and (b) stop the
+loop on **convergence** — a fresh round surfacing no new consensus-level concerns — never on a
+verdict (Pipeline Stage 9 has the loop, the convergence ledger, and the churn safeguards). The
+referee's job is to surface issues, not to certify acceptance.
 
 ## Discipline
 - You **propose**; you do not rewrite the paper. Concrete fixes, not a redraft.

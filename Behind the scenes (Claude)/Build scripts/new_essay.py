@@ -61,6 +61,15 @@ def main() -> None:
         f"## [{today}] Setup\n- Scaffolded by new_essay.py.\n",
         encoding="utf-8",
     )
+    (essay_dir / "Background Readings" / "REQUESTS.md").write_text(
+        f"# Source Requests — {slug}\n\n"
+        "Running request table per Playbook/5. Literature Access Protocol.md. The agent adds rows\n"
+        "and pings the custodian in batches; the custodian uploads PDFs or Markdown into this\n"
+        "folder; the agent updates Status.\n\n"
+        "| # | Source (author, year, title, venue) | Why needed | Priority | Status |\n"
+        "|---|---|---|---|---|\n",
+        encoding="utf-8",
+    )
     (essay_dir / "Methodology" / "Process Log.md").write_text(
         f"# Process Log — {slug}\n\n"
         "Append-only session log; see Playbook/3. Methodology Protocol.md for the entry template.\n"
