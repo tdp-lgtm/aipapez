@@ -46,3 +46,14 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
   CHECKPOINT 3 all wait on the custodian's source uploads (REQUESTS.md; five are free one-click).
 - Nothing else is startable without violating the outline-first discipline: Draft v1.0 needs the
   locked outline.
+
+## [2026-09-22] Source delivery and Round 2
+- Custodian delivered 17 of 21 requested sources in one file; split per-paper; all read or surveyed.
+- Reading strengthened the essay everywhere it touched: Kitsik's mechanisms now citable; Jenkins and
+  Friedman trials filled and both PASS (with an honest degree-note on the newest coinage); Fricker's
+  own retrospective endorses bounded proliferation over stretching (major evidence for §5.6);
+  Dotson's open/closed-structures critique sharpened the equity objection and its reply; Feinberg's
+  manifesto-rights section added as anchor + new objection/reply.
+- Outline at v0.4 (48 paragraphs). Remaining before CHECKPOINT 3: blind referee memo (running),
+  4C FINAL audit.
+- New requests filed (5), incl. Maitra 2018 as a mandatory pre-final originality check.
