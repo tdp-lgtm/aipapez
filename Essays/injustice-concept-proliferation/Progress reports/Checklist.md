@@ -20,7 +20,7 @@
 - [x] Auditor gate — Lit Review: "VERDICT: APPROVE — Stage 2 (Literature Review & Positioning) is genuinely done. All six audit requirements fully met with file evidence. […] The agent may proceed to Stage 3 (Plan)." (paper-auditor, 2026-09-22; spot-checked 3 bibliographic records, evidence capping verified)
 
 ## Stage 3 — Plan
-- [x] Plan: sharpest thesis; the move; section budgets ≤ 6,000; dialectical structure; argument labels — `WIP Docs/Plan/Plan v0.1.md`: Investment View thesis, 3-step analytic move, 7 sections budgeted to 5,900, dialectical placement, stable vocabulary, no formal apparatus
+- [x] Plan: sharpest thesis; the move; section budgets ≤ 6,000; dialectical structure; argument labels — `WIP Docs/Plan/Plan v0.2.md`: Investment View thesis, 3-step analytic move, 7 sections budgeted to 5,950 (v0.1 had a budget-sum error, 6,350 vs claimed 5,900 — caught by auditor, fixed in v0.2), dialectical placement, stable vocabulary, no formal apparatus
 - [x] All six lenses run — findings §10 of Plan v0.1 (incl. one fix applied: uptake defined as recognition+response pair)
 - [ ] Auditor gate — Plan: <verdict line>
 - [ ] CHECKPOINT 2 — custodian response (generic) applied & logged

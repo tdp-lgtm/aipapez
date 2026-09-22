@@ -105,3 +105,6 @@ methodology report.
 - **Tools/retrieval:** WebSearch ×1 (Feinberg/Shklar verification).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~20 min wall clock.
+- **Gate note:** paper-auditor returned REVISE on Plan v0.1 — real defect: section budgets summed to
+  6,350 against a claimed 5,900. Fixed in Plan v0.2 (budgets rebalanced to a verified 5,950; v0.1
+  archived to Old versions/). Resubmitted to the Plan gate.
