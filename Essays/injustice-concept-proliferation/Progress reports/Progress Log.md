@@ -34,3 +34,15 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
 - REQUESTS.md: 19 sources, 9 must-have, free one-click links supplied where they exist. Custodian
   pinged in chat with the batched list.
 - Awaiting auditor gate — Lit Review; Plan work (Stage 3) proceeds meanwhile with (verify) tags.
+
+## [2026-09-22] Stage 3–4 — Plan through fat outline
+- Lit Review gate APPROVE. Plan v0.1 → auditor REVISE (budget arithmetic) → v0.2 APPROVE.
+- CHECKPOINT 2: custodian approved the Plan ("Sounds good"); reading-timing question answered.
+- 4A skeleton APPROVE; 4B argument outline APPROVE (both gates same day).
+- 4C fat outline v0.1 (46 paragraph-bullets) → Round 1 Coverage Map (equity objection added, 2
+  repairs) → v0.2 → argument-clinic (answerability repair to the prophetic-coinage counterexample;
+  congestion objection added and answered; terminology split; pro tanto bridge) → v0.3, 47 paras.
+- NOW BLOCKED: 4C Round 2 (engagement), blind referee memo on the outline, 4C FINAL gate, and
+  CHECKPOINT 3 all wait on the custodian's source uploads (REQUESTS.md; five are free one-click).
+- Nothing else is startable without violating the outline-first discipline: Draft v1.0 needs the
+  locked outline.

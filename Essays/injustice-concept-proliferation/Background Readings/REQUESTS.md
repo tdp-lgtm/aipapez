@@ -28,7 +28,7 @@ page markers) into this folder.
 |---|---|---|---|---|---|
 | 10 | Griffin, J. (2008). *On Human Rights*. OUP. (inflation/determinateness discussion) | Sharpest philosophical rights-inflation statement | Book; paywalled | MED | REQUESTED 2026-09-22 |
 | 11 | Byskov, M. F. (2021). "What Makes Epistemic Injustice an 'Injustice'?" *JSP* 52(1): 114–131. | Genus debate; supports "the field polices the suffix" | FREE: https://wrap.warwick.ac.uk/id/eprint/137014/ | MED | REQUESTED 2026-09-22 |
-| 12 | Dotson, K. (2012). "A Cautionary Tale: On Limiting Epistemic Oppression." *Frontiers* 33(1): 24–47. | Contributory injustice exemplar; uptake-not-concepts complication | Paywalled (Project MUSE) | MED | REQUESTED 2026-09-22 |
+| 12 | Dotson, K. (2012). "A Cautionary Tale: On Limiting Epistemic Oppression." *Frontiers* 33(1): 24–47. | PRIORITY RAISED: now steelman material for the equity objection (§6.3) — contributory injustice as uptake-refusal | Paywalled (Project MUSE) | MED-HIGH (was MED) | REQUESTED 2026-09-22 |
 | 13 | Kitsik's cited locus for attention scarcity + Simon, H. (1971). "Designing Organizations for an Information-Rich World." | One-line anchor cite for scarcity | Widely reproduced; verify edition | LOW | REQUESTED 2026-09-22 |
 | 14 | Wellman, C. (1999). *The Proliferation of Rights*. Westview. | Book-scale rights analogue; footnote | Book; paywalled | LOW | REQUESTED 2026-09-22 |
 | 15 | Theilen, J. (2021). "The inflation of human rights: A deconstruction." *Leiden JIL*. | Foil for dropping the currency metaphor | FREE (Cambridge OA): https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/inflation-of-human-rights-a-deconstruction/6F2E581DFB5CFB2D3532F26F3BC05F90 | LOW | REQUESTED 2026-09-22 |

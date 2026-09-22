@@ -140,3 +140,26 @@ methodology report.
 - **Tools/retrieval:** none this segment (all argument construction is the AI's own).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~35 min wall clock.
+
+## [2026-09-22] Session 1 (cont.) — Stage 4C fat outline, Round 1, argument-clinic
+- **Models/agents:** Claude (Claude Code remote session). Subagents: paper-auditor ×2 (small tier)
+  for 4A and 4B gates — both APPROVE, pasted into Checklist.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Wrote `Outline 4C Fat v0.1.md` (46 paragraph-bullets, ~2,100 words — the drafting
+  contract). Round 1: built `Coverage Map v0.1.md` mapping every 4B item to 4C bullets; found and
+  repaired 3 defects — (1) MISSING OBJECTION: the equity/gatekeeping objection (a backing norm as a
+  dismissal tool against marginalized coiners) added as new §6.3–6.4 with steelman and reply;
+  (2) softened an overreaching claim about the critics' evidence (2.2); (3) added the defending step
+  for the Feinberg kind-level extension (3.1) → v0.2. Ran the argument-clinic skill on v0.2
+  (`Scrap/argument-clinic-4C.md`): 6 findings, lead finding the PROPHETIC-COINAGE COUNTEREXAMPLE to
+  the ignored-claim point, repaired by distinguishing answerability from actual uptake (also
+  hardens the equity reply); plus uptake/uptake-capacity terminology split (equivocation repair);
+  congestion objection to P4 built and answered (new 4.7b: nesting + capacity-creation + priced-
+  margin concession); conclusion made explicitly pro tanto; 2 drafting-discipline notes. All fixes
+  applied → v0.3 (47 paragraphs). Raised Dotson (#12) to MED-HIGH in REQUESTS (equity steelman
+  material). Round 2 (engagement), blind referee memo, 4C gate, and CHECKPOINT 3 are BLOCKED on
+  source uploads.
+- **Selections:** none. All objections, repairs, and distinctions AI-originated.
+- **Tools/retrieval:** none this segment.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~45 min wall clock.
