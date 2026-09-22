@@ -337,3 +337,26 @@ methodology report.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~80 min wall clock; 6 rewriter agents ~680k tokens
   total (sonnet); cold-reader pending.
+
+## [2026-09-22] Session 3 (cont.) — Stage 7c: four cold-read rounds; Stage 7 CONVERGED at Draft v1.9
+- **Models/agents:** Claude (drafting agent); 4× cold-reader subagents (sonnet tier, one per round,
+  each a fresh instance that had seen no earlier version).
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Ran the new Stage 7c loop to convergence. Scores: v1.5 → 13; v1.6 → 13 (different
+  items); v1.7 → 11; v1.8 → 11 (mostly texture). One-read test (reader reconstructs thesis and
+  argument from memory, then checks) PASSED with no mismatch in all four rounds. Each round's
+  items were fixed or dispositioned with reasons in the version changelogs (v1.6–v1.9); items
+  recurring across independent reads were treated as confirmed defects and given structural fixes
+  (the §3 Kitsik run split and cross-referenced; the §5 zetetic test split into two paragraphs;
+  the "cheapness is the point" snap cut after two independent stumbles; the §4 nesting step
+  rewritten to derive its conclusion). Two substantive-accuracy catches from the readers were
+  taken: the Dotson catchall quote was re-hinged so it supports the claim it sits under, and the
+  Investment View display is now explicitly announced as the essay's own third view. Convergence
+  declared in the v1.9 changelog: the score plateaued at the mild end with non-recurring texture
+  items, structural categories at zero for three straight rounds; the scale's 0–5 "clean" band is
+  judged asymptotic for a dense 6,000-word argumentative essay. Superseded drafts v1.4–v1.8 moved
+  to Old versions/; deterministic self-checks: each version's diff matches its changelog. Essay
+  standing at 6,081 essay-only words with marked Stage-10 reserve cuts to fund the abstract.
+- **Selections:** none by custodian. Cold readers REPORTED; drafting agent disposed.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~50 min wall clock; 4 cold readers ~204k tokens total.
