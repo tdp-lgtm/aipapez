@@ -436,7 +436,7 @@ The same abridged course copy as file 12, without journal pagination. REQUESTS #
 ## Correction to the entry for file 25 (Alexander), made after a re-read of L151–161
 
 Point 2(a) of the Alexander entry overstates the divergence on omissions.
-- **The structure is the same.** Alexander holds that a duty to rescue "is not canceled by the setback to C" when the setback comes only from the victim's not being used (L153). That is the SV's structure: a supplied good cannot defeat a duty to aid.
-- **The difference is over which duties to aid exist.** Alexander denies a general duty of easy rescue: "one has no duty to use his body to shield others even at little or no cost," unless threshold deontology applies (L159). He allows only special duties (one's child; a peril one caused).
+- **The structure is the same.** Alexander holds that a duty to rescue "is not canceled by the setback to C" when the setback comes only from the victim’s not being used (L151). That is the SV's structure: a supplied good cannot defeat a duty to aid.
+- **The difference is over which duties to aid exist.** Alexander denies a general duty of easy rescue: "one has no duty to use his body to shield others even at little or no cost," unless threshold deontology applies (L161). He allows only special duties (one's child; a peril one caused).
 
 So on omissions the SV's structure is anticipated by Alexander. What is distinctive is only the background of rescue duties it assumes, plus the explicit criterion. The rethink memo uses this corrected reading.

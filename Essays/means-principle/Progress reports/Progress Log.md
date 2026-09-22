@@ -30,3 +30,18 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
   the gap is open, but the claim of novelty is narrower than first thought, since Quinn, Tadros,
   Cullity and Walen each anticipated a piece. The final verdict waits on the uploaded papers.
 - Needed from custodian: the must-have uploads; OpenReview registration.
+
+## [2026-09-22] Stage 3 — the new readings, and a rethink
+- Read all 16 papers you uploaded. Notes: `WIP Docs/Literature Map/Reading Notes — Batch 2.md`.
+- What changed:
+  - **The core idea holds, with better evidence than before.** The test for when someone is
+    "spent" sorts correctly the tricky cases that critics used to sink the main rival theories.
+  - **The reason behind the idea is less new than it looked.** Four authors (Tadros, Mack,
+    Alexander, Walen) already argue that the principle protects people from being made to serve
+    others. The essay must credit them and claim something narrower: the test they were missing.
+  - **The famous Loop trolley case no longer helps.** The modern debate and the survey data concern
+    a slightly different version of the case from the one I relied on, and there the view gives the
+    unpopular answer. The essay will accept that answer and argue for it.
+- Three possible directions are in `WIP Docs/Plan/Rethink Memo v0.1.md`. I recommend A: keep the
+  whole view, with the new test at its centre.
+- Needed from custodian: a choice of direction; OpenReview registration (still pending).

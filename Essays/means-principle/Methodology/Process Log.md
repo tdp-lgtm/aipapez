@@ -394,3 +394,28 @@ methodology report.
 - **Compliance flags:** none. No custodian input in this segment.
 - **Approx. cost/time:** Human: 0. Machine: ~2 h (~500k tokens of reading).
 - **Next:** a rethink memo, then options to the custodian.
+
+## [2026-09-22] Session 1 (cont.) — Rethink memo; options presented to the custodian
+- **Models/agents:** Claude (Claude Code remote session). No subagents, no web searches.
+- **AI actions:**
+  - Wrote `WIP Docs/Plan/Rethink Memo v0.1.md`:
+    - what the 16 new works changed: anticipations, withdrawn support, new evidence, challenges;
+    - originality recalibrated (the rationale family credited; the criterion, its contrastive
+      grounding, and the doing-versus-serving distinction claimed);
+    - four rejected directions, with reasons;
+    - three options with AI estimates against the six judging criteria;
+    - a recommendation (A) and next steps.
+  - Checked the memo's line references against the files. Corrected two Alexander references in
+    the batch-2 notes (L151 and L161, not L153 and L159).
+  - Updated the Checklist (rethink row; new open row for the direction choice and Plan re-gate) and
+    the Progress Log.
+- **Candidates:** 7 directions considered. 4 rejected in the memo: a Loop paper, an omissions
+  paper, a two-principles paper, an intentions paper. 3 offered to the custodian:
+  - **A:** the criterion the rationale needs; recommended.
+  - **B:** the criterion alone.
+  - **C:** the rationale made precise.
+
+  All AI-generated.
+- **Compliance flags:** none. The custodian will be asked only to select among AI-generated
+  options. Their reply is to be logged verbatim in the next entry.
+- **Approx. cost/time:** Human: 0 so far. Machine: ~40 min.
