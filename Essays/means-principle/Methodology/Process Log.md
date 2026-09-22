@@ -313,3 +313,16 @@ methodology report.
   title and changelog lines.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~10 min (auditor ~62k tokens).
+
+## [2026-09-22] Session 1 (cont.) — CHECKPOINT 2 presented (paused)
+- **Models/agents:** Claude (Claude Code remote session).
+- **AI actions:** presented a plain-English summary of Plan v0.2 in chat and offered two menus. The
+  first asked how the plan looked (approve / unclear / too ambitious / needs more support). The
+  second offered a choice of opening (two clinical trials, recommended; or the literature's classic
+  pair).
+- **Human messages (verbatim):** the custodian dismissed both menus. The interface recorded:
+  "[User dismissed — do not proceed, wait for next instruction]".
+- **Selections:** none. Work paused at Checkpoint 2, awaiting the custodian's instruction. No further
+  essay work done.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: <1 min. Machine: ~2 min.
