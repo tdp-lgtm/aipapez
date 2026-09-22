@@ -35,3 +35,33 @@ methodology report.
   other substantive philosophical contribution.
 - **Approx. cost/time:** Human: ~2 minutes (topic message + 4 menu clicks). Machine: one session
   segment, small (~15 min wall clock).
+
+## [2026-09-22] Session 1 (cont.) — Stage 1 Idea Generation & Selection
+- **Models/agents:** Claude (Claude Code remote session). Subagents: paper-auditor ×1 (small model
+  tier) for the Setup gate — verdict APPROVE, pasted into Checklist.
+- **Human messages (verbatim):**
+  > (CHECKPOINT 1 selection, via interactive menu) "A — Backed Coinage (Recommended)"
+- **AI actions:** Generated 12 thesis candidates, each forced through the one-sentence P/Q/R test
+  with contribution type and originality hypothesis (`WIP Docs/Candidates/Thesis Candidates
+  v0.1.md`). Ran originality/significance pre-screen; recorded per-candidate verdict table
+  (4 advance — C1 refined, C12, C5+C8 merged, C2; 3 merged into others; 5 killed with reasons).
+  Wrote 4 half-page Argument Sketches with premises, crux, main objection, venue-fit, and ranking
+  rationale (`Argument Sketches v0.1.md`). Presented ranked summaries to custodian at CHECKPOINT 1.
+  Saved selected sketch to `Brief/Argument Sketch.md`.
+- **Selections:** Custodian selected Sketch A ("Backed Coinage") from 4 AI-generated, AI-ranked
+  options; A was also the AI's top-ranked recommendation. Selection was a pick from a menu — no
+  philosophical content added by the human.
+- **Tools/retrieval:** WebSearch ×9. Queries: (1) proliferation of injustice concepts critique;
+  (2) concept creep Haslam normative dilution; (3) "zetetic injustice"; (4) moral/normative/injustice
+  inflation devaluation; (5) conceptual engineering adequacy conditions Cappelen Plunkett; (6) rights
+  inflation Griffin Alston; (7) Kitsik 2025 title search (abstract obtained via search after Springer
+  egress block); (8) what makes epistemic injustice unjust (Byskov, Coady); (9) Fricker hermeneutical
+  resources public-good uptake; plus (10) verbal disputes Chalmers application; (11) cultural
+  evolution / selection of concepts. Key sources identified for Stage 2: Kitsik 2025 (PhilArchive
+  copy exists), Nikolaidis 2020, Haslam 2016/2020, Alston 1984, Griffin 2008, Byskov 2021, Coady
+  2010/2017, Fricker 2007, Jenkins 2020, PQ 2025 "Zetetic rights and wrong(ing)s", Young (structural
+  injustice / social connection model).
+- **Compliance flags:** none. The custodian's only input was a menu selection among AI-generated
+  sketches (permitted selection).
+- **Approx. cost/time:** Human: <1 minute (one menu click). Machine: ~30 min wall clock; 11 web
+  searches + 1 subagent.

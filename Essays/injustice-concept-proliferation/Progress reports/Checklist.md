@@ -4,13 +4,13 @@
 - [x] Intake recorded in Brief/ and Process Log (topic/tradition; slots; autonomy; readings; runway) — `Brief/Intake.md` + Process Log Session 1: topic = evaluation of injustice-concept proliferation (custodian's choice); slot 1/3; default checkpoints; own lit search; quality-first runway
 - [x] Folder tree scaffolded; Checklist + Progress Log + Process Log created — new_essay.py run 2026-09-22; standard tree verified
 - [x] Competition Brief + Rules — Human Involvement re-read this run — read in full 2026-09-22 before intake
-- [ ] Auditor gate — Setup: <verdict line>
+- [x] Auditor gate — Setup: "VERDICT: APPROVE — Setup's claimed work is genuinely done (files confirm it). All Stage 0 requirements met. […] Agent may proceed to Stage 1 (Idea Generation & Selection)." (paper-auditor, 2026-09-22)
 
 ## Stage 1 — Idea generation & selection
-- [ ] ≥10 candidate contributions generated (WIP Docs/Candidates/)
-- [ ] Originality/significance pre-screen run (searches logged)
-- [ ] Top 3–5 written up as Argument Sketches, ranked
-- [ ] CHECKPOINT 1 — sketch selected (by custodian / autonomously); saved to Brief/
+- [x] ≥10 candidate contributions generated (WIP Docs/Candidates/) — 12 candidates, each with P/Q/R one-sentence test, contribution type, originality hypothesis (`Thesis Candidates v0.1.md`)
+- [x] Originality/significance pre-screen run (searches logged) — 9 web searches (queries in Process Log); key finds: Kitsik 2025, Nikolaidis 2020, rights-inflation lit, Byskov 2021; per-candidate verdict table in `Thesis Candidates v0.1.md` (4 advanced, 3 merged, 5 killed)
+- [x] Top 3–5 written up as Argument Sketches, ranked — 4 sketches with premises, crux, main objection, ranking rationale (`Argument Sketches v0.1.md`)
+- [x] CHECKPOINT 1 — sketch selected by custodian ("A — Backed Coinage (Recommended)", 2026-09-22); saved to `Brief/Argument Sketch.md`
 - [ ] Auditor gate — Idea Selection: <verdict line>
 
 ## Stage 2 — Literature review
