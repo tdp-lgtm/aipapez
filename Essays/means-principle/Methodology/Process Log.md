@@ -840,3 +840,68 @@ methodology report.
   - the clean referee input has no process notes.
 - **Next:** Checkpoint 3 with the custodian (structure sign-off; generic feedback only).
 - **Approx. cost/time:** Machine: ~3 min.
+
+## [2026-09-22] Session 1 (cont.) — CHECKPOINT 3 presented: "Needs more support"
+- **Models/agents:** Claude (Claude Code remote session).
+- **AI actions:** summarized Outline 4C v0.5 in plain English in chat: the redesigned opening pair,
+  the clinic's hole, the referee's main points. Then asked one menu question: "Can I lock the
+  outline's structure and start writing the draft?"
+  - "Approve (Recommended)";
+  - "Parts are unclear";
+  - "Too much for 6,000 words";
+  - "Needs more support", described as "I'll strengthen the argument where it's thinnest before
+    drafting".
+- **Human message (verbatim):** selected "Needs more support". No free text.
+- **Compliance assessment:** permitted, no flags. This is generic feedback of the kind the rules
+  list ("premise N needs more support"), without naming a premise. The AI alone decides where the
+  argument is thinnest and how to strengthen it. The custodian was not asked which part, to avoid
+  inviting substantive input.
+- **AI diagnosis (AI-originated):** the thinnest load-bearing points are:
+  1. P3's claim that the permission not to give must be more than a permission to refuse,
+     supported only by quotations;
+  2. the case that only spending overrides what the permission protects (P4's "exactly");
+  3. why letting someone suffer the cost of supply is spending;
+  4. the *Loop* chain argument, stated only in summary.
+- **Next:** Outline 4C v0.6 strengthening these four points, a deterministic self-check, then
+  Checkpoint 3 re-presented.
+
+## [2026-09-22] Session 1 (cont.) — Outline 4C v0.6 (response to "Needs more support")
+- **Models/agents:** Claude (Claude Code remote session). No subagents.
+- **AI actions (all AI-originated):** wrote `WIP Docs/Outline/Outline 4C v0.6.md` to strengthen the
+  four points diagnosed in the previous entry. v0.5 (4C gate APPROVE) moved to `Old versions/`.
+  1. ¶3.2 (P3): a self-written case, *the kidney rule* (a hospital may take a kidney from anyone
+     whose kidney would save a life, while leaving everyone free to refuse to donate). It shows that
+     a permission others could override by taking would be hollow. The two-step reason is spelled
+     out (Walen 2016, file 14 L301; Quong, file 09 L135). A footnote comparison with Harris's
+     "survival lottery" is tagged (verify) and added to `Background Readings/REQUESTS.md` as #22.
+  2. ¶3.5 (P4's "exactly"): why a side-effect harm leaves the permission's object untouched. Its
+     loss is not the cost of anything of hers serving: either nothing of hers serves, or the loss
+     would fall on her all the same were what serves supplied from elsewhere (the smoke in *Smoke*).
+  3. ¶4.2 (omissions): the sliding man is the kidney rule by omission.
+  4. ¶5.3 (*Loop*): Otsuka's argument set out case by case, with two routes from *Loop* to his
+     Bridge Case (file 27 L13, L107, L119, L125, L145–151, L159, L163 n. 25). The reply to Choo is
+     sharpened: the chain sets the *Loop* verdict against a verdict on a case, not a principle, so
+     his point that people trust the *Loop* verdict over the principles (file 28 L193–195) does not
+     reach it.
+  5. Budget: §3 1,300 (+100), §5 1,000 (−100); projected total ~5,710 of 6,000.
+- **Deterministic self-check (stands in for the auditor on an incremental revision):**
+  - The diff v0.5 → v0.6 has 12 hunks. Each maps to a changelog item: the header, the changelog,
+    the §3 and §5 headings, ¶3.2, ¶3.5, ¶4.2, ¶5.3, and three budget rows. No other change.
+  - Bullet numbers are unchanged, so Coverage Map v0.2 still maps every argument and objection.
+  - Re-reading the new text against the outline's own test and the sources caught three errors in
+    the first text of v0.6, fixed before commit:
+    1. ¶3.5 explained side-effect harms by the victim's absence. §2 rejects absence tests, and the
+       explanation misdescribed *Smoke*. Restated in the replacement test's terms.
+    2. ¶5.3 called Otsuka's endpoint "the footbridge" and presented his cases as one four-link
+       chain. In the source, the endpoint is his Bridge Case (a lever-operated pole topples the
+       man, L13), reached by two routes. The claim that no principle separates the cases was stated
+       as the essay's own; it is now Otsuka's stated doubt (L159, L163 n. 25).
+    3. ¶4.2 said the sliding man's body "is taken", which misdescribes an omission. Now: it "serves
+       the five at his cost all the same".
+  - The self-check did not surprise in the gate sense (the diff matches the changelog), so no
+    auditor escalation.
+- **Searches:** none new. All line references are to files already on disk (09, 12, 14, 27, 28).
+- **Human messages:** none since the Checkpoint 3 answer.
+- **Compliance flags:** none.
+- **Next:** Checkpoint 3 re-presented to the custodian.
+- **Approx. cost/time:** Machine: ~25 min.
