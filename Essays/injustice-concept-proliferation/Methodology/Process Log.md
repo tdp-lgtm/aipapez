@@ -308,3 +308,32 @@ methodology report.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: ~2 min. Machine: ~45 min wall clock (interrupted once by a usage
   limit reset).
+
+## [2026-09-22] Session 3 (cont.) — Draft v1.4 (apparatus reconciliation) and v1.5 (clarity chain 7a+7b)
+- **Models/agents:** Claude (drafting agent); 6× prose-rewriter subagents (sonnet tier, fresh
+  contexts, one per section with §6–7 combined; given only section text + thesis sentence +
+  register-sample paths per the new Stage 7a spec — never the outline or plan); cold-reader
+  (sonnet) spawned on v1.5 (7c, result pending at this entry).
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** (1) Draft v1.4: apparatus-budget reconciliation under the revised Style Guide —
+  named views 4→2, cases 4→3, displays restructured to exactly 2 (Backing Condition → prose,
+  central argument → premise display), own-voice monetary vocabulary flattened ("backing" kept as
+  the single declared metaphor, defined as answerability), slogans removed, title changed to
+  "Backed Coinage: The Boom in Injustice Concepts and What It Draws On"; Maitra 2018 integrated
+  (§2 assimilation-distortion; §4 function-of-normative-language quote), Gardiner 2022 cited
+  directly, Cappelen (verify) discharged to the on-disk 2020 chapter; prose_lint FLAGs
+  dispositioned in changelog. (2) Stage 7a: six rewriter memos reconciled into Draft v1.5;
+  notable accept/override calls logged in the v1.5 changelog, including restoring Alston's
+  *appellation contrôlée* as his own attributed proposal after verifying it on disk (the rewriter
+  had flattened it as an unsourced flourish) and verifying the Hampton and Epistemic Contribution
+  attributions against Jenkins 2020 / Friedman 2025 before accepting rewrites that touched them.
+  (3) Stage 7b: unpacking overshot to 6,342 essay-only words; two compression rounds (53 + 20
+  scripted substitutions, each verbatim-matched with miss-reporting) brought it to 6,005; lint
+  clean except two dispositioned FLAGs. (4) Checklist rows 7a/7b filled. Calibration duty
+  honored: model-paragraphs.md read in full at session start; rewriters each read it fresh plus
+  5–10 pages of Srinivasan/Jenkins (the logged register samples).
+- **Selections:** none by custodian. Rewriters PROPOSED; drafting agent disposed (all
+  dispositions AI-originated).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~80 min wall clock; 6 rewriter agents ~680k tokens
+  total (sonnet); cold-reader pending.
