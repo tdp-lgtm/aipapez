@@ -195,3 +195,31 @@ methodology report.
   the sources are published literature for the AI to analyse (expressly permitted).
 - **Approx. cost/time:** Human: ~5 min (download/upload). Machine: ~90 min wall clock; ~300k tokens
   of source reading.
+
+## [2026-09-22] Session 2 (cont.) — Blind referee memo on outline; fixes → v0.5
+- **Models/agents:** Claude (drafting agent). Subagents: referee ×1 (sonnet tier), BLIND per
+  template — given only lens (social/political philosophy; epistemic injustice, rights/claims,
+  conceptual engineering as home terrain), venue description, and the outline path; no summary, no
+  leading questions.
+- **Human messages (verbatim):**
+  > Remember you can also use the Browser Tool with the Composio connector, in the future, btw.
+  (Workflow tip — permitted tooling guidance, no philosophical content. Will trial Composio remote
+  tools for future source retrieval given the egress block.)
+- **AI actions:** Referee returned a memo: thesis "stated crisply" and architecture praised;
+  3 HIGH findings (economizing mechanism unargued + tension with the Docket; no real coinage ever
+  fails the condition; "second wrong" asserted with no determinate victim), 1 MED-HIGH (Cappelen
+  implementation problem unengaged — named the strongest missing objection), 2 MED, 4 LOW; overall
+  "at or just below" good-specialist-journal bar as outlined, with 3 named changes to raise it.
+  Drafting agent dispositioned all 9 findings (`Referee Reports/Outline memo — disposition.md`) and
+  ACCEPTED the substance of all three HIGHs: economizing claim rebuilt as two-tier
+  (comparative load-bearing claim + evidenced strengthener; new slogan); real failure/graded cases
+  added from on-disk sources (Alston's documented frivolous proclamations; Srinivasan's affective
+  injustice at introduction with author-tuned clauses — new trial 5.4b); unbacked minting's victims
+  made determinate (existing claimants + would-be claimants) with an explicit waste-reading
+  fallback; implementation problem engaged at new 4.7c (Cappelen added to REQUESTS #27);
+  Alston-redirection fix in 3.3; §6 rebalanced toward the equity objection; drafting notes on
+  terminology load. Outline → v0.5, 49 paragraphs, budgets re-verified to 5,950.
+- **Selections:** none by custodian. Referee PROPOSED; drafting agent disposed (all dispositions
+  and repairs AI-originated).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: <1 min. Machine: ~35 min wall clock; referee ~72k tokens.

@@ -46,6 +46,7 @@ page markers) into this folder.
 | 24 | Cabezas, C. (2024). "Is conceptual inflation a problem for a theory of institutional racism?" *Ethics* 134(2): 179–213. | Recent Ethics treatment of inflation for one concept; footnote + originality hygiene | Paywalled | LOW-MED | REQUESTED 2026-09-22 |
 | 25 | Tasioulas, J. (2021). "The Inflation of Concepts." *Aeon*. | Public-facing statement of the critique; footnote | FREE: https://aeon.co/essays/conceptual-overreach-threatens-the-quality-of-public-reason | LOW | REQUESTED 2026-09-22 |
 | 26 | Gardiner, G. (2022). "Attunement: On the Cognitive Virtues of Attention." In *Social Virtue Epistemology* (Routledge), 48–72. | Collective attentional resources (funding, space, time) — currently cited via Kitsik's quotation; original would allow direct cite | Paywalled | LOW | REQUESTED 2026-09-22 |
+| 27 | Cappelen, H. (2018). *Fixing Language: An Essay on Conceptual Engineering*. OUP. (esp. the implementation-problem chapters) | Blind referee identified the implementation problem as the strongest missing objection; now engaged at outline 4.7c and must be represented from the text | Book; paywalled | MED-HIGH | REQUESTED 2026-09-22 |
 
 ## Delivery note (2026-09-22)
 

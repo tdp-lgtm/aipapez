@@ -32,7 +32,7 @@
 - [x] 4C round 1 — completeness: Coverage Map built, gaps closed — `Coverage Map v0.1.md`: 3 defects found (missing equity objection — added as 6.3–6.4; one overreach softened; Feinberg extension under-defended — repaired) → v0.2
 - [x] 4C round 2 — engagement: every key interlocutor in bullets — custodian delivered 17 full texts (2026-09-22); all read or surveyed (notes: `Literature Map/Reading Notes — Round 2.md`); outline → v0.4 with all load-bearing (verify) tags discharged to on-disk sources; 5 new sources requested (incl. Maitra 2018 as pre-final originality check)
 - [x] Argument-clinic pass: memo in Scrap/; accepted fixes in outline — `Scrap/argument-clinic-4C.md`: 6 findings (lead: prophetic-coinage counterexample → answerability repair; uptake equivocation split; congestion objection added as 4.7b; pro tanto bridge; 2 discipline notes) all applied → v0.3
-- [ ] Blind referee memo on outline; accepted items folded in
+- [x] Blind referee memo on outline; accepted items folded in — 1 blind referee (social/political philosophy lens, sonnet tier); 3 HIGH + 3 MED + 4 LOW findings; ALL dispositioned (`Referee Reports/Outline memo — disposition.md`); fixes applied → outline v0.5 (two-tier economizing claim; real fail/graded cases added — Alston's documented mints, affective injustice at introduction; implementation-problem objection engaged at 4.7c; determinate victims + fallback in 3.9; §6 rebalanced)
 - [ ] Auditor gate — 4C FINAL: <verdict line>
 - [ ] CHECKPOINT 3 — structure signed off; outline locked
 
