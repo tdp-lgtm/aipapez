@@ -776,3 +776,48 @@ methodology report.
   planned in v0.5 alongside the referee items.
 - **Compliance flags:** none. The clinic is AI self-sparring, which the rules explicitly permit.
 - **Approx. cost/time:** Machine: ~45 min.
+
+## [2026-09-22] Session 1 (cont.) — Stage 4C blind outline referee; outline v0.5
+- **Models/agents:**
+  - Claude (main).
+  - One blind referee subagent (**sonnet tier**). It was given only the lens (harming and
+    deontological constraints), the venue text, and a clean copy of Outline 4C v0.4 with the
+    process notes stripped (`Scrap/outline-for-referee-4C.md`, committed). No claim summary, no
+    leading questions. It ran ~14 min, ~232k tokens.
+- **Referee's findings (full report in the session record; condensed in
+  `WIP Docs/Referee Reports/Outline referee memo 4C.md` with dispositions):**
+  - M1 [HIGH]: the *Loop* section does not engage Choo's robustness argument, and use and spending
+    coincide in *Loop*.
+  - M2: P2 is defended only by case-sorting.
+  - M3: the *Smoke* verdict is contested by Quong.
+  - M4: Quinn is never engaged directly.
+  - M5: a tension with Christensen's *Streets*.
+  - Minor: density, case load, budget arithmetic, "shown first" wording, the partial-justification
+    note.
+  - Strengths recorded: citation accuracy (~15 checks, all accurate); *Smoke*/*Wedge* "a genuine,
+    original piece of case design"; near the bar of a good subfield journal. Finalist odds 20–30%
+    as outlined, 45–55% after revisions.
+- **AI dispositions** (all major items accepted; one factual claim of the referee's rejected):
+  - M1: §5 is rebuilt. The "use, not spending" reply is dropped, Choo's findings are granted, and
+    the theory-over-intuition trade is defended via Otsuka's chain of cases.
+  - M1a: the AI's own claim "Choo does not engage this" is corrected. Choo answers Otsuka's
+    general claim (L185–195); a grep of file 28 finds no discussion of the bridge-toppling loop or
+    the ramp.
+  - M2: a conceptual defence of P2, using Quinn L297 and Quong L135.
+  - M3: *Smoke* is now diversion plus a harmless use, and the burden against Quong is stated.
+  - M4: Quinn is quoted directly (file 12 L238–254, L297). The idea is credited to Quinn, and the
+    test is presented as an improvement on his shelter test and its absence-form descendants,
+    shown with Ramakrishnan's pill case (file 01 L125–129).
+  - M5: Christensen's passer-by is spending by omission, so the view agrees with him. The spiteful
+    donor spends no one.
+  - Minor: all accepted. The referee's claim that the unprimed figures differ from the Loop-first
+    figures is rejected (file 28 L153 reports no-prior-case studies; Group B was Standard-first),
+    but the wording is changed to "unprimed".
+- **Outline v0.5:** v0.4 moved to `Old versions/`. It adds a budget check projecting ~5,610 words
+  of prose including notes and abstract: under the cap, with section trims planned at draft.
+- **Originality note (AI):** engaging Quinn directly shows that the criterion's core idea
+  ("usefully involved ... only at the cost of") is Quinn's. The essay's claim is recalibrated
+  again: the idea is Quinn's; the new part is the test that makes it precise (replacement plus
+  comparison with the alternatives) and its consequences.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~1 h (referee ~232k tokens).
