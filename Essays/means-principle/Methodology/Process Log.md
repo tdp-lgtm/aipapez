@@ -553,3 +553,18 @@ methodology report.
 - **Approx. cost/time:** Human: 0. Machine: ~6 min (auditor round 2 ~238k tokens, mostly cached
   context).
 - **Next:** a narrow round-3 check of the corrected record, on the haiku tier.
+
+## [2026-09-22] Session 1 (cont.) — Plan gate (v0.3), round 3: APPROVE
+- **Models/agents:** Claude; a fresh paper-auditor subagent, spawned on the **haiku tier**
+  (procedural check).
+- **Gate result (verdict line, verbatim):** "VERDICT: APPROVE — Plan v0.3's recorded corrections
+  are accurate; the Process Log's model-tier record is now correct; the round-2 re-check entry
+  correctly documents the default-tier finding; commit 643a953's changes match all claimed fixes
+  and no other changes are present; section budgets remain 5,450; the Checklist gate row remains
+  unticked. The agent may proceed to fill this row and continue to Stage 4 (Layered Outline)."
+- **AI actions:** filled the Checklist gate row with the verdict and each round's tier; committed at
+  the gate.
+- **Note:** the verdict's "continue to Stage 4" is subject to Checkpoint 2 (default checkpoints).
+  The plan goes to the custodian next.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~2 min (auditor ~55k tokens).
