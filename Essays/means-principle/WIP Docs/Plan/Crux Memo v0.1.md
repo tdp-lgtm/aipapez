@@ -160,7 +160,7 @@ So intentions matter exactly where the justification is a prerogative, and nowhe
 - **O4 Loop / Choo.** Reply: §4.
 - **O5 Harmless use** (reading a diary; using a sleeper as a pillow). These are outside the MP; they are wrongs of trespass or autonomy. Quong and Ramakrishnan also restrict the MP to harm.
 - **O6 Catastrophe.** Duties scale with stakes, so the principle yields where duty yields. Whether a person can owe her life to save a million is a question the principle inherits, not one it must settle.
-- **O7 Property.** Quong's unity demand is met (file 09 L111). Parry's externality objection (file 06 L247–259) is answered: acquiring property changes others' protections only where the owner's loss is the cost of the holding's service, and duties grow with holdings.
+- **O7 Property.** Quong's unity demand is met (file 09 L111). Parry's externality objection (file 06 L231–259) is answered: acquiring property changes others' protections only where the owner's loss is the cost of the holding's service, and duties grow with holdings.
 - **O8 Liao & Barry.** Their "person in the path" cases, malicious-reason cases, and the charge that victim-centred views presuppose the MP (verify #2). Read first.
 - **O9 Eliminative harms** (Cave Exits; removing obstacles). These are not spending, so the principle is silent and ordinary weighing governs. This is in good company (Ramakrishnan, Quong). Letting someone die so that her body can be moved is a hard case; keep it out of the essay unless a referee raises it.
 - **O10 Consent readings** (Kahn 2024, file 08). Consent is an exception, not the criterion.

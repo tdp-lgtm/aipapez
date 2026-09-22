@@ -263,3 +263,31 @@ methodology report.
   19-row table.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~3 min.
+
+## [2026-09-22] Session 1 (cont.) — Stage 3: Plan v0.1 and the six lenses
+- **Models/agents:** Claude (Claude Code remote session). No subagents this segment.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:**
+  - Read the planning guidance: DIGEST (full); Style Guide (apparatus budget, structure, dialectical
+    engagement); `Craft/journal-craft.md` (full); `Craft/intro-playbook.md` (full);
+    `Craft/moves-catalog.md` Part 1; `prose_lint.py` budget checks.
+  - Wrote `WIP Docs/Plan/Plan v0.1.md` (AI-originated):
+    - thesis in P/Q/R, compressed, and full (Display 1);
+    - the move (supplying vs bearing);
+    - why this version is the sharpest, mapped to the functions the corpus assigns the principle (F1–F6);
+    - the central argument P1–P4 → C (Display 2) with defense locations;
+    - a 7-section plan with budgets summing to 5,650 words;
+    - dialectical structure (Loop is the dedicated objection section);
+    - apparatus budget (1 named view; 1 coined term; 3 named cases; 2 displays);
+    - four Moves Catalog architectures;
+    - source dependencies and fallbacks.
+  - Ran all six lenses; findings and fixes are recorded in Plan §10. Display 1 and P2 were rewritten,
+    and P3 now carries the duty bound. Footnote slots were reserved for Walen's toolkit baseline and
+    for Liao & Barry. Parry line references were corrected (L231–259) in the Plan, the Literature Map
+    and the Crux Memo.
+  - Verified the Plan's line references against the files on disk (Parry L67–105, L121, L171–195,
+    L231–259; Christensen L211; Quong L125–127, L299–305).
+- **Tools/retrieval:** (72) WebFetch wma.net for the Declaration of Helsinki [EGRESS_BLOCKED; stays on
+  REQUESTS #18].
+- **Compliance flags:** none (no custodian input this segment).
+- **Approx. cost/time:** Human: 0. Machine: ~1 hour.
