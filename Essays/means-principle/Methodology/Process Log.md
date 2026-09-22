@@ -744,3 +744,35 @@ methodology report.
   in.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Machine: ~20 min.
+
+## [2026-09-22] Session 1 (cont.) — Stage 4C argument-clinic pass; outline v0.4
+- **Models/agents:** Claude, running the `argument-clinic` skill (all five modes) in the main
+  session.
+- **AI actions:**
+  - Re-read Outline 4C v0.3 from the file.
+  - Wrote the memo `Scrap/argument-clinic-4C.md`. It contains the reconstruction, three suppressed
+    premises (S1–S3), the validity check, premise-by-premise tests, an equivocation table, the
+    steelman and reply, 8 generated minimal-pair cases, and a dispositions table.
+  - Accepted fixes landed in `Outline 4C v0.4.md` (v0.3 moved to `Old versions/`).
+- **Most serious finding (clear gap):** P2 was false of harmless use, the pillow case, so the
+  displayed argument was unsound. P1 and P2 are now restricted to treatment "at their own
+  expense". This refines Display 2's wording and supersedes Plan v0.4 §4 on that wording only.
+- **Other accepted fixes:**
+  - F2: ¶1.3 is fairer to Quong, who does give a reason.
+  - F3: the ¶5.6 intentions claim is narrowed and made conditional (a spiteful donor is the test
+    case).
+  - F4: the crux reply is now in the text: being *taken from* vs being *harmed*; giving as a
+    structural notion.
+  - F5: "for the sake of" is defined objectively.
+  - F6: C is aligned with Display 1.
+  - F7: the permission's point is given from inherited sources (Walen 2016 L301; Quong L135).
+  - F8: support for the *Smoke* verdict.
+  - F9: resistance to the omissions verdict (Alexander) is acknowledged.
+  - F11: a loop-to-one footnote.
+  - F12: the function-to-content premise is stated.
+  - F10: drafting notes.
+- **Sources checked:** Walen 2016 L301; Quong L135, L175.
+- **Length note:** v0.4 is about 3,540 words including references, above the guide. Compression is
+  planned in v0.5 alongside the referee items.
+- **Compliance flags:** none. The clinic is AI self-sparring, which the rules explicitly permit.
+- **Approx. cost/time:** Machine: ~45 min.
