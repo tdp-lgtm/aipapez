@@ -7,9 +7,9 @@
 - [x] Auditor gate — Setup: "VERDICT: APPROVE — Stage 0's claimed work is genuinely done (files confirm it); the agent may proceed to Stage 1 (Idea generation & selection)." (paper-auditor, haiku tier, 2026-09-22; verified intake, tree, logs, compliance assessment)
 
 ## Stage 1 — Idea generation & selection
-- [ ] ≥10 candidate contributions generated (WIP Docs/Candidates/)
-- [ ] Originality/significance pre-screen run (searches logged)
-- [ ] Top 3–5 written up as Argument Sketches, ranked
+- [x] ≥10 candidate contributions generated (WIP Docs/Candidates/) — 12 candidates (C1–C12), each with P/Q/R test, contribution type, originality hypothesis, case verdicts (`Thesis Candidates v0.1.md`); generated after reading all 11 provided works in full (notes in `Literature Map/Reading Notes — Provided Corpus.md`)
+- [x] Originality/significance pre-screen run (searches logged) — 33 WebSearch queries (listed in Process Log; fetch blocked by egress); verdict table in `Thesis Candidates v0.1.md`: 4 advance, 5 merged, 3 killed; flagship stress-tested (Loop/trapdoor-Bridge counterexample forced a re-specification)
+- [x] Top 3–5 written up as Argument Sketches, ranked — 4 sketches (A Spending View, B Keeping and Taking, C Jurisdiction View, D Levers) with premise-form arguments, main objections, cruxes, ranking table (`Argument Sketches v0.1.md`)
 - [ ] CHECKPOINT 1 — sketch selected (by custodian / autonomously); saved to Brief/
 - [ ] Auditor gate — Idea Selection: <verdict line>
 

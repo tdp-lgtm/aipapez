@@ -58,3 +58,57 @@ methodology report.
 - **Setup gate:** paper-auditor ×1 (haiku tier, background) — "VERDICT: APPROVE — Stage 0's claimed
   work is genuinely done (files confirm it); the agent may proceed to Stage 1 (Idea generation &
   selection)." Pasted into the Checklist.
+
+## [2026-09-22] Session 1 (cont.) — Stage 1 reading of the provided corpus; Idea Generation
+- **Models/agents:** Claude (Claude Code remote session). Subagents: paper-auditor ×1 (haiku tier) for
+  the Setup gate (logged above). No subagents used for reading or idea generation: the main agent read
+  every provided work itself.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:**
+  - Split the custodian's attachment into 11 per-work files in `Background Readings/Converted text/`
+    (line ranges recorded in the file names' source; word counts 7.7k–17k each, ~142k words total).
+  - Read all 11 works in full (Quong 2020 ch. 7; Parry 2023; Tadros 2011 ch. 6; Tadros ch. 6 of the
+    war book; Ramakrishnan 2016; Walen 2014; Cullity 2018 ch. 10; Parfit 2011 ch. 9; Guerrero 2014;
+    Kahn 2024; Christensen 2026). Wrote structured notes per work plus a cross-corpus synthesis
+    (functions of the Means Principle F1–F6; unmet demands D1–D6; recurring unexploited ideas) in
+    `WIP Docs/Literature Map/Reading Notes — Provided Corpus.md`.
+  - Generated 12 thesis candidates (C1–C12), each with the P/Q/R one-sentence test, contribution type,
+    originality hypothesis, and case verdicts (`WIP Docs/Candidates/Thesis Candidates v0.1.md`).
+  - Stress-tested the flagship (C1, the Spending View) against ~40 corpus cases. Negative result logged:
+    a first reading of its replacement test permitted Loop but also permitted a trapdoor version of
+    Bridge (clear counterexample); the test was re-specified (existential reading), and C1 now condemns
+    Loop. Also killed C11 (counterexample: an any-body Bridge) and C12 (general average does not track
+    the means/side-effect line; compensability ≠ permissibility); C8 reduced to an illustration.
+  - Pre-screen verdicts: 4 advance (C1, C3, C2, C6), 5 merged into C1 (C4, C5, C7, C9, C10), 3 killed
+    (C8, C11, C12).
+  - Wrote 4 ranked Argument Sketches with central arguments, main objections, and cruxes
+    (`WIP Docs/Candidates/Argument Sketches v0.1.md`): A Spending View (recommended), B Keeping and
+    Taking, C Jurisdiction View, D Levers.
+- **Selections:** none yet (Checkpoint 1 pending). AI ranking: A > B > C > D.
+- **Tools/retrieval:** WebSearch ×33 (WebFetch blocked: `philpapers.org` → EGRESS_BLOCKED; same
+  environment limit as essay 1). Queries, in order: (1) "The Scope of the Means Principle" JMP symposium
+  [→ Parry 2023, JMP 20(5–6): 439–460]; (2) "Consent and the Mere Means Principle" JVI [→ Kahn 2024,
+  JVI 58(3): 515–533]; (3) Tadros "To Do, To Die, To Reason Why" "The Significance of Intentions"
+  [book confirmed; chapter not confirmed]; (4) "means principle" harmful use new account 2023–2025;
+  (5) means principle + Raz "normal justification thesis" [no hit]; (6) DDE/means principle + unjust
+  enrichment/restitution [no hit]; (7) agent-centred prerogative + right reasons/motive + means
+  principle [no hit]; (8) "forced gift"/"involuntary sacrifice" + means principle [no hit];
+  (9) means principle rationale (PhilPapers/PhilArchive domains); (10) Walen "Restricting Claims
+  Principle Revisited" [→ L&P 35 (2016) 211–247; "toolkit baseline"]; (11) Kaczmarek & Lloyd 2025 AJP
+  [not relevant]; (12) Sinclair & Quong "Still in Need of a Rationale" [unpublished; no hit];
+  (13) Liao & Barry critique [→ L&P 39 (2020) 503–526]; (14) replies to Ramakrishnan; (15) trespass/
+  nuisance and Calabresi–Melamed + means principle [no hit]; (16) prerogatives "for the right reason";
+  (17) abuse of rights + prerogative; (18) Walen toolkit + Liao & Barry on property; (19) Hecht
+  "Activating the Right to Be Rescued" [JMP symposium]; (20) pre-emption/authority + using persons
+  [no hit]; (21) Ripstein usurpation; (22) "not made legal by what it turns up" + moral philosophy
+  [no hit]; (23) hostage/terror/sanctions leverage + means principle [no hit]; (24) Scheffler
+  prerogative + motive; (25) Kamm PPH/DTE + Otsuka + Loop; (26) Kant price/dignity + means principle;
+  (27) Walen 2022 reply [→ L&P 41 (2022) 627–638]; (28) Choo 2025 [→ PPR 111 (2025) 195–215: no
+  defence of the MP/DDE against Loop succeeds]; (29) "harmfully using" 2022–2025; (30) beneficiaries
+  owe restitution for use [no hit]; (31) "substitute"/replacement test + Loop + Kamm substitution
+  [Kamm's substitution/subordination distinction is different]; (32) Øverland "Moral Obstacles"
+  [→ Ethics 124 (2014) 481–506, victim-centred]; (33) Alexander "The Means Principle" [→ 2016; frames
+  the MP as "a jurisdictional limitation" — lowers C2's originality].
+- **Compliance flags:** none (no custodian input this segment).
+- **Approx. cost/time:** Human: 0 minutes this segment. Machine: long segment (~2.5–3 hours wall
+  clock); reading ~190k tokens of source text plus notes, 33 searches.
