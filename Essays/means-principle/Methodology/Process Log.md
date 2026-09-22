@@ -250,3 +250,16 @@ methodology report.
 - **Compliance flags:** none (no custodian input this segment).
 - **Approx. cost/time:** Human: 0. Machine: ~1.5 hours (memo and map drafting; re-reading ~15k words
   of corpus).
+
+## [2026-09-22] Session 1 (cont.) — Auditor gate: Lit Review
+- **Models/agents:** paper-auditor subagent (haiku tier), fresh context. Asked to verify the Stage 2
+  rows against the files on disk, including 5 spot-checks of line references.
+- **Human messages (verbatim):** none this segment.
+- **Result:** "VERDICT: APPROVE — Stage 2 (Literature Review)'s claimed work is genuinely done (files
+  confirm it); the agent may proceed to Stage 3 (Plan)." No discrepancies reported; all 5 spot-checked
+  line references were accurate.
+- **Note:** while the gate ran, the AI added REQUESTS row 20: paginated originals of five
+  already-provided works, for pinpoint quotes; MED priority; not yet pinged. The auditor saw the
+  19-row table.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~3 min.
