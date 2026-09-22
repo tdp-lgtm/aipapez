@@ -176,6 +176,10 @@ Details: Crux Memo v0.2 §1–§3; Rethink Memo v0.1 §2.
 
 **Verdict: OPEN, narrowed.**
 
+Correction (2026-09-22, Stage 4C, after reading Quinn directly at the referee's prompting):
+- The criterion's core idea is Quinn's: those "usefully involved in the promotion of a goal only at the cost of something protected by their independent moral rights ... ought, prima facie, to serve the goal only voluntarily", with an exception for "strong moral obligations" (file 12 L250–254). Quinn tested the idea with the shelters counterfactual (L238–244).
+- Claim (a) below is therefore narrowed to *the test* (replacement plus comparison with the alternatives) that makes Quinn's idea precise, and what follows from it.
+
 **The essay does not claim:**
 - the rationale family, or the link between the prerogative and the MP (Quinn, Tadros, Mack, Alexander, Walen 2022, Cullity);
 - the structure for omissions (Alexander);
