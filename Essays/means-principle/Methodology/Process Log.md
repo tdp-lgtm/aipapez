@@ -648,3 +648,27 @@ methodology report.
   at p. 261 of the chapter, and Quinn 1989 at p. 346. Recorded for the citation audit. (verify
   against the originals.)
 - **Approx. cost/time:** Machine: ~1 min (auditor ~76k tokens).
+
+## [2026-09-22] Session 1 (cont.) — Stage 4B: argument outline
+- **Models/agents:** Claude (Claude Code remote session). No subagents before the gate.
+- **AI actions:** wrote `WIP Docs/Outline/Outline 4B v0.1.md`.
+  - **§0 settles the terms:** contribution; supplying relative to an alternative, judged respect by
+    respect (needed to keep the six-behind case permissible); comparative loss; the replacement
+    test; spending; the bound.
+  - **§0 also settles the several-alternatives rule** (Plan risk iii), with a test case (push the one
+    vs divert onto two vs do nothing). It yields the standard deontological verdict.
+  - **§1–§6:** claim-by-claim steps, 2–4 sub-arguments per section with examples and line-referenced
+    sources, and the objections placed per Plan v0.4. Loop's second reason points back to §3.
+  - **§7:** all six lenses.
+  - **New argumentative content (AI-originated):**
+    - the contrastive grounding applied respect by respect;
+    - the diagnosis of Thomson 2008's Oxfam analogy as a serving case transferred to a doing case;
+    - the reply to Ramakrishnan's arbitrariness worry: his "fine-grained" features are exactly what
+      the test for being made to give requires.
+  - Re-read, for accuracy: Quong L99–139 and L219–251; Ramakrishnan L35, L133–175, L201–209,
+    L263–277; Parry L67–127, L171–195, L231–259; Steinhoff L105–121; Thomson 2008 pp. 364–365.
+  - **Self-check** caught two wrong references in the first write, both corrected and noted in §7 Ac:
+    - Ramakrishnan's "substantially weaker" is at L153, not L15;
+    - Parry's "informs" is at L103, not L101.
+- **Compliance flags:** none. No custodian input.
+- **Approx. cost/time:** Human: 0. Machine: ~40 min.
