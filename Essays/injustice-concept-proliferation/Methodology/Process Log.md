@@ -88,3 +88,20 @@ methodology report.
   blocked (logged for the methodology report — retrieval constraints are methodology-relevant).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~25 min wall clock.
+
+## [2026-09-22] Session 1 (cont.) — Stage 3 Plan
+- **Models/agents:** Claude (Claude Code remote session). Subagents: paper-auditor ×1 (small tier)
+  for the Lit Review gate — APPROVE, pasted into Checklist.
+- **Human messages (verbatim):** none this segment (source-request ping sent to custodian in chat;
+  no reply yet).
+- **AI actions:** Read `Craft/moves-catalog.md`. Verified two further records by search (Feinberg
+  1970 JVI 4:243–260; Shklar 1990 Faces of Injustice) and added them to REQUESTS.md (#20, #21).
+  Wrote `WIP Docs/Plan/Plan v0.1.md`: sharpest thesis (Investment View; Backing Condition), 3-step
+  analytic move (claim-theoretic, internalized-scarcity, economizing), 3 structural moves selected
+  from catalog (paired-cases opening, iteratively revised principle, internal-objections), 7-section
+  plan budgeted to 5,900 words, dialectical structure with concessions ledger, stable vocabulary,
+  evidence discipline, six-lens findings (one clarity fix applied at plan level).
+- **Selections:** none (CHECKPOINT 2 presentation to custodian pending after the Plan auditor gate).
+- **Tools/retrieval:** WebSearch ×1 (Feinberg/Shklar verification).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~20 min wall clock.

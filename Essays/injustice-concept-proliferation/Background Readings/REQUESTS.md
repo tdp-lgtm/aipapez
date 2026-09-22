@@ -19,6 +19,9 @@ page markers) into this folder.
 | 8 | Nikolaidis, A. C. (2020). "Concept Proliferation as an Educational Good." *Educational Theory* 70(4): 463–482. | Best published statement of the abundance/booster view; steelman duty | Paywalled (Wiley); check author page | MED-HIGH | REQUESTED 2026-09-22 |
 | 9 | Young, I. M. (2011). *Responsibility for Justice*. OUP. Ch. 4 ("A Social Connection Model"). | Resource for the structural-injustice objection reply | Book; paywalled | MED-HIGH | REQUESTED 2026-09-22 |
 
+| 20 | Feinberg, J. (1970). "The Nature and Value of Rights." *Journal of Value Inquiry* 4: 243–260. | Anchor for the claim-making premise (claiming as the activity that gives standing; Nowheresville) | Free copy circulates: https://home.csulb.edu/~cwallis/382/readings/160/nature_and_value_of_rightsb.html | HIGH | REQUESTED 2026-09-22 |
+| 21 | Shklar, J. (1990). *The Faces of Injustice*. Yale UP. | She resists rigid misfortune/injustice rules — honest counterweight to any criterion; must engage, not dodge | Book; paywalled | MED-HIGH | REQUESTED 2026-09-22 |
+
 ## Nice-to-have (footnote-level, verification, background)
 
 | # | Source | Why needed | Free link? | Priority | Status |

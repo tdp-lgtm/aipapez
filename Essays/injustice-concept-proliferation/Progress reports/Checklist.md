@@ -17,11 +17,11 @@
 - [x] Active search done; key sources obtained or flagged — 14 searches across Stages 1–2; environment blocks all file downloads (only search works), so ALL full texts flagged to REQUESTS.md (19 rows, 9 must-have, with free links where they exist); custodian pinged 2026-09-22
 - [x] Literature Map with open-niche + originality verdict — `WIP Docs/Literature Map/Literature Map v0.1.md`: exemplars/critics/boosters mapped, 3 nearest neighbors distinguished, verdict OPEN with risk register
 - [x] Lenses E, Ac run — findings recorded at end of Literature Map (engagement plan complete; accuracy capped at abstract level pending uploads)
-- [ ] Auditor gate — Lit Review: <verdict line>
+- [x] Auditor gate — Lit Review: "VERDICT: APPROVE — Stage 2 (Literature Review & Positioning) is genuinely done. All six audit requirements fully met with file evidence. […] The agent may proceed to Stage 3 (Plan)." (paper-auditor, 2026-09-22; spot-checked 3 bibliographic records, evidence capping verified)
 
 ## Stage 3 — Plan
-- [ ] Plan: sharpest thesis; the move; section budgets ≤ 6,000; dialectical structure; argument labels
-- [ ] All six lenses run
+- [x] Plan: sharpest thesis; the move; section budgets ≤ 6,000; dialectical structure; argument labels — `WIP Docs/Plan/Plan v0.1.md`: Investment View thesis, 3-step analytic move, 7 sections budgeted to 5,900, dialectical placement, stable vocabulary, no formal apparatus
+- [x] All six lenses run — findings §10 of Plan v0.1 (incl. one fix applied: uptake defined as recognition+response pair)
 - [ ] Auditor gate — Plan: <verdict line>
 - [ ] CHECKPOINT 2 — custodian response (generic) applied & logged
 
