@@ -922,3 +922,41 @@ methodology report.
 - **Result:** Outline 4C v0.6 is locked as the drafting contract for Draft v1.0.
 - **Next:** Stage 5. Calibration reads, then Draft v1.0 in one full-density pass to the section
   budgets, then Lens Ac and the Draft v1.0 auditor gate.
+
+## [2026-09-22] Session 1 (cont.) — Stage 5: Draft v1.0
+- **Models/agents:** Claude (Claude Code remote session). No subagents.
+- **Calibration reads (before the first sentence):**
+  - `Playbook/Craft/model-paragraphs.md` in full;
+  - the Style Guide (both budgets), `Craft/prose-principles.md`, `Craft/moves-catalog.md` Part 2,
+    and the thesis and roadmap rules in `Craft/intro-playbook.md`;
+  - register samples from Plan v0.4: Ramakrishnan 2016 (file 01, L1–40) and Parry 2023 (file 06,
+    L1–75).
+- **AI actions (all AI-originated):**
+  - Pulled every planned quotation from the source files before drafting.
+  - Wrote `WIP Docs/Drafts/Draft v1.0.md` in one full-density pass from Outline 4C v0.6. It has 44
+    body paragraphs in six sections, 13 notes and a reference list; the abstract is left for
+    Stage 10.
+  - Closed two gaps against the outline within the pass:
+    - ¶5.4 now cites Quinn's treatment of the driver case, as Liao and Barry report it.
+    - Walen's forfeiture view is placed with the malicious diverter (file 22 L121).
+  - Terminology fix: spending includes the bound, so the outline's "spent within the duty" became
+    "does not spend her" (¶4.5, ¶5.7).
+  - Deterministic checks, all recorded in `WIP Docs/Change Logs/Draft v1.0 — Lens Ac and
+    self-check.md`:
+    - a quotation script: 41 quotations, 40 verbatim on disk; Harris is not on disk and is tagged
+      (verify);
+    - Lens Ac: all 38 bullets landed;
+    - prose_lint: 3 FLAGs, each dispositioned;
+    - word count: 6,459 words before the abstract, about 1,000 over the budgets. Stage 6 Pass 1
+      will be a cut pass.
+  - Hygiene search: no mention of AI, the competition or prompts; nothing addressed to an AI reader.
+  - Noted for Stage 6 but not added, to keep the pass faithful to the outline:
+    - Quong's definition of use mentions "some relevantly similar body or property" (file 09 L49).
+      A referee might compare this with the replacement test; a note could separate them.
+    - Alexander's note 8 condemns turning the trolley in loop cases (file 25 L45), so he could join
+      the company on *Loop*.
+- **Searches:** none on the web. All lookups were in files already on disk.
+- **Human messages:** none since the Checkpoint 3 approval.
+- **Compliance flags:** none.
+- **Next:** the Draft v1.0 auditor gate.
+- **Approx. cost/time:** Machine: ~1.5 h.

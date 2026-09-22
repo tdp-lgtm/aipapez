@@ -44,9 +44,9 @@
 - [x] CHECKPOINT 3 — structure signed off; outline locked — first answer "Needs more support" (strengthened in `Outline 4C v0.6.md`: kidney rule, side-effect harms, omissions, the *Loop* cases); re-presented and approved 2026-09-22 ("Approve (Recommended)"). Locked: `WIP Docs/Outline/Outline 4C v0.6.md`
 
 ## Stage 5 — Draft v1.0
-- [ ] Calibration reads done (model-paragraphs in full + register samples) and logged
-- [ ] Single full-density pass to section budgets; structure preserved; bullets UNPACKED into plain
-      sentences (compression does not survive); placeholders + (verify) tags
+- [x] Calibration reads done (model-paragraphs in full + register samples) and logged — model-paragraphs in full; Style Guide, prose-principles, moves-catalog Part 2, intro-playbook; register samples Ramakrishnan 2016 (file 01 L1–40) and Parry 2023 (file 06 L1–75); logged in the Process Log (Stage 5 entry) and `WIP Docs/Change Logs/Draft v1.0 — Lens Ac and self-check.md` §1
+- [x] Single full-density pass to section budgets; structure preserved; bullets UNPACKED into plain
+      sentences (compression does not survive); placeholders + (verify) tags — `WIP Docs/Drafts/Draft v1.0.md`: 38 bullets in six sections, drafted against the budgets but about 1,000 words over (6,459 before the abstract; per-section counts in the self-check file §5). Cut planned as Stage 6 Pass 1. Pinpoints are [p.] placeholders; 41 quotations checked by script, 40 verbatim on disk, 1 (Harris) tagged (verify)
 - [ ] Lens Ac; Auditor gate — Draft v1.0: <verdict line>
 
 ## Stage 6 — Quality passes
