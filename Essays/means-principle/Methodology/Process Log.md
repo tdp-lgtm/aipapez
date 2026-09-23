@@ -1087,3 +1087,26 @@ methodology report.
 - **Compliance flags:** none.
 - **Next:** 7c, a fresh cold-reader subagent on the full v1.4.
 - **Approx. cost/time:** Machine: ~40 min.
+
+## [2026-09-23] Session 1 (cont.) — Stage 7c round 1: cold read of v1.4; fixes in v1.5
+- **Models/agents:** a cold-reader subagent (sonnet tier), fresh instance. It saw only the clean
+  copy of v1.4 (`Scrap/7c-input-v1.4 (clean copy).md`).
+- **Result (report saved as `Scrap/7c-report-round1.md`):**
+  - The one-read test passed: the reader reconstructed the thesis and the central argument
+    correctly, with no mismatch.
+  - Friction score 14, which is in the "another round" band. The verdict was "followable with
+    effort".
+  - The items clustered in the literature-positioning sentences of §2–§3 and in the case-heavy
+    stretch of §4–§5.
+- **AI actions:** fixed all 14 items in `WIP Docs/Drafts/Draft v1.5.md`, with dispositions in
+  `WIP Docs/Change Logs/Draft v1.5 — self-check.md`:
+  - three terms glossed at first use;
+  - the McMahan citation made explicit;
+  - the Steinhoff step shown;
+  - Otsuka's chain restructured by route;
+  - the vase paragraph cut to reduce the case load;
+  - the §1 closing triplet flattened.
+  The displays are unchanged; 5,812 words before the abstract.
+- **Next:** 7c round 2, with a fresh cold reader on v1.5.
+- **Human messages:** none. **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~40 min (cold reader ~66k tokens).
