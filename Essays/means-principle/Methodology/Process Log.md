@@ -1068,3 +1068,22 @@ methodology report.
 - **Next:** 7b, the condense and tell-strip pass (target ≤ 5,550 words before the abstract), with
   the lint report.
 - **Approx. cost/time:** Machine: ~2 h wall-clock (subagents ~1.1M tokens in total).
+
+## [2026-09-23] Session 1 (cont.) — Stage 7b: condense and tell-strip (Draft v1.4)
+- **Models/agents:** Claude (Claude Code remote session). No subagents.
+- **AI actions:** One whole-draft pass, walked §6 → §1, opposite to 7a.
+  - About 40 phrase-level cuts and merges; six very short sentences merged.
+  - The Steinhoff citations consolidated; Parry's externalities point compressed.
+  - The note on Walen's "tightly connected" test cut; notes renumbered.
+  - AI-tells sweep: nothing to fix beyond the merges.
+  - The linter ran twice, and every FLAG is dispositioned in the self-check.
+  - v1.3 moved to `Old versions/`.
+- **Self-check:** `WIP Docs/Change Logs/Draft v1.4 — self-check.md`.
+  - Displays byte-identical; notes matched; quotations as before.
+  - 5,732 words before the abstract. The target of ≤ 5,550 was **not met**. A list of about 230
+    words of reserve cuts is recorded for Stage 9–10.
+  - The per-section ledger is updated, and §1's PASS has a stated reason.
+- **Human messages:** none.
+- **Compliance flags:** none.
+- **Next:** 7c, a fresh cold-reader subagent on the full v1.4.
+- **Approx. cost/time:** Machine: ~40 min.

@@ -54,9 +54,9 @@
       line, self-check — Pass 1: `Draft v1.1.md` (cut 6,459 → 5,761; two precision fixes; Quong "relevantly similar" note; self-check `WIP Docs/Change Logs/Draft v1.1 — self-check.md`). Pass 2: `Draft v1.2.md` (intention and closeness in the opening; the omissions test made explicit; one repeat cut; self-check `…/Draft v1.2 — self-check.md`). Converged after Pass 2 (no argument-level change left without outside review); model-paragraphs read fresh before each pass
 
 ## Stage 7 — Clarity chain (repeat until 7c is clean)
-- [ ] 7a: prose-rewriter spawned per section (fresh contexts, no outline); rewrites applied;
-      change tables in Scrap/
-- [ ] 7b: condense + tell-strip pass; prose_lint.py run, report pasted, every FLAG dispositioned
+- [x] 7a: prose-rewriter spawned per section (fresh contexts, no outline); rewrites applied;
+      change tables in Scrap/ — four productive runs (sonnet tier) for §1, §2, §3 and §4–6; a first §1–2 run stopped at the output limit and was re-run in two parts. All changes dispositioned (19 rejected or corrected) in `Scrap/7a-changes-s1.md`, `-s2`, `-s3`, `-s4-s6`. Assembled as `Draft v1.3.md`; self-check `WIP Docs/Change Logs/Draft v1.3 — self-check.md`
+- [x] 7b: condense + tell-strip pass; prose_lint.py run, report pasted, every FLAG dispositioned — `Draft v1.4.md` (walked §6 → §1). Lint: 2 FLAGs, both dispositioned (triads mostly clause chains; 3 real short verdict sentences). 5,732 words before the abstract; the ≤5,550 target was not met, and a reserve-cut list of about 230 words is recorded. Self-check `WIP Docs/Change Logs/Draft v1.4 — self-check.md`
 - [ ] 7c: fresh cold-reader; friction report in Scrap/; score ≤5 (one line per extra round run)
 
 ## Stage 8 — Custodian read (CHECKPOINT 4)
