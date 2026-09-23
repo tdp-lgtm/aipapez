@@ -1133,3 +1133,21 @@ methodology report.
 - **Next:** 7c round 3, with a fresh cold reader on v1.6.
 - **Human messages:** none. **Compliance flags:** none.
 - **Approx. cost/time:** Machine: ~35 min (cold reader ~66k tokens).
+
+## [2026-09-23] Session 1 (cont.) — Stage 7c round 3: cold read of v1.6; fixes in v1.7
+- **Models/agents:** a cold-reader subagent (sonnet tier), fresh instance; it saw only the clean
+  copy of v1.6.
+- **Result:** report saved as `Scrap/7c-report-round3.md`. The one-read test passed. The friction
+  score was 11, "followable with effort". The trend so far is 14 → 13 → 11.
+- **AI actions:** fixed all 11 items in `WIP Docs/Drafts/Draft v1.7.md`; the dispositions are in
+  `WIP Docs/Change Logs/Draft v1.7 — self-check.md`.
+  - A structural fix for the spot every reader flagged: Otsuka's second route moved to a note, so
+    the text runs one chain.
+  - Two unearned steps now shown: why the *Loop* verdict should yield, and why the explanation is
+    not circular.
+  - The pill and flamethrower cases retold for easier tracking.
+  - A repeated point cut; the Kamm note and other note material cut to pay for the additions.
+  - Result: 5,754 words before the abstract.
+- **Next:** 7c round 4, with a fresh cold reader on v1.7.
+- **Human messages:** none. **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~35 min (cold reader ~60k tokens).
