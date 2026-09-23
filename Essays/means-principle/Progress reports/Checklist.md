@@ -63,6 +63,7 @@
       - Round 3 (v1.6): score 11; passed; fixes → `Draft v1.7.md` (`Scrap/7c-report-round3.md`)
       - Round 4 (v1.7): score 10; passed; fixes → `Draft v1.8.md` (`Scrap/7c-report-round4.md`)
       - Round 5 (v1.8): score 10; passed; fixes → `Draft v1.9.md` (`Scrap/7c-report-round5.md`; self-check `WIP Docs/Change Logs/Draft v1.9 — self-check.md`)
+      - Round 6 (v1.9): score 9; passed; fixes → `Draft v1.10.md` (`Scrap/7c-report-round6.md`; self-check `WIP Docs/Change Logs/Draft v1.10 — self-check.md`)
 
 ## Stage 8 — Custodian read (CHECKPOINT 4)
 - [ ] Style feedback explicitly invited (compliance-free); feedback received, logged verbatim,

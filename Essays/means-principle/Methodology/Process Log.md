@@ -1209,3 +1209,35 @@ methodology report.
 - **Human messages:** none. Two environment messages, not from the custodian: the stop hook asked
   for untracked files to be committed and pushed. **Compliance flags:** none.
 - **Approx. cost/time:** Machine: ~40 min (cold reader ~59k tokens).
+
+## [2026-09-23] Session 1 (cont.) — Stage 7c round 6: cold read of v1.9; fixes in v1.10
+- **Models/agents:** a cold-reader subagent (sonnet tier), fresh instance. It saw only the clean
+  copy of v1.9.
+- **Result:** report in `Scrap/7c-report-round6.md`. The one-read test passed. Friction score 9,
+  "followable with effort", "just above the 'clean' band". Trend: 14 → 13 → 11 → 10 → 10 → 9.
+  - Round 5's structural fixes held. Otsuka's chain, flagged in every earlier round, was not
+    flagged; the reader named it as a dense stretch that still closes on its payoff.
+- **AI actions:** all 9 items fixed in `WIP Docs/Drafts/Draft v1.10.md`; dispositions in
+  `WIP Docs/Change Logs/Draft v1.10 — self-check.md`.
+  - **The motive reply**, flagged as an unearned step in rounds 4 and 6. The objection now states
+    Parry's own contrast: refusing only to keep her arm would be permissible, and it is the same
+    conduct. The permission-as-power assumption is now supported by argument from premise 3 ("to
+    settle a question is to decide it") and from what a prerogative is. The explanation covers
+    both refusals. The assumption itself is unchanged; the referee loop will test it.
+  - **The last note** (flagged in rounds 5 and 6) is cut to Walen's view. Christensen's case and the
+    spiteful donor are removed, and Christensen 2026 leaves the references (no longer cited). This
+    removes a footnote planned in Plan v0.4, to cut apparatus in the clarity pass. It is logged
+    here for the methodology report.
+  - **Other fixes:**
+    - the §1 critiques separated;
+    - Quong's dilemma set out horn by horn (checked against Quong's text);
+    - the bear/give hinge tied to the permission's name;
+    - Parry's argument unpacked (checked against Parry's text);
+    - the number drift between six and twenty removed;
+    - §2 now opens by saying what the log and the tree show.
+  - **7a routing.** The fixes are sentence-level, so they go straight to the round-7 cold read
+    rather than back through the prose-rewriter. This is recorded in the self-check.
+  - **Result:** 5,825 words before the abstract, with about 33 words of reserve under the cap.
+- **Next:** 7c round 7, with a fresh cold reader on v1.10.
+- **Human messages:** none. **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~35 min (cold reader ~54k tokens).
