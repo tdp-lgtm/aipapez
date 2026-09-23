@@ -65,6 +65,7 @@
       - Round 5 (v1.8): score 10; passed; fixes → `Draft v1.9.md` (`Scrap/7c-report-round5.md`; self-check `WIP Docs/Change Logs/Draft v1.9 — self-check.md`)
       - Round 6 (v1.9): score 9; passed; fixes → `Draft v1.10.md` (`Scrap/7c-report-round6.md`; self-check `WIP Docs/Change Logs/Draft v1.10 — self-check.md`)
       - Round 7 (v1.10): score 10; passed, with two mismatches. Spot fixes had levelled off, so a second 7a pass followed: fresh rewriters on §3 and §§4–5; §2's rewriter failed at the output limit, so §2 had a self-edit pass. Result → `Draft v1.11.md` (`Scrap/7c-report-round7.md`; `Scrap/7a2-changes-*.md`; self-check `WIP Docs/Change Logs/Draft v1.11 — self-check.md`)
+      - Round 8 (v1.11): score 14 (the reader counts finely); one-read test passed with NO mismatch; no lost threads or signpost failures. The scores have levelled off at 9–14, driven by apparatus density. The exit (≤5) is not met; the next step is put to the custodian at Checkpoint 4 (`Scrap/7c-report-round8.md`)
 
 ## Stage 8 — Custodian read (CHECKPOINT 4)
 - [ ] Style feedback explicitly invited (compliance-free); feedback received, logged verbatim,

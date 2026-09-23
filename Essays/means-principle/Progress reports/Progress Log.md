@@ -134,3 +134,13 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
   where general style feedback is welcome.
 - **Needed from you:** nothing new. The earlier requests still stand: OpenReview registration,
   and page-numbered copies of the main papers (item 20 in `Background Readings/REQUESTS.md`).
+
+## [2026-09-23] Stage 7 — readability testing has levelled off; your read is next
+- **What happened:** eight fresh test readers have now read the essay once, fast, as a busy
+  philosopher would, and listed every stumble.
+  - All eight understood the main argument on one read. The latest also kept hold of the essay's
+    second key idea, which two earlier readers had half-missed; the fix for that worked.
+  - The stumble count has levelled off between 9 and 14, depending on the reader. What stays
+    constant is that the essay packs many cases and authors (about 17 and 18) into 6,000 words.
+- **Where it stands:** Draft v1.11, 5,793 words before the abstract. All automatic checks pass.
+- **Next:** your read (Checkpoint 4). I've asked you how you'd like to proceed.

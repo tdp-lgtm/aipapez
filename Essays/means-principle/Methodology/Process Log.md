@@ -1315,3 +1315,28 @@ methodology report.
   interim commits. **Compliance flags:** none.
 - **Approx. cost/time:** Machine: ~2.5 h wall-clock; rewriters about 530k tokens combined, plus
   the failed §2 run.
+
+## [2026-09-23] Session 1 (cont.) — Stage 7c round 8: cold read of v1.11; the next step goes to Checkpoint 4
+- **Models/agents:** a cold-reader subagent (sonnet tier), fresh instance. It saw only the clean
+  copy of v1.11 (about 57k tokens).
+- **Result:** report in `Scrap/7c-report-round8.md`. The one-read test passed with **no mismatch**,
+  the first clean result since round 4; both features were recalled unprompted. There were no
+  lost-thread paragraphs and no signpost failures. The friction score was 14, "followable with
+  effort". This reader counted finely, including note-level items.
+- **Assessment:**
+  - Across eight rounds the scores run 14, 13, 11, 10, 10, 9, 10, 14. They vary with the reader
+    more than with the text.
+  - The constant is the density of apparatus: about 18 named authors and 17 cases in 6,000 words.
+  - Three spots recur: the Quong–Tadros dilemma, the bear/give hinge and the flamethrower case.
+  - The v1.11 structural fixes worked on the measure that matters most, the one-read test.
+- **Decision:** Stage 7's exit (a score of 5 or less) is not met. Pushing for it further would
+  probably mean cutting cases and authors, which trades clarity against engagement and
+  significance. That is a real judgment call with real cost, and Checkpoint 4 is due. So I put it
+  to the custodian as a choice among my own options:
+  - read the draft now (recommended), with the round-8 notes carried into the next revision;
+  - one more polish round first, aimed at thinning the apparatus;
+  - skip the custodian read.
+  The draft is v1.11, the version the round-8 reader saw. No fixes were made after the read, so
+  the custodian reads exactly what was tested.
+- **Human messages:** none yet; the checkpoint question follows. **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~10 min.
