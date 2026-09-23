@@ -1110,3 +1110,26 @@ methodology report.
 - **Next:** 7c round 2, with a fresh cold reader on v1.5.
 - **Human messages:** none. **Compliance flags:** none.
 - **Approx. cost/time:** Machine: ~40 min (cold reader ~66k tokens).
+
+## [2026-09-23] Session 1 (cont.) — Stage 7c round 2: cold read of v1.5; fixes in v1.6
+- **Models/agents:** a cold-reader subagent (sonnet tier), a fresh instance. It saw only the clean
+  copy of v1.5.
+- **Result:** the report is saved as `Scrap/7c-report-round2.md`.
+  - The one-read test passed.
+  - The friction score was 13, verdict "followable with effort". The items were mostly different
+    from round 1 and concentrated in §2 and the Otsuka passage.
+- **AI actions:** fixed or dispositioned all 13 items in `WIP Docs/Drafts/Draft v1.6.md`; the
+  dispositions are in `WIP Docs/Change Logs/Draft v1.6 — self-check.md`.
+  - Shown steps: Alexander's accounting and the three-track wrench case.
+  - Structure: the Otsuka passage split, with a one-line map; the two readings in Quong's dilemma
+    signposted.
+  - Case load: Liao and Barry's log case moved to a note.
+  - Glosses: "Fat Man" glossed; the case of shortage tied to the door case.
+  - The *Loop* company list moved to a note.
+  - Item 5, the definition of spending, was kept, with a stated reason.
+  - Three reserve cuts were spent to stay under the cap with room for the abstract.
+  - Lazar was removed from the references, since it is no longer cited.
+  - Result: 5,775 words before the abstract.
+- **Next:** 7c round 3, with a fresh cold reader on v1.6.
+- **Human messages:** none. **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~35 min (cold reader ~66k tokens).
