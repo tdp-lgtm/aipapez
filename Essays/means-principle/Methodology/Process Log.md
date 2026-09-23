@@ -1031,3 +1031,40 @@ methodology report.
 - **Compliance flags:** none.
 - **Next:** Stage 7, the clarity chain (7a prose-rewriter; 7b condense and lint; 7c cold reader).
 - **Approx. cost/time:** Machine: ~25 min.
+
+## [2026-09-22/23] Session 1 (cont.) — Stage 7a: register rewrite in fresh contexts (Draft v1.3)
+- **Models/agents:** prose-rewriter subagents, sonnet tier, run in parallel.
+  - The first run used three rewriters (sections 1–2, 3, 4–6). The one for sections 1–2 stopped at
+    the output-length limit and returned nothing.
+  - The re-run used two rewriters (section 1; section 2), each told to write its text to a file and
+    return a short memo.
+  - That makes five subagent runs in all, four of them productive.
+- **Inputs given to each rewriter:**
+  - its section only, as a clean file in `Scrap/`;
+  - the thesis in one sentence;
+  - a glossary of terms from other sections;
+  - the register-sample paths;
+  - hard constraints: no growth in length; quotations, citations, placeholders and displays fixed;
+    no new labels.
+  - It was never given the outline or the plan.
+- **AI actions:** dispositioned every change in each rewriter's table. The records are
+  `Scrap/7a-changes-*.md`; the raw and applied texts are kept beside them.
+  - 19 edits were rejected or corrected. Most important: "the good is what would justify the loss"
+    (it contradicts the thesis, restored); "the duties the principle imposes" (the duties set the
+    bound, so restored); a tu quoque reading of Ramakrishnan's arbitrariness worry (restored); the
+    log's cost moved onto the burners (restored).
+  - Also restored: the fixed term "the permission not to give"; bridging sentences; full first
+    names; purpose clauses ("so that").
+  - New labels ("criterion camp", "*Smoke*-structured") were rejected.
+  - From the rewriters' flags: glossed Quong's rescue condition in his words (file 09 L249), and
+    named the view's two features in the §3 reply.
+  - Assembled `WIP Docs/Drafts/Draft v1.3.md`. v1.2 moved to `Old versions/`.
+- **Self-check (deterministic):** `WIP Docs/Change Logs/Draft v1.3 — self-check.md`. Displays are
+  byte-identical; notes matched; 42 quotations, 41 verbatim on disk (Harris remains);
+  5,818 words before the abstract; per-section ledger started.
+- **Human messages:** one from the environment, not the custodian: the stop hook asked for
+  untracked files to be committed. Done; a stray Python cache folder was deleted, not committed.
+- **Compliance flags:** none.
+- **Next:** 7b, the condense and tell-strip pass (target ≤ 5,550 words before the abstract), with
+  the lint report.
+- **Approx. cost/time:** Machine: ~2 h wall-clock (subagents ~1.1M tokens in total).
