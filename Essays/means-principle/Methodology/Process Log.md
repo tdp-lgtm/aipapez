@@ -1151,3 +1151,23 @@ methodology report.
 - **Next:** 7c round 4, with a fresh cold reader on v1.7.
 - **Human messages:** none. **Compliance flags:** none.
 - **Approx. cost/time:** Machine: ~35 min (cold reader ~60k tokens).
+
+## [2026-09-23] Session 1 (cont.) — Stage 7c round 4: cold read of v1.7; fixes in v1.8
+- **Models/agents:** a cold-reader subagent (sonnet tier), fresh instance. It saw only the clean
+  copy of v1.7.
+- **Result:** report in `Scrap/7c-report-round4.md`. The one-read test passed. Friction score 10,
+  "followable with effort", "at its gentle end". Trend: 14 → 13 → 11 → 10.
+- **AI actions:** all 10 items fixed in `WIP Docs/Drafts/Draft v1.8.md`; dispositions in
+  `WIP Docs/Change Logs/Draft v1.8 — self-check.md`.
+  - The spots that recurred across readers were fixed at the root: the §1 two-tracks paragraph,
+    the wording of P2, Quong's dilemma, and name density in the notes.
+  - P2 was reworded for clarity. Its content is unchanged; this is the only change to the
+    displayed argument since Checkpoint 3, and it is logged here for the methodology report.
+  - The motive assumption now has stated support.
+  - Costa 1987, Walen 2014 and Liao et al. 2012 were removed from the references because nothing
+    cites them any more. REQUESTS #21 (Costa) is marked no longer needed.
+  - The Steinhoff sentence in §3 was cut for length.
+  - Result: 5,780 words before the abstract.
+- **Next:** 7c round 5, with a fresh cold reader on v1.8.
+- **Human messages:** none. **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~30 min (cold reader ~61k tokens).
