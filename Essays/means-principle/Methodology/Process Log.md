@@ -1241,3 +1241,40 @@ methodology report.
 - **Next:** 7c round 7, with a fresh cold reader on v1.10.
 - **Human messages:** none. **Compliance flags:** none.
 - **Approx. cost/time:** Machine: ~35 min (cold reader ~54k tokens).
+
+## [2026-09-23] Session 1 (cont.) — Stage 7c round 7: cold read of v1.10; decision to run a second 7a pass
+- **Models/agents:** a cold-reader subagent (sonnet tier), fresh instance. It saw only the clean
+  copy of v1.10.
+- **Result:** report in `Scrap/7c-report-round7.md`. The one-read test passed, but the second
+  feature was again absorbed into the replacement test, as in round 5, and Ramakrishnan's
+  position blurred with the absence-test theorists'. Friction score 10, "followable with effort".
+  Trend: 14 → 13 → 11 → 10 → 10 → 9 → 10.
+- **Diagnosis and decision:** six rounds of spot fixes have levelled off at 9–10.
+  - Each fresh reader samples about ten mostly new stumbles from the case-heavy middle, so the
+    stock of friction there is larger than any one reader reports.
+  - The reader's scale calls this band "another rewrite round". Stage 7's rule sends sections
+    needing real rewriting back through 7a.
+  - Decision: a second 7a pass. Three fresh prose-rewriters (sonnet tier) take §2, §3 and §§4–5
+    in parallel. Each gets only its section, the thesis, context glosses and the stumble list from
+    rounds 5–7, with a target of 3–6% shorter.
+  - Before that pass, I made the structural fixes directly, in a working copy of v1.11:
+    - the second feature is previewed in §1's thesis paragraph, and the phrase "judging supply
+      against the agent's alternatives" is used as its fixed name throughout;
+    - §2 now says Ramakrishnan himself shows that absence tests fail (verified: file 01 L121–129,
+      where he rejects Opportunism with the pill case);
+    - the flamethrower case is made self-contained and restored to its source. The woman defends
+      herself and nineteen others (file 29 L67, L169–178); v1.10 had dropped the nineteen, which
+      made the permissibility verdict doubtful. Note 6 (Øverland) is cut, and Øverland 2014 leaves
+      the references;
+    - §4 ¶1's exchange is reduced to two parties;
+    - the hospital's rule is recapped in §4 and its intended tension flagged in §3;
+    - §1's elimination sentence now maps onto the case, and the four-name credit string moves to
+      §3's credits;
+    - the motive reply now derives its assumption from premise 3 in plain terms, without the word
+      "power": the permission protects her answer to her own trade-off, and the rescuer had
+      answered it in favour of giving.
+- **Next:** dispositions of the three rewriters' changes, then assembly as Draft v1.11, the
+  checks, the self-check, and 7c round 8.
+- **Human messages:** none. **Compliance flags:** none.
+- **Approx. cost/time:** Machine so far: ~30 min (cold reader ~62k tokens); the rewriters' cost
+  goes in the next entry.
