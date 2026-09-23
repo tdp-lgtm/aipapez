@@ -1,5 +1,3 @@
-Changelog: v1.11 — 2026-09-23. Stage 7c round 7 response: a second 7a pass. (`Scrap/7c-report-round7.md`; dispositions in `WIP Docs/Change Logs/Draft v1.11 — self-check.md` and `Scrap/7a2-changes-*.md`.) Direct structural fixes: the second feature previewed in §1, named by one fixed phrase throughout, and named in §6; Ramakrishnan's own rejection of absence tests stated; the flamethrower case restored to its source (nineteen others defended) and made self-contained, with note 6 and Øverland 2014 cut; §4 ¶1 set out one move per sentence; the hospital's rule recapped in §4, its tension flagged in §3; §1's elimination sentence mapped onto the case and its credit string moved to §3; the motive reply supported from premise 3 in plain terms. Second 7a pass: fresh rewriters on §3 and §§4–5, with meaning changes rejected; §2's rewriter failed at the output limit, so §2 had a self-edit pass on the same brief. v1.10 is in `Old versions/`.
-
 # Spending Persons
 
 **Abstract.** [To be written last, about 150 words.]

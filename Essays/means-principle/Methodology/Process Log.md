@@ -1278,3 +1278,40 @@ methodology report.
 - **Human messages:** none. **Compliance flags:** none.
 - **Approx. cost/time:** Machine so far: ~30 min (cold reader ~62k tokens); the rewriters' cost
   goes in the next entry.
+
+## [2026-09-23] Session 1 (cont.) — Stage 7a second pass; Draft v1.11 assembled
+- **Models/agents:** three prose-rewriter subagents (sonnet tier), fresh contexts, run in parallel
+  on §2, §3 and §§4–5.
+  - §3 finished at 1,427 words from 1,480 (about 244k tokens).
+  - §§4–5 finished at 1,742 words from 1,804 (about 287k tokens).
+  - §2 failed: an API error when one response passed the 64k output-token limit, with no files
+    written. This is the same failure the first 7a pass met on §§1–2.
+- **AI actions:**
+  - **Dispositions.** Every rewriter change was dispositioned (`Scrap/7a2-changes-s3.md`,
+    `Scrap/7a2-changes-s4-s5.md`). Accepted: the named charges on Quong's horns, the de-epigrammed
+    Thomson reply, the self-contained hospital's rule, the one-move-per-sentence §4 ¶1, and
+    "though his motive is vicious".
+  - **Meaning changes rejected**, among them:
+    - "both horns" (wrong referent);
+    - a restated replacement test that changed the test;
+    - premise 4's "only"/"exactly" dropped;
+    - "refrains, so" (it inverts purpose);
+    - a list that would give up the footbridge case;
+    - the motive assumption presented as entailed by premise 3.
+  - **§2.** Rather than re-run an expensive rewriter at the same risk, I did a self-edit pass on §2
+    on the rewriter's brief (`Scrap/7a2-changes-s2.md`). The round-8 cold read is its test.
+  - **Assembly.** Assembled as `WIP Docs/Drafts/Draft v1.11.md`. The §6 summary now names both
+    features. Three lint patterns introduced this round were undone.
+  - **Self-check** in `WIP Docs/Change Logs/Draft v1.11 — self-check.md`:
+    - displays byte-identical;
+    - notes 1–11;
+    - no quotation in the body changed;
+    - 20 references, all cited;
+    - 5,793 words before the abstract (−32);
+    - lint within budget apart from four short sentences, dispositioned.
+- **Deviation noted:** §2 did not get a fresh-context rewrite in this pass; the reason is above.
+- **Next:** 7c round 8, with a fresh cold reader on v1.11.
+- **Human messages:** none. Stop-hook messages (environment, not the custodian) prompted three
+  interim commits. **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~2.5 h wall-clock; rewriters about 530k tokens combined, plus
+  the failed §2 run.
