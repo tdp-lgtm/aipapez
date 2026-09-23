@@ -58,6 +58,11 @@
       change tables in Scrap/ — four productive runs (sonnet tier) for §1, §2, §3 and §4–6; a first §1–2 run stopped at the output limit and was re-run in two parts. All changes dispositioned (19 rejected or corrected) in `Scrap/7a-changes-s1.md`, `-s2`, `-s3`, `-s4-s6`. Assembled as `Draft v1.3.md`; self-check `WIP Docs/Change Logs/Draft v1.3 — self-check.md`
 - [x] 7b: condense + tell-strip pass; prose_lint.py run, report pasted, every FLAG dispositioned — `Draft v1.4.md` (walked §6 → §1). Lint: 2 FLAGs, both dispositioned (triads mostly clause chains; 3 real short verdict sentences). 5,732 words before the abstract; the ≤5,550 target was not met, and a reserve-cut list of about 230 words is recorded. Self-check `WIP Docs/Change Logs/Draft v1.4 — self-check.md`
 - [ ] 7c: fresh cold-reader; friction report in Scrap/; score ≤5 (one line per extra round run)
+      - Round 1 (v1.4): score 14; one-read test passed; fixes → `Draft v1.5.md` (`Scrap/7c-report-round1.md`)
+      - Round 2 (v1.5): score 13; passed; fixes → `Draft v1.6.md` (`Scrap/7c-report-round2.md`)
+      - Round 3 (v1.6): score 11; passed; fixes → `Draft v1.7.md` (`Scrap/7c-report-round3.md`)
+      - Round 4 (v1.7): score 10; passed; fixes → `Draft v1.8.md` (`Scrap/7c-report-round4.md`)
+      - Round 5 (v1.8): score 10; passed; fixes → `Draft v1.9.md` (`Scrap/7c-report-round5.md`; self-check `WIP Docs/Change Logs/Draft v1.9 — self-check.md`)
 
 ## Stage 8 — Custodian read (CHECKPOINT 4)
 - [ ] Style feedback explicitly invited (compliance-free); feedback received, logged verbatim,

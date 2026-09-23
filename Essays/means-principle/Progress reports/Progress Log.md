@@ -117,3 +117,20 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
 - **Needed from you:** OpenReview registration, if not done yet. When convenient, page-numbered
   copies of the main papers already in the folder (list in `Background Readings/REQUESTS.md`,
   item 20), so exact page citations can be added before submission.
+
+## [2026-09-23] Stage 7 — making the essay easy to follow (in progress)
+- **Done:** fresh reviewers who had never seen my notes rewrote each section for readability. I
+  kept the changes that helped and rejected 19 that would have changed the meaning. A tidy-up pass
+  followed.
+- **Now:** repeated "cold reads." Each time, a brand-new reader goes through the essay once, fast,
+  and lists every spot where they stumbled. I fix those spots, and a new reader tries again.
+  - Every reader so far has correctly grasped the main argument on one read.
+  - The number of stumbles has fallen from 14 to 10. The goal is 5 or fewer.
+  - The latest round rewrote the passage every reader found hardest: a chain of three trolley
+    cases in section 5. It now walks through the cases one change at a time.
+- **Length:** about 5,810 words before the abstract. That leaves room for a 150-word abstract
+  under the 6,000 cap, but not much more, so later fixes will need matching cuts.
+- **Next:** more cold reads until the essay reads cleanly. Then comes your read (Checkpoint 4),
+  where general style feedback is welcome.
+- **Needed from you:** nothing new. The earlier requests still stand: OpenReview registration,
+  and page-numbered copies of the main papers (item 20 in `Background Readings/REQUESTS.md`).

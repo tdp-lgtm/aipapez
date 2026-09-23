@@ -1171,3 +1171,41 @@ methodology report.
 - **Next:** 7c round 5, with a fresh cold reader on v1.8.
 - **Human messages:** none. **Compliance flags:** none.
 - **Approx. cost/time:** Machine: ~30 min (cold reader ~61k tokens).
+
+## [2026-09-23] Session 1 (cont.) — Stage 7c round 5: cold read of v1.8; fixes in v1.9
+- **Models/agents:** a cold-reader subagent (sonnet tier), fresh instance. It saw only the clean
+  copy of v1.8.
+- **Result:** report in `Scrap/7c-report-round5.md`. The one-read test passed, but the reader's
+  recall underweighted the view's second feature (supply judged against the agent's
+  alternatives). Friction score 10, "followable with effort", with the friction concentrated in
+  a few places. Trend: 14 → 13 → 11 → 10 → 10.
+- **AI actions:** the score levelled off, so this round went after causes as well as items. All 10
+  items are fixed in `WIP Docs/Drafts/Draft v1.9.md`; dispositions are in
+  `WIP Docs/Change Logs/Draft v1.9 — self-check.md`.
+  - **Otsuka's chain** (flagged in every round) is rewritten as a walk that changes one thing at a
+    time, from the toppling case to *Loop*. The second route (the Ramp case, a note since v1.7) is
+    cut. The rewrite was checked line by line against Otsuka's text. Two looser claims in v1.8 were
+    tightened: "pulling" is now "pushing" a lever, as in Otsuka; and Kamm's point is now reported as
+    Otsuka reports it, made "of a similar case".
+  - **Bare case labels** for the cases with people behind the man are replaced by short
+    descriptions in all four places.
+  - **The second feature** is marked "as important as the first", its inference is spelled out,
+    its note marker is moved to the sentence the note qualifies, and the correction of Alexander
+    now has its own paragraph.
+  - **P2 reworded again, content unchanged**: "…is to leave to those others the question whether
+    …". This is the second wording change to the displayed argument since Checkpoint 3 (the first
+    was in v1.8). It is logged here for the methodology report.
+  - **Smaller fixes:**
+    - the replacement test and two applications lose a subjunctive inversion;
+    - §4 ¶1 now ends on what the argument needs;
+    - "not alone in doing so" is made explicit;
+    - notes 10 and 13 (now 12) are thinned.
+  - **References.** Tadros 2020 is no longer cited and is removed. There are now 22 references,
+    all cited. The v1.8 self-check's count of 24 was wrong; the true figure was 23, and the
+    self-check records the correction.
+  - **Length.** 5,814 words before the abstract (+34). About 44 words of reserve remain under the
+    cap with a 150-word abstract, so referee additions will need offsets.
+- **Next:** 7c round 6, with a fresh cold reader on v1.9.
+- **Human messages:** none. Two environment messages, not from the custodian: the stop hook asked
+  for untracked files to be committed and pushed. **Compliance flags:** none.
+- **Approx. cost/time:** Machine: ~40 min (cold reader ~59k tokens).
