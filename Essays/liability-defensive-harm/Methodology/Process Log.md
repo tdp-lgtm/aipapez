@@ -304,3 +304,17 @@ methodology report.
   query #18 stays open).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~60 min (referee ~15 min).
+
+## [2026-09-24] Session 1 (cont.) — 4C gate
+- **Models/agents:** paper-auditor ×1 (haiku).
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Before the gate, a deterministic self-check: a bullet-by-bullet diff of v0.3
+  against v0.4. It found two small consistency edits (5.4, 6.5) missing from the v0.4 changelog;
+  they were added. 4C gate APPROVE on the first pass. The auditor verified the Coverage Map rounds
+  (5 dispositions spot-checked in v0.2), the argument-clinic fixes (4 of 8 in v0.3), the referee
+  dispositions (4 in v0.4) and the blindness of the referee's input file. It also checked four
+  accuracy fixes against the source texts: Clark's trolley pair, Quong's note 30, Ferzan's note 72,
+  and Burri 2022's "localised affair". Next: CHECKPOINT 3.
+- **Selections:** none.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~15 min.

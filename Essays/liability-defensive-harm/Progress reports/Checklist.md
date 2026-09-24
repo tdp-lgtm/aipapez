@@ -33,7 +33,7 @@
 - [x] 4C round 2 — engagement: every key interlocutor in bullets — Coverage Map, Round 2 table: all close and brief interlocutors placed; added Burri 2022's localisation argument, Gordon-Solmon (via Clark), Ferzan 2012 n. 72, Frowe 2010 §VI, Ripstein 2016 (new request #19); Christie, Otsuka, Hecht deferred until received (not cited unread)
 - [x] Argument-clinic pass: memo in Scrap/; accepted fixes in outline — `Scrap/argument-clinic-4C.md`: 8 findings (4 clear gaps, 4 a referee might press), all fixed in `Outline 4C Fat v0.3.md` (5,630-word body plan; 2,855 words of bullets, above the ~2,400 guide because of dense citations)
 - [x] Blind referee memo on outline; accepted items folded in — `WIP Docs/Referee Reports/4C outline memo (blind referee) and dispositions.md` (one blind referee, sonnet tier, on a copy of v0.3 without the process header): 4 major concerns, 1 missing objection, 4 minor. Accepted: all 4 majors, the missing objection and 2 minors (the other 2 needed no outline change). Main change: a new first argument for the crux, from authority. `Outline 4C Fat v0.4.md`: 45 paragraphs, 5,560-word body, 3,173 words of bullets (above the ~2,400 guide: the crux bullets carry their argument steps and exact quotations)
-- [ ] Auditor gate — 4C FINAL: <verdict line>
+- [x] Auditor gate — 4C FINAL: "VERDICT: APPROVE — Stage 4C (Outline 4C Fat v0.4) is genuinely done" (paper-auditor, haiku tier, 2026-09-24; checked the rounds, clinic fixes and referee dispositions against v0.1–v0.4, and four accuracy fixes against the source texts)
 - [ ] CHECKPOINT 3 — structure signed off; outline locked
 
 ## Stage 5 — Draft v1.0
