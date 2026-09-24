@@ -318,3 +318,17 @@ methodology report.
 - **Selections:** none.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~15 min.
+
+## [2026-09-24] Session 1 (cont.) — CHECKPOINT 3 (structure)
+- **Models/agents:** Claude (drafting agent).
+- **Human messages (verbatim):**
+  > (CHECKPOINT 3, via interactive menu) "Approve (Recommended)"
+- **AI actions:** Presented the outline in plain English: the claim, a seven-section table with
+  budgets, and the five changes since CHECKPOINT 2. All five were AI-originated (the new authority
+  argument, the refined definition of "acting upon", the careless-bluffer extension, the six-step
+  argument, the budget reset for the abstract). Included the reminder that feedback must stay
+  generic. Offered four responses: approve / something unclear / too ambitious / pause to read.
+- **Selections:** Custodian approved the structure (generic approval; no content supplied). The
+  outline `Outline 4C Fat v0.4.md` is locked as the drafting contract.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: ~1 minute. Machine: negligible.

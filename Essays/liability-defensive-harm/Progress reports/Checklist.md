@@ -34,7 +34,7 @@
 - [x] Argument-clinic pass: memo in Scrap/; accepted fixes in outline — `Scrap/argument-clinic-4C.md`: 8 findings (4 clear gaps, 4 a referee might press), all fixed in `Outline 4C Fat v0.3.md` (5,630-word body plan; 2,855 words of bullets, above the ~2,400 guide because of dense citations)
 - [x] Blind referee memo on outline; accepted items folded in — `WIP Docs/Referee Reports/4C outline memo (blind referee) and dispositions.md` (one blind referee, sonnet tier, on a copy of v0.3 without the process header): 4 major concerns, 1 missing objection, 4 minor. Accepted: all 4 majors, the missing objection and 2 minors (the other 2 needed no outline change). Main change: a new first argument for the crux, from authority. `Outline 4C Fat v0.4.md`: 45 paragraphs, 5,560-word body, 3,173 words of bullets (above the ~2,400 guide: the crux bullets carry their argument steps and exact quotations)
 - [x] Auditor gate — 4C FINAL: "VERDICT: APPROVE — Stage 4C (Outline 4C Fat v0.4) is genuinely done" (paper-auditor, haiku tier, 2026-09-24; checked the rounds, clinic fixes and referee dispositions against v0.1–v0.4, and four accuracy fixes against the source texts)
-- [ ] CHECKPOINT 3 — structure signed off; outline locked
+- [x] CHECKPOINT 3 — structure signed off; outline locked — custodian (interactive menu, 2026-09-24): "Approve (Recommended)". Locked: `WIP Docs/Outline/Outline 4C Fat v0.4.md`
 
 ## Stage 5 — Draft v1.0
 - [ ] Calibration reads done (model-paragraphs in full + register samples) and logged
