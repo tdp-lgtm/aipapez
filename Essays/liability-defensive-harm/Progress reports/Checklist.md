@@ -7,9 +7,9 @@
 - [x] Auditor gate — Setup: "VERDICT: APPROVE — Stage 0 Setup for liability-defensive-harm is verified complete. […] Line counts verified (19 papers = 6,122 lines, matching original exactly). […] The agent may proceed to Stage 1 (Idea Generation & Selection)." (paper-auditor, haiku tier, 2026-09-24)
 
 ## Stage 1 — Idea generation & selection
-- [ ] ≥10 candidate contributions generated (WIP Docs/Candidates/)
-- [ ] Originality/significance pre-screen run (searches logged)
-- [ ] Top 3–5 written up as Argument Sketches, ranked
+- [x] ≥10 candidate contributions generated (WIP Docs/Candidates/) — 14 candidates in P/Q/R form with type and originality hypothesis (`Thesis Candidates v0.1.md`)
+- [x] Originality/significance pre-screen run (searches logged) — 21 WebSearch queries (Process Log, Stage 1 entry); verdict table: 4 advance, 5 merged into C1, 5 killed; WebFetch egress-blocked, so evidence is at abstract/snippet level
+- [x] Top 3–5 written up as Argument Sketches, ranked — 4 sketches (A Conferral, B Knowledge-Norm, C Risk-Pool, D Present-Duty) with premises, payoff, main objection, crux, ranking rationale (`Argument Sketches v0.1.md`)
 - [ ] CHECKPOINT 1 — sketch selected (by custodian / autonomously); saved to Brief/
 - [ ] Auditor gate — Idea Selection: <verdict line>
 

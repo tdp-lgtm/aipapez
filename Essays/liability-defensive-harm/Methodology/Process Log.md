@@ -53,3 +53,40 @@ methodology report.
 - **Gate:** paper-auditor ×1 (haiku tier) for the Setup gate — "VERDICT: APPROVE" (verified tree,
   intake, verbatim messages, the 19-file split against the upload by line count, and the compliance
   judgment). Pasted into the Checklist.
+
+## [2026-09-24] Session 1 (cont.) — Stage 1 Idea Generation (pre-checkpoint)
+- **Models/agents:** Claude (Claude Code remote session; drafting agent). No subagents this segment.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Close reading of the supplied texts in full: Quong 2012, McMahan 2005a, Burri 2025,
+  Burri 2022, Clark "As If", Clark 2025, Tadros 2012, Tadros 2021, Thomson 1991, Ferzan 2012, Frowe
+  2010; McMahan 2011 §§2–4; targeted reading of Quong 2009 (principle and means principle). Skimmed:
+  McMahan 2005b, McMahan 1994, Frowe 2008a/b, Tadros 2014. Wrote `WIP Docs/Literature Map/Reading
+  Notes — Round 1.md` (accounts, rationales, cases, objections, with `{n}` page markers for later
+  pinpoints). Built a case/objection inventory (22 recurring verdicts, 14 recurring objections) in
+  working notes. Generated **14 thesis candidates** in P/Q/R form with contribution type and
+  originality hypothesis (`WIP Docs/Candidates/Thesis Candidates v0.1.md`). Pre-screen result:
+  4 advance (C1 Conferral, C2 Knowledge-Norm, C9 Risk-Pool, C11 Present-Duty), 5 merged into C1
+  (C3, C6, C10, C12, C13), 5 killed (C4 duress counterexample; C5 already Tadros's view; C7 yields
+  symmetric permissions only; C8 anticipated by Frowe 2010/Chehtman 2017/Clark 2025; C14 misses the
+  brief). Wrote 4 ranked half-page Argument Sketches with premises, payoff, main objection, and crux
+  (`Argument Sketches v0.1.md`). Recommendation: Sketch A (Conferral Account).
+- **Selections:** none yet (CHECKPOINT 1 pending).
+- **Tools/retrieval:** WebSearch ×21 this segment. Originality and landscape queries: (1) Hohfeld/
+  power/conferral + mistaken attacker; (2) Kantian "hindering a hindrance" + liability; (3) "knowledge
+  norm" + self-defense; (4) Quong 2020 ch. 2 MSA formulation (found: "(a) the evidence-relative
+  permissibility of Φ-ing depends on the assumption that at least one person, B, lacks a [moral
+  right]..."); (5) jurisdiction + defensive harm; (6) Ripstein 1996 "Self Defense and Equal
+  Protection" (U. Pitt. L. Rev. 57: 685–724; risk-allocation view of reasonable mistakes);
+  (7) Chehtman 2017 Utilitas 29(3): 321–343; (8) Christie 2020 JAP 37: 378–392 (causation not
+  necessary); (9) Burri 2020 L&P 39(4): 381–408; (10) Frowe 2022 Crim L & Phil 16: 511–524 (token vs
+  type justification of incidental risk; critique of Quong); (11) Gordon-Solmon 2018 PPR 97(3):
+  543–567; (12) Lang, "Defensive Liability and the Moral Status Account" (argues the Driver/Mistaken
+  Attacker distinction cannot be sustained); (13) Frowe 2022 detail; (14) Renzo 2017 JPP 25(3):
+  324–342 (forfeiture incomplete/redundant); (15) Christie 2022 "Mortal Mistakes" JMP (MSA vs
+  culpability); (16) strict liability for intentional harming vs risk; (17) Fletcher reciprocity +
+  defensive harm (no development found); (18) consent analogy for mistaken attackers. WebFetch
+  attempted on plato.stanford.edu and d-nb.info: both **egress-blocked** (as in essay 1); only
+  search snippets and abstracts are reachable, so these sources are logged for request, not cited.
+- **Compliance flags:** none (no custodian input this segment).
+- **Approx. cost/time:** Human: 0. Machine: ~2.5 hours wall clock (reading ~120k words of source
+  text plus generation).
