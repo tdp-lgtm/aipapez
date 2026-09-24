@@ -9,7 +9,10 @@ is kept as the same point from the victim's side. Also: the three statuses named
 private-law stakes objection answered (3.9, 6.2); 6.2 answers fair allocation in the account's own
 terms before comparing burdens; the coerced attacker cut to a clause (4.2), so §4 is renumbered;
 §5's authority paragraphs shortened; "Restatement (Second) of Contracts §19"; "over him" added to
-the authority conferrer in both displays. Body 5,560. v0.1–v0.3 are in `Old versions/`.
+the authority conferrer in both displays; consistency edits in 5.4 ("another's judgment") and
+6.5 (cross-reference to 3.8); 3.1 marks violation as fact-relative and permission as
+evidence-relative. Body 5,560. Self-check (bullet-by-bullet diff against v0.3): every changed
+bullet is accounted for here. v0.1–v0.3 are in `Old versions/`.
 
 One bullet per planned paragraph: claim, example, source. Bracketed numbers are planned paragraph
 lengths. `(verify — #N)` = awaiting REQUESTS.md source N. Body budget 5,560 (+ abstract ~150, title
