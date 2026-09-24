@@ -417,3 +417,43 @@ methodology report.
 - **Selections:** none.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~40 min.
+
+## [2026-09-24] Session 1 (cont.) — Stage 7a and 7b (v1.3, v1.4)
+- **Models/agents:** Claude (drafting agent); prose-rewriter ×4 (sonnet), one each for sections
+  1–2, 3, 4–5 and 6–7. Four rather than seven (one per section) to use subagents sparingly.
+- **Human messages (verbatim):** none this segment.
+- **7a, register rewrite in fresh contexts.**
+  - Each rewriter received only its section text (extracted to `Scrap/7a/`), the one-sentence
+    thesis and the register-sample line ranges. Each calibrated on the model paragraphs and the
+    Style Guide and returned a memo (rewrite, change table, flags). All four stayed within +5%.
+  - The drafting agent applied the memos selectively (`Scrap/7a/*_applied.md`), assembled as
+    `Draft v1.3.md`.
+  - Accepted: splitting compressed sentences, flattening colon-reveals, the key term "confer" over
+    "supply", "the Conferral Account" over "the account" in §4, the ordinal list of Clark's four
+    problems, one paragraph split in §6, and two added one-line conclusions in §3.
+  - Rejected or corrected:
+    - (§4–5) a pronoun error introduced in the trolley verdict ("he is liable" for the female agent);
+    - (§6–7) a change of meaning ("the objection fails even on its own terms" for "the first reply
+      is in the account's own terms");
+    - (§3) the marksman sentence rewritten back into one plain sentence;
+    - (§1–2 and §4) splits that re-created sentence fragments.
+  - Flags acted on:
+    - the fact-/evidence-relative senses now defined before first use (§2, Quong 2012, 48);
+    - Burri's own reason for finding fault in the resident (duties "can stretch out over time",
+      Burri 2025 §4; checked in the text);
+    - "the driver" disambiguated;
+    - both versions of Clark's trolley case stated (five people versus two, checked against Clark
+      "As If" §III);
+    - the labels "argument from appearance" and "parity objection" introduced in §3;
+    - McMahan's first premise made explicit about killing;
+    - the contrast of the third objection with the first two named.
+  - Flags noted without change: that "the manager" is introduced in §1, and that the dense §3
+    paragraphs could not be thinned without cutting content.
+- **7b, condense and strip** (`Draft v1.4.md`): the self-edit sequence and ai-tells sweep; about 25
+  targeted edits merging over-split sentences, removing two redundant sentences in §6, and trimming
+  elsewhere. Body 5,860 → 5,771. No citation lost; 14 (verify) tags kept. `prose_lint.py` flags
+  dispositioned in the changelog. v1.2 and v1.3 moved to `Old versions/`.
+- **Next:** 7c cold read on a clean copy (`Scrap/7c/essay-v1.4-clean.md`, title and body only).
+- **Selections:** none.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~2.5 h (rewriters ran in parallel, 18–37 min each).
