@@ -220,3 +220,21 @@ methodology report.
 - **Tools/retrieval:** local reads and scripts only.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~45 min.
+
+## [2026-09-24] Session 1 (cont.) — 4B gate; Stage 4C fat outline v0.1
+- **Models/agents:** Claude (drafting agent); paper-auditor ×1 (sonnet) for the 4B gate.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** 4B gate APPROVE (first pass; the auditor spot-checked 8 page citations against
+  the source texts, 7 exact). Its one non-blocking note, that the Quong 2012 definition is on p. 67
+  and not "67–68", was checked against the text: the definition is on p. 67 (its tail displaced by a
+  footnote in the conversion) and restated in full on p. 72; 4C cites "67, 72". While the gate ran,
+  drafted `WIP Docs/Outline/Outline 4C Fat v0.1.md` from 4B v0.1: 44 paragraph bullets with planned
+  lengths (2,461 words of bullets). The draft is a working file only; the 4C rounds, argument-clinic
+  pass, referee memo and gate follow. A direct download of an open-access copy of source #3
+  (Bolinger 2021, PhilArchive) was refused by this session's permission settings; it stays on the
+  custodian request list, with the link added for convenience.
+- **Selections:** none.
+- **Tools/retrieval:** WebSearch ×3 (Ripstein's tort theory and the good-faith-mistake rule in
+  trespass; mistaken self-defence in tort; Ripstein 1996 and Bolinger 2021 records).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~40 min.

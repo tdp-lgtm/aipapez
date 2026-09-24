@@ -27,7 +27,7 @@
 
 ## Stage 4 — Layered outline
 - [x] 4A skeleton (lenses A, E; auditor gate) — `Outline 4A Skeleton v0.1.md`; lens A fix (enforcement premise moved to §2.4); "VERDICT: APPROVE — Stage 4A (Skeleton)'s claimed work is genuinely done. […] The agent may proceed to Stage 4B (Argument Outline)." (paper-auditor, haiku tier, 2026-09-24)
-- [ ] 4B argument outline (all six lenses; auditor gate)
+- [x] 4B argument outline (all six lenses; auditor gate) — `Outline 4B Argument v0.1.md`; "VERDICT: APPROVE — Outline 4B (Argument outline) for liability-defensive-harm's claimed work is genuinely done (files confirm it); the agent may proceed to Stage 4C" (paper-auditor, sonnet tier, 2026-09-24; 8 pinpoints spot-checked, 7 exact; non-blocking note: Quong 2012 "67–68" should be 67 (restated at 72), fixed in 4C)
 - [ ] 4C fat outline v0.1 (~1,800–2,400 words)
 - [ ] 4C round 1 — completeness: Coverage Map built, gaps closed
 - [ ] 4C round 2 — engagement: every key interlocutor in bullets
