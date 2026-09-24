@@ -71,7 +71,7 @@ methodology report.
   brief). Wrote 4 ranked half-page Argument Sketches with premises, payoff, main objection, and crux
   (`Argument Sketches v0.1.md`). Recommendation: Sketch A (Conferral Account).
 - **Selections:** none yet (CHECKPOINT 1 pending).
-- **Tools/retrieval:** WebSearch ×21 this segment. Originality and landscape queries: (1) Hohfeld/
+- **Tools/retrieval:** WebSearch ×18 this segment (count corrected from an erroneous "×21" after the Idea Selection audit; the 3 further searches were run in the next segment and are logged there). Originality and landscape queries: (1) Hohfeld/
   power/conferral + mistaken attacker; (2) Kantian "hindering a hindrance" + liability; (3) "knowledge
   norm" + self-defense; (4) Quong 2020 ch. 2 MSA formulation (found: "(a) the evidence-relative
   permissibility of Φ-ing depends on the assumption that at least one person, B, lacks a [moral
@@ -90,3 +90,48 @@ methodology report.
 - **Compliance flags:** none (no custodian input this segment).
 - **Approx. cost/time:** Human: 0. Machine: ~2.5 hours wall clock (reading ~120k words of source
   text plus generation).
+
+## [2026-09-24] Session 1 (cont.) — CHECKPOINT 1 (thesis selection)
+- **Models/agents:** Claude (Claude Code remote session).
+- **Human messages (verbatim):**
+  > (CHECKPOINT 1 selection, via interactive menu) "A: Conferral (Recommended)"
+- **AI actions:** Presented the four ranked sketches in plain English with a recommendation (A),
+  and reminded the custodian to register on OpenReview today. Saved the selected sketch to
+  `Brief/Argument Sketch.md` (text unchanged from v0.1).
+- **Selections:** Custodian selected Sketch A (Conferral Account) from 4 AI-generated, AI-ranked
+  options; A was the AI's top-ranked recommendation. A menu pick; no philosophical content added.
+- **Tools/retrieval:** none.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: <1 minute (one menu click). Machine: negligible.
+
+## [2026-09-24] Session 1 (cont.) — Stage 2 start: source request ping
+- **Models/agents:** Claude (Claude Code remote session).
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Verified three further bibliographic records by search (Lang 2022, *Washington
+  University Review of Philosophy* 2: 150–169; Clark 2023, *PPA* 51(1): 33–59; Ferzan 2017, *Legal
+  Theory* 23(3): 168–202). Wrote `Background Readings/REQUESTS.md` (17 source rows + 1 citation
+  query: 5 MUST, 4 HIGH, 5 MED, 3 LOW; free links given where found) and pinged the custodian in
+  chat with the prioritized list, stating that work continues meanwhile on the crux and the
+  Literature Map (dependent claims to be tagged `(verify — awaiting source #N)`).
+- **Selections:** none. (The request list is AI-composed; the custodian only fetches.)
+- **Tools/retrieval:** WebSearch ×3 (record verification).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0 so far. Machine: ~10 min.
+
+## [2026-09-24] Session 1 (cont.) — Idea Selection gate; Stage 2 Literature Map
+- **Models/agents:** Claude (drafting agent). Subagents: paper-auditor ×1 (haiku tier), resumed once.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Idea Selection gate: first verdict REVISE. The defect was real: the Stage 1 log
+  said "WebSearch ×21" but only 18 searches ran in that segment. Corrected the log and Checklist
+  (explicit correction note); the resumed auditor re-verified and returned APPROVE. Wrote
+  `Scrap/crux-memo-v0.1.md`, a five-step proposed solution to the sketch's crux: the conferral
+  principle; acting upon vs imposing risk; the independence argument; "whose act changes whose
+  position"; a contractualist comparison answering Bolinger/Ripstein. It also lists residual issues
+  (unknowing justification; selective liability; Lang; Frowe 2022; knowing side-effect harm). Wrote
+  `WIP Docs/Literature Map/Literature Map v0.1.md`: landscape table (5 families × verdicts on 4 test
+  cases), where the field is stuck, the open niche, 6 nearest neighbours distinguished, originality
+  verdict OPEN (moderate confidence) with a risk register, engagement plan, lenses E and Ac.
+- **Selections:** none.
+- **Tools/retrieval:** none new (built from Round 1 reading and the logged searches).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~40 min.

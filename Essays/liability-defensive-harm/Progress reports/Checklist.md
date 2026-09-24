@@ -8,15 +8,15 @@
 
 ## Stage 1 — Idea generation & selection
 - [x] ≥10 candidate contributions generated (WIP Docs/Candidates/) — 14 candidates in P/Q/R form with type and originality hypothesis (`Thesis Candidates v0.1.md`)
-- [x] Originality/significance pre-screen run (searches logged) — 21 WebSearch queries (Process Log, Stage 1 entry); verdict table: 4 advance, 5 merged into C1, 5 killed; WebFetch egress-blocked, so evidence is at abstract/snippet level
+- [x] Originality/significance pre-screen run (searches logged) — 18 WebSearch queries (Process Log, Stage 1 entry; count corrected after audit); verdict table: 4 advance, 5 merged into C1, 5 killed; WebFetch egress-blocked, so evidence is at abstract/snippet level
 - [x] Top 3–5 written up as Argument Sketches, ranked — 4 sketches (A Conferral, B Knowledge-Norm, C Risk-Pool, D Present-Duty) with premises, payoff, main objection, crux, ranking rationale (`Argument Sketches v0.1.md`)
-- [ ] CHECKPOINT 1 — sketch selected (by custodian / autonomously); saved to Brief/
-- [ ] Auditor gate — Idea Selection: <verdict line>
+- [x] CHECKPOINT 1 — sketch selected by custodian ("A: Conferral (Recommended)", 2026-09-24); saved to `Brief/Argument Sketch.md`
+- [x] Auditor gate — Idea Selection: first pass "VERDICT: REVISE" (real defect: Process Log claimed WebSearch ×21 for Stage 1, but 18 ran; count corrected); second pass "VERDICT: APPROVE — Stage 1 Idea Selection's claimed work is genuinely done (files confirm it); the agent may proceed to Stage 2 (Literature Review)." (paper-auditor, haiku tier, 2026-09-24)
 
 ## Stage 2 — Literature review
-- [ ] Active search done; key sources obtained or flagged
-- [ ] Literature Map with open-niche + originality verdict
-- [ ] Lenses E, Ac run
+- [x] Active search done; key sources obtained or flagged — 21 searches across Stages 1–2 (egress blocks all fetching, so only abstracts/snippets reachable); 17 sources + 1 citation query on `Background Readings/REQUESTS.md` (5 MUST, 4 HIGH, 5 MED, 3 LOW); custodian pinged 2026-09-24
+- [x] Literature Map with open-niche + originality verdict — `WIP Docs/Literature Map/Literature Map v0.1.md`: 5 families + cross-cutting positions, where the field is stuck, open niche, 6 nearest neighbours distinguished, verdict OPEN (moderate confidence) with a 4-item risk register, engagement plan
+- [x] Lenses E, Ac run — findings in Literature Map §7 (E: Bolinger/Ripstein and Lang known only at abstract level, requested as MUST; Ac: [T]/[A]/[R] evidence tags, `{n}` markers, pinpoint mapping still to do)
 - [ ] Auditor gate — Lit Review: <verdict line>
 
 ## Stage 3 — Plan
