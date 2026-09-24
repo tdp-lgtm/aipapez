@@ -170,3 +170,15 @@ methodology report.
 - **Tools/retrieval:** local scripts (marker counts).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~30 min.
+
+## [2026-09-24] Session 1 (cont.) — Plan gate
+- **Models/agents:** paper-auditor ×1 (haiku tier).
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Plan gate returned APPROVE on the first pass (budget arithmetic, versioning diff,
+  apparatus count, and view–argument consistency all verified). Appended a pre-outline stress test
+  to the crux memo (agent-relative prerogatives handled modularly; mutual mistake; authority scoped
+  to those within an authority's jurisdiction; omissions out of scope; careless appearance flagged
+  for 4B).
+- **Selections:** none.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~10 min.
