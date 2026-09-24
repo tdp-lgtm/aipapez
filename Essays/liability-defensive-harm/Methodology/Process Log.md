@@ -481,3 +481,27 @@ methodology report.
 - **Next:** 7c round 2 with a fresh cold reader on the v1.5 reading copy.
 - **Selections:** none. **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~40 min.
+
+## [2026-09-24] Session 1 (cont.) — Stage 7c round 2 (cold read of v1.5) and fixes (v1.6)
+- **Models/agents:** cold-reader ×1 (sonnet, fresh), given only the v1.5 reading copy.
+- **Human messages (verbatim):** none this segment.
+- **Cold read result:** one-read test passed with no mismatch. Friction 11, all new items; the
+  round-1 fixes held. Items:
+  - 4 re-read sentences;
+  - 2 definition hunts (Renzo unintroduced; Clark's "further worry" against "two objections");
+  - 1 apparatus-overload point (the trolley cases relied on in §2 before being described);
+  - 2 unearned steps (the blurred line; the burden reply redescribing rather than justifying);
+  - 1 register pattern (aphoristic paragraph closers).
+- **AI actions (v1.6):** all 11 items fixed. The burden reply now gives its reason: only one party
+  made a choice that put the stakes in play. The borderline-cases sentence is completed with an
+  explicit concession. Offsetting cuts:
+  - the ambulance-driver example;
+  - a second McMahan concession quote;
+  - one closing line.
+
+  Body 5,831. Wrote `Scrap/make_reading_copy.py`, a reusable script that strips the placeholder
+  tags for reading copies and fails on any leftover artifact. Made the v1.6 reading copy with it.
+- **Length note:** 5,831 + abstract (~120) + title and headings (~25) ≈ 5,976. The Stage 10 length
+  pass must find about 100 words. Rule for the referee loop: every addition must be offset.
+- **Selections:** none. **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~35 min.
