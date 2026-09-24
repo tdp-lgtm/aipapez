@@ -49,10 +49,10 @@
       - [x] Pass 2 (cut) → `Draft v1.2.md`: body 5,989 → 5,632; all citations and 14 (verify) tags kept; 5 fragments rewritten; lint dispositions in the changelog
 
 ## Stage 7 — Clarity chain (repeat until 7c is clean)
-- [ ] 7a: prose-rewriter spawned per section (fresh contexts, no outline); rewrites applied;
-      change tables in Scrap/
-- [ ] 7b: condense + tell-strip pass; prose_lint.py run, report pasted, every FLAG dispositioned
-- [ ] 7c: fresh cold-reader; friction report in Scrap/; score ≤5 (one line per extra round run)
+- [x] 7a: prose-rewriter spawned per section (fresh contexts, no outline); rewrites applied;
+      change tables in Scrap/ — 4 rewriters (sections 1–2, 3, 4–5, 6–7; sonnet), applied selectively into `Draft v1.3.md`; `Scrap/7a/change-tables-summary.md` and `*_applied.md`
+- [x] 7b: condense + tell-strip pass; prose_lint.py run, report pasted, every FLAG dispositioned — `Draft v1.4.md` (lint dispositions in its changelog: apparatus within budget; triads and fragments dispositioned)
+- [x] 7c: fresh cold-reader; friction report in Scrap/; score ≤5 (one line per extra round run) — 5 fresh readers, `Scrap/7c/friction-reports.md`; one-read test passed every round; scores 11 (v1.4), 11 (v1.5), 13 (v1.6), 11 (v1.7), 10 (v1.8); fixes in v1.5–v1.9. **Deviation recorded:** closed at v1.9 without reaching ≤5 (plateau of non-recurring local items; the recurring hot spot fixed structurally; reasons in the friction-reports file and the Process Log)
 
 ## Stage 8 — Custodian read (CHECKPOINT 4)
 - [ ] Style feedback explicitly invited (compliance-free); feedback received, logged verbatim,

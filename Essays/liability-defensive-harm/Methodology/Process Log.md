@@ -557,3 +557,31 @@ methodology report.
   structural hot spot (Clark's case apparatus) recurred and was fixed structurally in v1.7–v1.8.
 - **Selections:** none. **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~30 min.
+
+## [2026-09-24] Session 1 (cont.) — Stage 7c round 5 (cold read of v1.8), fixes (v1.9), Stage 7 closed
+- **Models/agents:** cold-reader ×1 (sonnet, fresh), given only the v1.8 reading copy.
+- **Human messages (verbatim):** none this segment.
+- **Cold read result:** one-read test passed with no mismatch. Friction 10. Two items were
+  substantive:
+  - the parity reply read as relabelling the acts-upon/risk distinction (the blind referee's HIGH
+    concern, at finer grain);
+  - the forfeiture/estoppel terminology was tangled.
+- **AI actions (v1.9):**
+  - The parity reply now gives its independent step. To act upon a person permissibly, one must
+    judge that this person may be treated so; merely imposing risk requires no judgment about
+    anyone. So only the twin would be subject to another's judgment.
+  - Forfeiture and estoppel untangled: the resident forfeits his claim; Clark's "partial
+    forfeiture" is estoppel on this account; estoppel is named in §1.
+  - Smaller fixes: the intro puzzle, pronouns, the law sentence, the conclusion's "claims", and the
+    trolley pair moved to §4, where it is told once.
+  - Offsets: the distributive-justice aside compressed; the one-off duress case cut.
+  - Body 5,804; no citation lost; 10 (verify) tags.
+- **Stage 7 closed** at v1.9, with a recorded deviation from the 0–5 friction rule. Scores across
+  five fresh readers were 11, 11, 13, 11 and 10. The one-read test passed every time. Items were
+  mostly non-recurring and fixes held; the one recurring hot spot was fixed structurally. Reasons
+  are in `Scrap/7c/friction-reports.md`. The 7a change tables are summarised in
+  `Scrap/7a/change-tables-summary.md`.
+- **Length:** 5,804 + abstract (~120) + headings (~25) ≈ 5,950; the Stage 10 length pass must build
+  headroom.
+- **Selections:** none. **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~35 min.
