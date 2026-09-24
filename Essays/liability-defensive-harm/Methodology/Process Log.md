@@ -505,3 +505,23 @@ methodology report.
   pass must find about 100 words. Rule for the referee loop: every addition must be offset.
 - **Selections:** none. **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~35 min.
+
+## [2026-09-24] Session 1 (cont.) — Stage 7c round 3 (cold read of v1.6) and fixes (v1.7)
+- **Models/agents:** cold-reader ×1 (sonnet, fresh), given only the v1.6 reading copy.
+- **Human messages (verbatim):** none this segment.
+- **Cold read result:** one-read test passed with no mismatch. Friction 13, clustered around one hot
+  spot: Clark's case apparatus (warehouse, hiker, the paired trolley cases) in §2 and its payoff in
+  §4. Quong's long quoted test was flagged by all three readers so far.
+- **AI actions (v1.7):**
+  - Structural fix: the paired trolley cases are no longer retold. The arbitrariness objection is
+    stated, and answered, in principle: whether an entitlement exists does not depend on what else
+    the agent's evidence would have supported, so the agent is liable in both cases.
+  - Dropped: Clark's third worry (an unintroduced aside); the repeated triad in §3; a tricolon
+    closer in §5.
+  - Quong's quotation shortened with an ellipsis.
+  - Restructured: two knotted sentences; the prerogative paragraph, which now separates the
+    pedestrian's question from the driver's liability.
+  - The necessity problem is now answered on its own terms.
+  - Body 5,787, with no citation lost.
+- **Selections:** none. **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~30 min.
