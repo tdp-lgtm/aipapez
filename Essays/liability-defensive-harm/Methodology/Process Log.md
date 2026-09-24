@@ -135,3 +135,38 @@ methodology report.
 - **Tools/retrieval:** none new (built from Round 1 reading and the logged searches).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~40 min.
+
+## [2026-09-24] Session 1 (cont.) — Stage 3 Plan
+- **Models/agents:** Claude (drafting agent). Subagent: paper-auditor ×1 (haiku) running the Lit
+  Review gate in the background.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Read the Essay Style Guide in full, Moves Catalog Part 1, and journal-craft
+  headings and red flags. Selected the structural moves: a three-case puzzle opening (variant of the
+  paired-cases opening), the reverse-engineering arc for the account, pre-emptive defence against
+  the deflationary reading ("Quong restated"), and reply-layering for the fair-allocation objection.
+  Chose register samples: Quong 2012 and Thomson 1991. Wrote `WIP Docs/Plan/Plan v0.1.md`: sharpest
+  thesis (Display 1 draft), the three-step move, 7 sections budgeted to 5,950 words (arithmetic
+  checked), dialectical structure with 4 planned concessions, apparatus within budget (1 view,
+  1 rival, 1 coined term, 3 named cases, 2 displays), central argument draft (8 steps, defence
+  locations named), evidence discipline, and six-lens review (one fix applied: a second coined term
+  dropped to stay within budget).
+- **Selections:** none.
+- **Tools/retrieval:** local file reads only.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~35 min.
+
+## [2026-09-24] Session 1 (cont.) — Lit Review gate; Plan v0.2
+- **Models/agents:** Claude (drafting agent); paper-auditor ×1 (haiku), resumed once.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Lit Review gate: first verdict REVISE. The defect was real: Ferzan 2005 was tagged
+  [T] but is not on disk; retagged [A]. A parallel mis-tag (Otsuka 1994) was found and fixed
+  unprompted. Re-verification APPROVE. Revised the Plan to v0.2 (v0.1 archived): a 5-step central
+  argument whose enforcement premise carries an explicit standing clause (without it, the displayed
+  argument would be false in bluff cases), and a matching estoppel clause in the statement of the
+  view. Computed marker-to-page mappings for 11 of the 14 main texts and recorded them in
+  `Converted text/README.md`; Frowe 2010's marker count does not match its printed range, so it
+  is flagged, not computed.
+- **Selections:** none.
+- **Tools/retrieval:** local scripts (marker counts).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~30 min.

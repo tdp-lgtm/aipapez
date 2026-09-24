@@ -17,11 +17,11 @@
 - [x] Active search done; key sources obtained or flagged — 21 searches across Stages 1–2 (egress blocks all fetching, so only abstracts/snippets reachable); 17 sources + 1 citation query on `Background Readings/REQUESTS.md` (5 MUST, 4 HIGH, 5 MED, 3 LOW); custodian pinged 2026-09-24
 - [x] Literature Map with open-niche + originality verdict — `WIP Docs/Literature Map/Literature Map v0.1.md`: 5 families + cross-cutting positions, where the field is stuck, open niche, 6 nearest neighbours distinguished, verdict OPEN (moderate confidence) with a 4-item risk register, engagement plan
 - [x] Lenses E, Ac run — findings in Literature Map §7 (E: Bolinger/Ripstein and Lang known only at abstract level, requested as MUST; Ac: [T]/[A]/[R] evidence tags, `{n}` markers, pinpoint mapping still to do)
-- [ ] Auditor gate — Lit Review: <verdict line>
+- [x] Auditor gate — Lit Review: first pass "VERDICT: REVISE" (real defect: Ferzan 2005 tagged [T] but not on disk; fixed to [A], and a parallel mis-tag on Otsuka 1994 found and fixed); second pass "VERDICT: APPROVE — Stage 2 Lit Review's evidence discipline is now verified complete. The agent may proceed to Stage 3 (Plan)." (paper-auditor, haiku tier, 2026-09-24; all 11 [T] sources checked on disk)
 
 ## Stage 3 — Plan
-- [ ] Plan: sharpest thesis; the move; section budgets ≤ 6,000; dialectical structure; argument labels
-- [ ] All six lenses run
+- [x] Plan: sharpest thesis; the move; section budgets ≤ 6,000; dialectical structure; argument labels — `WIP Docs/Plan/Plan v0.2.md` (v0.1 in Old versions): Conferral Account display with estoppel clause, 3-step move, 7 sections budgeted to 5,950, 4 planned concessions, apparatus within budget, 5-step central argument with defence locations
+- [x] All six lenses run — Plan §8 (one fix applied at v0.1: a second coined term dropped; v0.2 fixed the argument's validity for bluff cases with a standing clause)
 - [ ] Auditor gate — Plan: <verdict line>
 - [ ] CHECKPOINT 2 — custodian response (generic) applied & logged
 
