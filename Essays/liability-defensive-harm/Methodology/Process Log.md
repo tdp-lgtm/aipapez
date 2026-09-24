@@ -275,3 +275,32 @@ methodology report.
   wording).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~90 min.
+
+## [2026-09-24] Session 1 (cont.) — 4C blind referee memo folded in (v0.4)
+- **Models/agents:** Claude (drafting agent); referee ×1 (sonnet), blind.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** The blind referee read the v0.3 displays and bullets (no process header, no
+  summary, no leading questions). It reported four major concerns (HIGH: the fact/evidence asymmetry
+  at the crux was asserted rather than derived; MED: the account's three statuses were hidden in
+  Display 1; MED: the budget was tight where the crux needs room; LOW-MED: contractualist vocabulary
+  in the reply to the fair-allocation objection). It also named one missing objection (private law's
+  strict standards rest on cheap, reversible remedies, while defensive harm is lethal) and four minor
+  points. Its odds: about 20% finalist as planned, 45–50% after revision. Dispositions recorded in
+  `WIP Docs/Referee Reports/4C outline memo (blind referee) and dispositions.md`: all majors, the
+  missing objection and two minors accepted. The central change is a new first argument for the
+  crux, from authority, originated by the AI in response to the HIGH concern. Evidence gives a
+  permission, not a power over another; no private person's judgment binds another. So only the
+  person's own acts, the balance of claims and legitimate authority can permit acting upon him. The
+  careful driver passes no judgment on what the pedestrian may be subjected to. The difference
+  between the twin and the pedestrian is subjection, not luck. Kant's innate right (6:237) is
+  credited; its wording was confirmed by web search, while a second Kant passage (6:312) could not be
+  confirmed and is not quoted. Wrote `Outline 4C Fat v0.4.md` (45 paragraphs, 5,560-word body); v0.3
+  moved to `Old versions/`. Added source requests #20 (Kant, *Metaphysics of Morals*) and #21
+  (Ripstein 2009, *Force and Freedom*). One further repair made unprompted: 3.1 now says that
+  "violation" is fact-relative and "permission" evidence-relative, which blocks a Hohfeldian
+  objection (a liberty to attack would otherwise imply the twin has no claim).
+- **Selections:** none.
+- **Tools/retrieval:** WebSearch ×4 (two Kant passages; the venue of Clark's "As If", unresolved,
+  query #18 stays open).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~60 min (referee ~15 min).
