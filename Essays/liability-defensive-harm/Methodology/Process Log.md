@@ -457,3 +457,27 @@ methodology report.
 - **Selections:** none.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~2.5 h (rewriters ran in parallel, 18–37 min each).
+
+## [2026-09-24] Session 1 (cont.) — Stage 7c round 1 (cold read of v1.4) and fixes (v1.5)
+- **Models/agents:** cold-reader ×1 (sonnet, fresh), given only `Scrap/7c/essay-v1.4-clean.md`.
+- **Human messages (verbatim):** none this segment.
+- **Cold read result:** one-read test passed. The reader restated the thesis and argument with no
+  mismatch. Friction score 11 ("needs another round"), counted per pattern:
+  - 3 re-read sentences (Quong's quoted test; Display 1's exception clause; a trolley ellipsis);
+  - 2 definition hunts (Clark's "two background theories"; the short title "As If");
+  - 1 apparatus-overload point (several dated works per author, plus legal citations);
+  - 2 unearned steps and 1 soft one (why the balance of claims does not undercut the second
+    argument; why a surviving claim keeps necessity in force; the prerogative step);
+  - 2 register patterns: the 14 unresolved (verify) tags, the main drag; and four aphoristic
+    lines.
+- **AI actions (v1.5):** all items fixed except the verify tags, which are placeholders to be
+  discharged at Stage 10. From now on, reading copies for readers (cold reader, custodian,
+  referees) strip them, while the working draft keeps them. Display 1's exception reworded for
+  clarity with the same content. Both unearned steps walked through. Clark's two theories named
+  (checked: Clark 2025, sections V.A–B, pp. 442–50). Clark's "As If" now cited author-date as
+  "Clark n.d.". Two aphoristic lines flattened. "See Ripstein 2009" dropped. §4's premise map
+  shortened. Body 5,807 words. Made `Scrap/7c/essay-v1.5-reading-copy.md` (tags stripped; one
+  empty-parentheses artifact fixed by hand).
+- **Next:** 7c round 2 with a fresh cold reader on the v1.5 reading copy.
+- **Selections:** none. **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~40 min.
