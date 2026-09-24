@@ -362,3 +362,15 @@ methodology report.
 - **Compliance flags:** none. The essay text does not mention its authorship, the competition or
   its process.
 - **Approx. cost/time:** Human: 0. Machine: ~75 min.
+
+## [2026-09-24] Session 1 (cont.) — Draft v1.0 gate
+- **Models/agents:** paper-auditor ×1 (haiku).
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Draft v1.0 gate APPROVE (first pass). The auditor matched the draft to the locked
+  outline (7 sections, 45 paragraphs, 2 displays), confirmed the calibration log and the (verify)
+  tags, and verified the three source corrections against the texts (Burri 2025 §4 and §6.1; Clark
+  2025, 438–39; Burri 2025 §4, "Duress"). Its word count (5,952) includes the title and changelog
+  lines; the essay body is 5,737.
+- **Selections:** none.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~10 min.
