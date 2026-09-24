@@ -332,3 +332,33 @@ methodology report.
   outline `Outline 4C Fat v0.4.md` is locked as the drafting contract.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: ~1 minute. Machine: negligible.
+
+## [2026-09-24] Session 1 (cont.) — Stage 5: Draft v1.0
+- **Models/agents:** Claude (drafting agent).
+- **Human messages (verbatim):** none this segment.
+- **Calibration reads (before the first sentence):** `Playbook/Craft/model-paragraphs.md` in full;
+  register samples Quong 2012, pp. 45–50, and Thomson 1991, pp. 283–286 (read for how the
+  sentences move); `Playbook/Craft/prose-principles.md`; the Style Guide's apparatus and snap
+  budgets; `Playbook/Craft/moves-catalog.md` Part 2.
+- **AI actions:** Before drafting, re-checked against the source texts every case description and
+  quotation the prose would retell. Confirmed: the case wordings (Quong 2012, 53, 57, 61–62; McMahan
+  2005a, 387, 393, 397, 399, 403; Clark 2025, 430–33; Burri 2025 §4, §6.1), Thomson 1991, 301
+  ("agency is no more required …"), Ferzan 2012, 682 n. 49 ("all that morality can fairly ask of
+  them"), and McMahan 2005a, 394 (the driver's "couple of tons of steel", "it is fair that he should
+  suffer"; the difference is "of comparatively slight moral significance"). Found and corrected two
+  errors that had survived into the locked outline. (1) Burri's account does not clear the
+  resident: she holds him liable by finding an earlier fault (warned of a killer, he should not
+  have opened his door, 2025 §4), and she accepts non-liability only in her amended duped-soldiers
+  case (§6.1). §1 and §2 were written accordingly. (2) Clark's third problem for treating apparent
+  attackers as liable concerns an informed bystander's incentive to stay silent (2025, 438–39), not
+  "rewarding convincing threats". The coerced-attacker case is now credited to its source (Burri
+  2025 §4, "Duress"). Wrote `WIP Docs/Drafts/Draft v1.0.md` in one pass from `Outline 4C Fat v0.4.md`
+  (45 paragraphs, two displays, one paragraph per line). §6 first came out about 300 words short
+  and was unpacked to budget in the same pass (no new content). Body 5,737 words against a 5,560
+  plan. Ran `prose_lint.py`: apparatus within budget; the one banned phrase ("the upshot is") was
+  replaced; triads and fragments are carried to Stage 6. Items noticed but deliberately left for the
+  quality passes are in `Scrap/stage6-notes.md` (one precursor credit found: McMahan 2005a, 402).
+- **Selections:** none.
+- **Compliance flags:** none. The essay text does not mention its authorship, the competition or
+  its process.
+- **Approx. cost/time:** Human: 0. Machine: ~75 min.

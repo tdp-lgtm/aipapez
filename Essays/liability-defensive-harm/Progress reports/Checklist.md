@@ -37,9 +37,9 @@
 - [x] CHECKPOINT 3 — structure signed off; outline locked — custodian (interactive menu, 2026-09-24): "Approve (Recommended)". Locked: `WIP Docs/Outline/Outline 4C Fat v0.4.md`
 
 ## Stage 5 — Draft v1.0
-- [ ] Calibration reads done (model-paragraphs in full + register samples) and logged
-- [ ] Single full-density pass to section budgets; structure preserved; bullets UNPACKED into plain
-      sentences (compression does not survive); placeholders + (verify) tags
+- [x] Calibration reads done (model-paragraphs in full + register samples) and logged — `Craft/model-paragraphs.md` in full; register samples Quong 2012, pp. 45–50 and Thomson 1991, pp. 283–286; plus `Craft/prose-principles.md`, the Style Guide's budgets and `moves-catalog.md` Part 2 (Process Log, Stage 5 entry)
+- [x] Single full-density pass to section budgets; structure preserved; bullets UNPACKED into plain
+      sentences (compression does not survive); placeholders + (verify) tags — `WIP Docs/Drafts/Draft v1.0.md`: 45 paragraphs + 2 displays, body 5,737 words (plan 5,560); 13 (verify — #N) tags; two outline errors corrected against the sources (Burri's verdict on the resident; Clark's third problem); lint: apparatus within budget, triads and fragments carried to Stage 6
 - [ ] Lens Ac; Auditor gate — Draft v1.0: <verdict line>
 
 ## Stage 6 — Quality passes
