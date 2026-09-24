@@ -374,3 +374,28 @@ methodology report.
 - **Selections:** none.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~10 min.
+
+## [2026-09-24] Session 1 (cont.) — Stage 6 pass 1 (v1.1)
+- **Models/agents:** Claude (drafting agent).
+- **Human messages (verbatim):** none this segment.
+- **Calibration:** `Craft/model-paragraphs.md` (already read in full this session; re-scanned);
+  register sample, a fresh stretch: Quong 2012, pp. 55–57.
+- **AI actions:** Content pass on Draft v1.0, saved as `Draft v1.1.md`.
+  - Added, each checked against the source texts before use:
+    - McMahan's remark anticipating the knowing/unknowing line (2005a, 402);
+    - a police-marksman illustration of a known risk to a particular person;
+    - the source for Quong's treatment of bluffers as liable (2009, 519);
+    - Ferzan's point that the resident gambles either way (2012, 682 n. 49), accepted and redirected;
+    - McMahan's second argument for the driver's liability (as reconstructed by Quong 2012, 57), answered by modularity;
+    - McMahan's premise that the driver "will therefore violate" the pedestrian's right (2005a, 403), named and denied.
+  - Corrected after a full re-read: the private-law parallel had overstated the law. The law does
+    excuse reasonable mistakes in self-defence (Restatement (Second) of Torts §63, wording confirmed
+    by web search). The paragraph now claims only the property case (*Ranson*) and names the
+    self-defence privilege as the fair-allocation view answered in §6.
+  - Removed a duplicate, a false gloss, and an overclaim about the resident's avoidable burden.
+  - Self-check: a paragraph-level diff shows 12 changed paragraphs, all listed in the changelog.
+    v1.0 moved to `Old versions/`.
+- **Selections:** none.
+- **Tools/retrieval:** WebSearch ×1 (Restatement (Second) of Torts §63).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~45 min.

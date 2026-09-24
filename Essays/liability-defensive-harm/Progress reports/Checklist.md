@@ -45,6 +45,7 @@
 ## Stage 6 — Quality passes
 - [ ] Calibration reads fresh per pass; Pass 1 / Pass 2 / (Pass 3) — each a new version, changelog
       line, self-check
+      - [x] Pass 1 (content) → `Draft v1.1.md`: 5 additions, 3 removals, 1 overstatement corrected (private-law parallel vs. the self-defence privilege); self-check: bullet-level diff v1.0→v1.1 = 12 paragraphs, all in the changelog; body 5,989
 
 ## Stage 7 — Clarity chain (repeat until 7c is clean)
 - [ ] 7a: prose-rewriter spawned per section (fresh contexts, no outline); rewrites applied;
