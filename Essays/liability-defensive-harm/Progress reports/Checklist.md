@@ -43,9 +43,10 @@
 - [x] Lens Ac; Auditor gate — Draft v1.0: "VERDICT: APPROVE — Draft v1.0's claimed work is genuinely done" (paper-auditor, haiku tier, 2026-09-24; structure matched to the outline, bullets landed, the three source corrections verified against the texts)
 
 ## Stage 6 — Quality passes
-- [ ] Calibration reads fresh per pass; Pass 1 / Pass 2 / (Pass 3) — each a new version, changelog
-      line, self-check
+- [x] Calibration reads fresh per pass; Pass 1 / Pass 2 / (Pass 3) — each a new version, changelog
+      line, self-check (converged after pass 2: it changed no content)
       - [x] Pass 1 (content) → `Draft v1.1.md`: 5 additions, 3 removals, 1 overstatement corrected (private-law parallel vs. the self-defence privilege); self-check: bullet-level diff v1.0→v1.1 = 12 paragraphs, all in the changelog; body 5,989
+      - [x] Pass 2 (cut) → `Draft v1.2.md`: body 5,989 → 5,632; all citations and 14 (verify) tags kept; 5 fragments rewritten; lint dispositions in the changelog
 
 ## Stage 7 — Clarity chain (repeat until 7c is clean)
 - [ ] 7a: prose-rewriter spawned per section (fresh contexts, no outline); rewrites applied;

@@ -399,3 +399,21 @@ methodology report.
 - **Tools/retrieval:** WebSearch ×1 (Restatement (Second) of Torts §63).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~45 min.
+
+## [2026-09-24] Session 1 (cont.) — Stage 6 pass 2 (v1.2)
+- **Models/agents:** Claude (drafting agent).
+- **Human messages (verbatim):** none this segment.
+- **Calibration:** `Craft/model-paragraphs.md` re-scanned (in context from this session's full
+  read), with its negative specimen in view.
+- **AI actions:** Cut pass on v1.1, saved as `Draft v1.2.md`. The body went from 5,989 to 5,632
+  words, which leaves room for a ~150-word abstract under the 6,000 limit. No argument, case or
+  citation was removed, except one duplicated McMahan quotation. Five sentence fragments were
+  rewritten.
+  - Self-check (scripted): every citation in v1.1 is present in v1.2, and all 14 (verify) tags
+    survive.
+  - `prose_lint.py`: apparatus within budget. Fragments and triads dispositioned in the changelog;
+    triads are left for Stage 7b.
+  - Pass 2 changed no content, so Stage 6 is judged converged. v1.1 moved to `Old versions/`.
+- **Selections:** none.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~40 min.
