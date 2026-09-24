@@ -71,3 +71,28 @@ risk goes the other way: neither party decided anyone's fate, so the symmetric p
   driver's risk. Confirm her verdict on the driver (REQUESTS #4).
 - **Knowing side-effect harm** counts as acting upon (Warehouse, Justified Bomber). Statistical
   certainty over a population does not (the particular-person condition).
+
+## Addendum (pre-outline stress test, 2026-09-24)
+
+- **Defending against a nonliable threat** (the pedestrian and the careful driver; the falling
+  man). The defender acts upon the threat. So the account's verdict turns on whether an
+  agent-relative prerogative exists. If it does (Quong 2009), it is one more entitlement conferred
+  by the balance of reasons, and it exists only when the threat is real. If it does not (Tadros's
+  "priority of the status quo"), the defender needs a lesser-evil margin. The account is *modular*
+  here: readers plug in their view of prerogatives, and the verdicts on the driver's and the falling
+  man's liability do not change. Use the stipulation/modularity move in §4.
+- **Mutual mistake** (each reasonably thinks the other attacks). Whoever first acts upon the other
+  without entitlement becomes liable, and the other's response is then entitled. If the attacks are
+  truly simultaneous, both are liable to each other's defence. Same result as the Moral Status
+  Account; no special machinery.
+- **Legitimate authority, scoped.** Replace "legitimate public procedure" with "legitimate
+  authority over the person affected". Domestic officers acting under fair procedure over their own
+  jurisdiction's members confer evidence-based entitlements; so, arguably, do parents over young
+  children. Soldiers of even a legitimate state have no authority over foreign civilians or
+  combatants (no common authority between states), so their mistaken attacks are unentitled and
+  they are liable. This keeps Duped Soldiers liable even when the regime is legitimate but misled.
+- **Omissions** (the lifeguard). No acting upon, no risk imposed. Out of scope: rescue-duty
+  liability (Tadros 2012) is a different species.
+- **Careless appearance** (an actor rehearsing with a realistic gun in a crowded park). The account
+  as stated estops only *knowing* inducement. Option to extend to "knew or had reason to know"
+  (Restatement §19 standard, via Ferzan 2012 {340}). Decide at 4B; footnote either way.
