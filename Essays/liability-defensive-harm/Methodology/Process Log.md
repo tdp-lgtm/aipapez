@@ -193,3 +193,14 @@ methodology report.
 - **Selections:** Custodian approved the Plan (generic approval; no content supplied).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: ~1 minute. Machine: negligible.
+
+## [2026-09-24] Session 1 (cont.) — Stage 4A skeleton
+- **Models/agents:** Claude (drafting agent).
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Read essay 1's 4A file for the house format. Wrote `WIP Docs/Outline/Outline 4A
+  Skeleton v0.1.md`: 7 sections with budgets (sum 5,950), numbered jobs, exit states, and lenses
+  A and E (one fix applied: the enforcement premise moved from §3 to §2.4, so §2 ends by setting the
+  question §3 answers). Submitted to the 4A auditor gate.
+- **Selections:** none.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~20 min.
