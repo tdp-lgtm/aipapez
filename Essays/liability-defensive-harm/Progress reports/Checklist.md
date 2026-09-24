@@ -28,10 +28,10 @@
 ## Stage 4 — Layered outline
 - [x] 4A skeleton (lenses A, E; auditor gate) — `Outline 4A Skeleton v0.1.md`; lens A fix (enforcement premise moved to §2.4); "VERDICT: APPROVE — Stage 4A (Skeleton)'s claimed work is genuinely done. […] The agent may proceed to Stage 4B (Argument Outline)." (paper-auditor, haiku tier, 2026-09-24)
 - [x] 4B argument outline (all six lenses; auditor gate) — `Outline 4B Argument v0.1.md`; "VERDICT: APPROVE — Outline 4B (Argument outline) for liability-defensive-harm's claimed work is genuinely done (files confirm it); the agent may proceed to Stage 4C" (paper-auditor, sonnet tier, 2026-09-24; 8 pinpoints spot-checked, 7 exact; non-blocking note: Quong 2012 "67–68" should be 67 (restated at 72), fixed in 4C)
-- [ ] 4C fat outline v0.1 (~1,800–2,400 words)
-- [ ] 4C round 1 — completeness: Coverage Map built, gaps closed
-- [ ] 4C round 2 — engagement: every key interlocutor in bullets
-- [ ] Argument-clinic pass: memo in Scrap/; accepted fixes in outline
+- [x] 4C fat outline v0.1 (~1,800–2,400 words) — `Old versions/Outline 4C Fat v0.1.md`: 44 paragraph bullets, 2,461 words of bullets (drafted while the 4B gate ran)
+- [x] 4C round 1 — completeness: Coverage Map built, gaps closed — `4C Coverage Map v0.1.md`: 38 items (21 covered, 10 partial, 5 gaps, 2 deferred to source receipt); all partials and gaps closed in v0.2 except A5 (the missing standing premise), sent to the argument clinic and fixed in v0.3. Two accuracy fixes found on the way: Clark's trolley pair misdescribed (corrected), Quong's institutional example (now his own)
+- [x] 4C round 2 — engagement: every key interlocutor in bullets — Coverage Map, Round 2 table: all close and brief interlocutors placed; added Burri 2022's localisation argument, Gordon-Solmon (via Clark), Ferzan 2012 n. 72, Frowe 2010 §VI, Ripstein 2016 (new request #19); Christie, Otsuka, Hecht deferred until received (not cited unread)
+- [x] Argument-clinic pass: memo in Scrap/; accepted fixes in outline — `Scrap/argument-clinic-4C.md`: 8 findings (4 clear gaps, 4 a referee might press), all fixed in `Outline 4C Fat v0.3.md` (5,630-word body plan; 2,855 words of bullets, above the ~2,400 guide because of dense citations)
 - [ ] Blind referee memo on outline; accepted items folded in
 - [ ] Auditor gate — 4C FINAL: <verdict line>
 - [ ] CHECKPOINT 3 — structure signed off; outline locked

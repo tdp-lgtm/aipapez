@@ -238,3 +238,40 @@ methodology report.
   trespass; mistaken self-defence in tort; Ripstein 1996 and Bolinger 2021 records).
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~40 min.
+
+## [2026-09-24] Session 1 (cont.) — Stage 4C rounds 1–2 and the argument clinic
+- **Models/agents:** Claude (drafting agent); referee ×1 (sonnet) launched for the blind outline
+  memo.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** Built `WIP Docs/Outline/4C Coverage Map v0.1.md`, mapping 38 items (the central
+  argument's premises, the crux arguments and planned micro-objections, 13 cases, the planned
+  objections and concessions, and the Literature Map's originality risks) to bullets: 21 covered, 10
+  partial, 5 gaps, 2 deferred. Re-read the sources to close them: Clark "As If" §III (the trolley
+  pair had been misdescribed as differing in a hidden real justification; in fact only the agent's
+  evidence differs, and the account's verdict still holds); Quong 2012 n. 30 (his own institutional
+  example, the prison guard and the lawfully convicted innocent); Ferzan 2012, 690–91 and n. 72 (her
+  refusal of liability for negligently created appearances); Frowe 2010 §II and §VI (her verdict that
+  the unaware actor may defend himself); Burri 2022, 540, 545–46 (against the distributive framing);
+  Clark 2025, 442 (the distributive-justice quotations). AI decision on the open careless-appearance
+  question: estoppel extends to careless conduct ("knowingly or carelessly behaved like an
+  attacker"). Round 2 placed every interlocutor in the Literature Map's engagement plan. Wrote
+  `Outline 4C Fat v0.2.md`. Then ran the argument-clinic pass (`Scrap/argument-clinic-4C.md`) on
+  v0.2: 8 findings. The most serious: the definition of "acting upon" ("singles her out to bear a
+  risk") misclassified a known risk to a particular person (a sniper's risk to a hostage). It was
+  redefined as aiming to harm, restrain or use a person, or knowingly harming her, with the line at
+  practical certainty credited to tort law's definition of intent. Others: the displayed argument
+  lacked its standing premise (now six steps); "claims are against conduct" stated; the parity
+  objection answered where the independence argument is made; prerogatives placed in the balance of
+  claims; the source of authority's entitlement stated; the careless-estoppel standard derived from
+  the risk standard; "standing" defined. All fixed in `Outline 4C Fat v0.3.md`, with the body plan
+  re-set to 5,630 words because the abstract counts toward the limit. v0.1 and v0.2 moved to `Old
+  versions/`. Added source request #19 (Ripstein 2016, *Private Wrongs*). Made a blind copy of v0.3
+  without the process header (`Scrap/outline-for-referee-4C.md`) and launched one blind referee on
+  it with the standard template (lens: ethics of self-defence; no summary and no leading questions).
+- **Plan-level changes to flag at CHECKPOINT 3:** the coined term "acting upon" is redefined; the
+  estoppel clause now covers careless conduct; the central argument has six steps.
+- **Selections:** none.
+- **Tools/retrieval:** WebSearch ×2 (*Ranson v. Kitner* record; Restatement (Second) of Torts §8A
+  wording).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~90 min.
