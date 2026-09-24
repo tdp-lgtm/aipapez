@@ -26,7 +26,7 @@
 - [x] CHECKPOINT 2 — custodian response (generic) applied & logged — "Approve (Recommended)" via menu (2026-09-24); no changes needed; verbatim in Process Log
 
 ## Stage 4 — Layered outline
-- [ ] 4A skeleton (lenses A, E; auditor gate)
+- [x] 4A skeleton (lenses A, E; auditor gate) — `Outline 4A Skeleton v0.1.md`; lens A fix (enforcement premise moved to §2.4); "VERDICT: APPROVE — Stage 4A (Skeleton)'s claimed work is genuinely done. […] The agent may proceed to Stage 4B (Argument Outline)." (paper-auditor, haiku tier, 2026-09-24)
 - [ ] 4B argument outline (all six lenses; auditor gate)
 - [ ] 4C fat outline v0.1 (~1,800–2,400 words)
 - [ ] 4C round 1 — completeness: Coverage Map built, gaps closed

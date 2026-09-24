@@ -204,3 +204,19 @@ methodology report.
 - **Selections:** none.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~20 min.
+
+## [2026-09-24] Session 1 (cont.) — 4A gate; Stage 4B argument outline
+- **Models/agents:** Claude (drafting agent); paper-auditor ×1 (haiku) for the 4A gate.
+- **Human messages (verbatim):** none this segment.
+- **AI actions:** 4A gate APPROVE (first pass). Read essay 1's 4B for the house format. Wrote
+  `WIP Docs/Outline/Outline 4B Argument v0.1.md`: every section expanded into 2–4 sub-arguments
+  with examples and named sources, and journal page numbers from the marker mapping. Two mappings
+  were confirmed independently against page numbers other authors cite: Ferzan 2012, p. 675 (as
+  cited in Clark "As If") and McMahan 2011, pp. 555–56 (as cited in Clark 2025). After drafting,
+  every page number was checked against the marker map; three were wrong and were corrected
+  (Quong 2012, 51 n. 11; 64–67; Clark 2025, 453–54). Six-lens review in file (one gap fixed: the
+  duress case added to §4.2). Eight `(verify — #N)` tags across seven awaited sources.
+- **Selections:** none.
+- **Tools/retrieval:** local reads and scripts only.
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~45 min.
