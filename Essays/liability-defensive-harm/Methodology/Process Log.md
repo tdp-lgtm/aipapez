@@ -525,3 +525,35 @@ methodology report.
   - Body 5,787, with no citation lost.
 - **Selections:** none. **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~30 min.
+
+## [2026-09-24] Session 1 (cont.) — Stage 7c round 4 (cold read of v1.7) and fixes (v1.8)
+- **Models/agents:** cold-reader ×1 (sonnet, fresh), given only the v1.7 reading copy.
+- **Human messages (verbatim):** none this segment.
+- **Cold read result:** one-read test passed with no mismatch. Friction 11. Items:
+  - Display 1's pronouns;
+  - a double-negative sentence;
+  - the abstract paired cases, which were hard to picture after the round-3 simplification;
+  - a fact-/evidence-relative reuse;
+  - the fair-allocation view possibly confused with the distributive view;
+  - apparatus density at §2's Clark paragraph;
+  - an unearned dismissal of Lang;
+  - an abstract fourth problem;
+  - a rhetorical-question tic;
+  - unparallel numbering of the four replies.
+- **AI actions (v1.8):** all items fixed. Integrity point: the old reply to Lang characterised what
+  Lang's arguments target, but Lang 2022 is not on disk, so the claim could not be verified. It was
+  replaced by a reply on the merits. The Quong 2020 sentence was also removed until the book is in
+  hand. Offsets:
+  - the §1 rival sentence;
+  - the §6 response and its reply;
+  - the Burri 2020 and Frowe 2022 sentences in §3 (sources not yet received; to be re-added on
+    receipt if space allows);
+  - a concession clause;
+  - a duplicated conclusion sentence.
+
+  Body 5,754; 10 (verify) tags remain.
+- **Observation for the methodology report:** four fresh cold readers each logged 11–13 items, and
+  each passed the one-read test. The items were largely different each round, and fixes held. One
+  structural hot spot (Clark's case apparatus) recurred and was fixed structurally in v1.7–v1.8.
+- **Selections:** none. **Compliance flags:** none.
+- **Approx. cost/time:** Human: 0. Machine: ~30 min.
