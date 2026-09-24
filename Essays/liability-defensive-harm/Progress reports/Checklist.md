@@ -23,7 +23,7 @@
 - [x] Plan: sharpest thesis; the move; section budgets ≤ 6,000; dialectical structure; argument labels — `WIP Docs/Plan/Plan v0.2.md` (v0.1 in Old versions): Conferral Account display with estoppel clause, 3-step move, 7 sections budgeted to 5,950, 4 planned concessions, apparatus within budget, 5-step central argument with defence locations
 - [x] All six lenses run — Plan §8 (one fix applied at v0.1: a second coined term dropped; v0.2 fixed the argument's validity for bluff cases with a standing clause)
 - [x] Auditor gate — Plan: "VERDICT: APPROVE — Stage 3 (Plan) is genuinely complete. […] seven sections budgeted to 5,950 words (arithmetic verified) […] v0.2 changelog matches the actual diff […] The agent may proceed to Stage 4 (Layered Outline)." (paper-auditor, haiku tier, 2026-09-24)
-- [ ] CHECKPOINT 2 — custodian response (generic) applied & logged
+- [x] CHECKPOINT 2 — custodian response (generic) applied & logged — "Approve (Recommended)" via menu (2026-09-24); no changes needed; verbatim in Process Log
 
 ## Stage 4 — Layered outline
 - [ ] 4A skeleton (lenses A, E; auditor gate)

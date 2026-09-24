@@ -20,3 +20,4 @@ decisions, open questions, auditor verdicts, and what is needed from the custodi
 - Stage 3: Plan v0.1 drafted (7 sections, 5,950 words budgeted); awaiting the Plan gate, then
   CHECKPOINT 2 (custodian reads the plan).
 - Needed from the custodian: the requested papers (non-blocking) and OpenReview registration.
+- CHECKPOINT 2: custodian approved Plan v0.2 (2026-09-24). Next: Stage 4A skeleton outline.

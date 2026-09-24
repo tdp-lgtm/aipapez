@@ -182,3 +182,14 @@ methodology report.
 - **Selections:** none.
 - **Compliance flags:** none.
 - **Approx. cost/time:** Human: 0. Machine: ~10 min.
+
+## [2026-09-24] Session 1 (cont.) — CHECKPOINT 2 (Plan read)
+- **Models/agents:** Claude (drafting agent).
+- **Human messages (verbatim):**
+  > (CHECKPOINT 2, via interactive menu) "Approve (Recommended)"
+- **AI actions:** Presented Plan v0.2 in plain English (claim, seven sections, 5,950-word budget),
+  with an explicit reminder that feedback must stay generic under the competition rules. Offered
+  four responses: approve / something unclear / too ambitious / pause to read.
+- **Selections:** Custodian approved the Plan (generic approval; no content supplied).
+- **Compliance flags:** none.
+- **Approx. cost/time:** Human: ~1 minute. Machine: negligible.
